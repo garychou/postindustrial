@@ -1,12 +1,9 @@
 ---
 title: "Year 5"
 description:
-priority: 1
-layout: long.html
-fileMetaKeyHeadingsAllowed: 1
 ---
 
-# Working in Public
+## Working in Public
 
 **Gary:** There’s some context we should set up here because it’d be a shame if people thought [Entrepreneurial Design](http://entrepreneurdesigners.tumblr.com/about) was purely about teaching people about the operational minutiae of selling a product.
 
@@ -57,7 +54,7 @@ When the two of us started using Twitter (2008/2009), the magic was that it was 
 [Medium](http://www.medium.com) has and hasn’t become the new open mic-night. It’s easy for a newcomer to get the attention of established people, but it’s so public and the format of well-polished essays generates a lot of anxiety.
 
 
-# From Independence to Interdependence
+## From Independence to Interdependence
 
 > The value of the cohort is that it expands the surface area of lessons to be learned.
 
@@ -131,7 +128,7 @@ Even if you’re a brilliant writer, editor, and producer who somehow also knows
 **Gary:** It should be: “do it with a bunch of people who have your back.”
 
 
-# Developing a Practice of Momentum
+## Developing a Practice of Momentum
 
 > I’ve come to really appreciate the process of review as a weapon for getting past the cycle of doubt and uncertainty.
 
@@ -197,7 +194,7 @@ All of this is made easier the more you—in Nicole Fenton’s words—start wit
 ![](/images/s_6EA05FBDED74B3B6624B80BC9CB8928F1569A0C601B1FD4BA3D7A7789458DD99_1473893676239_hurdle-race-fail.gif)
 *The beloved GIF we use to explain what forward momentum can feel like*
 
-# Embracing Constraints
+## Embracing Constraints
 
 > Outcomes are out of our control. Nothing is guaranteed; we’re not entitled to success, and forward progress isn’t inevitable.
 
@@ -259,7 +256,7 @@ But we get to decide where we spend our attention, and we get to define some of 
 
 These are simple concepts to explain, but you can’t really understand them unless you go through it yourself.
 
-# For a Post-Industrial World
+## For a Post-Industrial World
 
 > Networks are the infrastructure for resilience—the financial and emotional, but also the creative and intellectual.
 
