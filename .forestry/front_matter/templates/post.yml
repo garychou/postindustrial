@@ -1,6 +1,6 @@
 ---
 label: Post
-hide_body: false
+hide_body: true
 fields:
 - name: title
   type: text
@@ -8,20 +8,11 @@ fields:
     required: false
   label: Title
   description: This is a title
-- name: body
-  type: textarea
-  default: ''
-  config:
-    required: false
-    wysiwyg: false
-    schema:
-      format: markdown
-  label: Body
-  description: This is the body
 - name: tags
   type: tag_list
   default: []
   label: Tags
   description: tags
 pages:
+- yay.md
 - index.md
