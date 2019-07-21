@@ -1,17 +1,15 @@
-+++
-body = "OH SO THIS IS A DIFFERENT BODY VS THE OTHER BODY"
-tags = ["food", "chicken wings", "pasta"]
-title = "Hi Everybody"
+# Hi Gary
 
-+++
+Ho
+
+![hi](/images/IMG_3856.JPG)
+
 # Hello World
 
-Hello
+whoa this is weird.
 
-What is going on here.  How do I add cool stuff?
+![a](/images/IMG_3856.JPG)
 
-![](/uploads/IMG_3856.JPG)
+![b](/images/IMG_8070.JPG)
 
-![](/uploads/IMG_8070.JPG)
-
-Cool, these are the photos.
+why did this file get loaded?
