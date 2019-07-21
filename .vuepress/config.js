@@ -4,8 +4,11 @@ module.exports = {
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Guide', link: '/guide/' },
-    ]
-  },
-  sidebar: 'auto'
+      { text: 'Year 5', link: '/year-5/' },
+    ],
+    lastUpdated: 'Last Updated',
+    activeHeaderLinks: true,
+    sidebar: 'auto',
+    sidebarDepth: 2
+  }
 }
