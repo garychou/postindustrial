@@ -4,13 +4,13 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: heading
+  label: Welcome
 - type: directory
   path: ''
   label: Docs
   create: all
   match: "**/*"
-- type: heading
-  label: Welcome
 - type: document
   path: about
   label: About
