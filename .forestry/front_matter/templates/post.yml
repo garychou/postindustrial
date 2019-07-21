@@ -23,3 +23,5 @@ fields:
   default: []
   label: Tags
   description: tags
+pages:
+- index.md
