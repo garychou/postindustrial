@@ -3,7 +3,33 @@ title: "Year 5"
 description:
 ---
 
-## Working in Public
+# Year 5
+
+Year 5 provides reflections on [Entrepreneurial Design](http://postindustrialdesign.school), a semester-long course at [School of Visual Arts MFA in Interaction Design](http://interactiondesign.sva.edu) that challenges the students to make $1,000 by launching an original idea out in the world.
+
+
+
+## Introduction
+By [Paul Ford](http://ftrain.com/)
+
+When I first heard about “Entrepreneurial Design” I had a near-panic attack. And I didn’t even have to take the class. You make the students do what? They have to raise how much money and ship a product? This is madness. Someone needs to stop it! But the students loved it and told me so—at least once it was over.
+
+“Entrepreneur” is an overloaded term—almost as bad as “startup.” But this part of entrepreneurship isn’t about how to craft third-quarter projections. Gary and Christina’s class is a lesson in hustle. The clock is ticking, so get your thoughts in order. TICK. Start selling your idea. TOCK. Raise money. TICK. TOCK. Until you’ve got something out in the world, in people’s hands. So maybe you could call this class “Design Hustling for Real.” But no one asks me to name things.
+
+Take note of what doesn’t happen here: The students don’t suddenly level up their programming or product management skills to some new, unexpected level. They don’t gain some immense technical understanding. They use the abilities and materials on hand. They don’t ask permission or wait for approval. They collaborate and get moving. I came to understand that this class didn’t give them new skills as much as it gave them a new context—a new way to see themselves as entrepreneurs. Maybe you could call this class “Entrepreneurial Self-image.”
+
+This program is the avowed enemy of bureaucracy, which is why it’s powerful. It’s designed to blow up entrenched modes of thought. It puts you on a deadline. And anyone who argues against deadlines argues against everything, good and bad, that makes us human. So maybe you could call it “Entrepreneurship on the Clock.”
+
+But none of those names capture the whole of what Gary and Christina have accomplished, so we should just stick with what works. And here we go. You’re lucky. It’s time for your own panic attack—here’s Entrepreneurial Design.
+
+
+## The Conversation
+
+Conversation between [Christina Xu](http://christinaxu.org/) and [Gary Chou](https://garychou.com) on June 20, 2016
+
+Edited by [Liz Danzico](http://bobulate.com)
+
+### Working in Public
 
 **Gary:** There’s some context we should set up here because it’d be a shame if people thought [Entrepreneurial Design](http://entrepreneurdesigners.tumblr.com/about) was purely about teaching people about the operational minutiae of selling a product.
 
@@ -54,7 +80,7 @@ When the two of us started using Twitter (2008/2009), the magic was that it was 
 [Medium](http://www.medium.com) has and hasn’t become the new open mic-night. It’s easy for a newcomer to get the attention of established people, but it’s so public and the format of well-polished essays generates a lot of anxiety.
 
 
-## From Independence to Interdependence
+### From Independence to Interdependence
 
 > The value of the cohort is that it expands the surface area of lessons to be learned.
 
@@ -128,7 +154,7 @@ Even if you’re a brilliant writer, editor, and producer who somehow also knows
 **Gary:** It should be: “do it with a bunch of people who have your back.”
 
 
-## Developing a Practice of Momentum
+### Developing a Practice of Momentum
 
 > I’ve come to really appreciate the process of review as a weapon for getting past the cycle of doubt and uncertainty.
 
@@ -194,7 +220,7 @@ All of this is made easier the more you—in Nicole Fenton’s words—start wit
 ![](/images/s_6EA05FBDED74B3B6624B80BC9CB8928F1569A0C601B1FD4BA3D7A7789458DD99_1473893676239_hurdle-race-fail.gif)
 *The beloved GIF we use to explain what forward momentum can feel like*
 
-## Embracing Constraints
+### Embracing Constraints
 
 > Outcomes are out of our control. Nothing is guaranteed; we’re not entitled to success, and forward progress isn’t inevitable.
 
@@ -256,7 +282,7 @@ But we get to decide where we spend our attention, and we get to define some of 
 
 These are simple concepts to explain, but you can’t really understand them unless you go through it yourself.
 
-## For a Post-Industrial World
+### For a Post-Industrial World
 
 > Networks are the infrastructure for resilience—the financial and emotional, but also the creative and intellectual.
 
