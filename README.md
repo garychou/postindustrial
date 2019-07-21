@@ -1,6 +1,10 @@
 ---
-tags = ["food", "chicken wings", "pasta"]
 title = "Hi Everybody"
+tags:
+- food
+- chicken wings
+- pasta
+
 ---
 
 # Hello World
