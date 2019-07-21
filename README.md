@@ -1,5 +1,5 @@
 ---
-title = "Hi Everybody"
+title: "Hi Everybody"
 tags:
 - food
 - chicken wings
