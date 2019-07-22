@@ -4,6 +4,7 @@ module.exports = {
   themeConfig: {
     search: false,
     nav: [
+      { text: 'Home', link: '/' },
       { text: 'Background', link: '/background/' },
       { text: 'Mission', link: '/mission/' },
       { text: 'Year 5', link: '/year-5/' },
