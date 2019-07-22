@@ -12,7 +12,7 @@ sections:
   create: all
   match: "**/*"
 - type: document
-  path: background
+  path: background/README.md
   label: Background
 upload_dir: public/images
 public_path: "/images"
