@@ -8,12 +8,12 @@ sections:
   label: Welcome
 - type: directory
   path: ''
-  label: Docs
+  label: Site
   create: all
-  match: "**/*.md"
+  match: "**/*"
 - type: document
-  path: about
-  label: About
+  path: background
+  label: Background
 upload_dir: public/images
 public_path: "/images"
 front_matter_path: ''
