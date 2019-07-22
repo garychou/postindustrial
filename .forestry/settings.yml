@@ -10,7 +10,7 @@ sections:
   path: ''
   label: Docs
   create: all
-  match: "**/*"
+  match: "**/*.md"
 - type: document
   path: about
   label: About
