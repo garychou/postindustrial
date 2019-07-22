@@ -21,3 +21,5 @@ why did this file get loaded?
 So this is the main page and I should be able to add a random cue component as needed.
 
 Oh, I should try to add the Russ & Daughters menu as a component to the site?  That would be pretty rad.
+
+I wonder what the experience is like trying to add a Vue component via the Forestry editor.  Does it do the right thing?
