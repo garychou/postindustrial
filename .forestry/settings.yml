@@ -20,7 +20,7 @@ sections:
   label: Year 5
 - type: directory
   path: ''
-  label: Browse
+  label: Browse All
   create: all
   match: "**/*"
 upload_dir: public/images
