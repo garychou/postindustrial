@@ -8,6 +8,8 @@ tags:
 ---
 # Hello World
 
+Hi everyone we're at show and tell.
+
 Whoa this is weird.  I kind of want the panels to not work the way they do.  That's kind of a bummer.
 
 So this is going to continually save?  I wonder when this will trigger a deploy?  Hmm...
