@@ -1,25 +1,12 @@
 {
-  "name": "postindustrial",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "docs:dev": "vuepress dev",
-    "docs:build": "vuepress build" 
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/garychou/postindustrial.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/garychou/postindustrial/issues"
-  },
-  "homepage": "https://github.com/garychou/postindustrial#readme",
   "dependencies": {
-    "vuepress": "^1.0.2"
+    "isotope-layout": "^3.0.6",
+    "tachyons": "^4.11.1",
+    "vueisotope": "^3.1.2",
+    "vuepress": "^1.0.3"
   }
 }

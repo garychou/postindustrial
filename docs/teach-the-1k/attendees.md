@@ -1,0 +1,182 @@
+---
+{
+  "attendees": [
+  {
+    "Name": "Carol Benovic-Bradley",
+    "Availability on 02/08/2019": "Yes!",
+    "How are you currently engaged in teaching, coaching, or organizing?": "I'm currently advising food & beverage projects launching on Kickstarter.\nStarting in 2019, I'll also be working on general \"education\" initiatives with Kickstarter to help all creators launching projects on the platform.",
+    "What are you hoping to get out of the 1K Workshop?": "In the next phase of my work at Kickstarter, I'd like to think about how we can continue to grow the community of Kickstarter creators. What are the methods that we haven't tried to find people who can benefit from this tool? Teach the 1K is interesting because the support provided in the classroom environment and the lower risk of the $1k project seems to remove a lot of the barriers to entry. I would love to think about how this could be scaled to other institutions (libraries, SBA, etc) through programs led by Kickstarter/Kickstarter partners.\n\nP.S. Kickstarter isn't forcing me to apply for this. I'm genuinely interested and these questions/thoughts are my own!",
+    "How did you hear about the 1K Workshop?": "Gary's Twitter",
+    "Email": "cbenovic@gmail.com",
+    "Action": "Yes",
+    "Gary Filter": "Consider",
+    "Gary Notes": "KSR",
+    "Status": "Confirmed",
+    "Photo": [
+      {
+        "id": "attHjdJVkiCzF8hEn",
+        "url": "https://dl.airtable.com/kNyrteDKSWufxBk9ZWev_carol.jpg",
+        "filename": "carol.jpg",
+        "size": 17690,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/15iSbkP0RfyajFEsb58X_small_carol.jpg",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/3k0JnbdSlyPd1Mjmu2AF_large_carol.jpg",
+            "width": 200,
+            "height": 200
+          },
+          "full": {
+            "url": "https://dl.airtable.com/Lxa9OtMtTwWq0aZxYDk0_full_carol.jpg",
+            "width": 200,
+            "height": 200
+          }
+        }
+      }
+    ],
+    "Bio": "Carol Benovic-Bradley (cabb) is a Community expert based in NYC who excels at helping people bring their creative ideas to life and connecting them to a supportive, motivating community. Over the years she’s worked with communities at Kickstarter, Pilotworks (RIP), Kaplan Test Prep, Empire Education Group, and Gannett. She’s also a contributor to Community Signal, WeSupportNYC, and #InternedUp. When she’s not working on those things, she’s either on her Peloton, playing Overwatch, Yelping, or watching wrestling.\n\nhttps://twitter.com/CarAnnBen\n",
+    "publishing status": "publish",
+    "cohort": "community",
+    "Markdown Bio": "**[Carol Benovic-Bradley](https://twitter.com/CarAnnBen)** (cabb) is a Community expert based in NYC who excels at helping people bring their creative ideas to life and connecting them to a supportive, motivating community. Over the years she’s worked with communities at Kickstarter, Pilotworks (RIP), Kaplan Test Prep, Empire Education Group, and Gannett. She’s also a contributor to Community Signal, WeSupportNYC, and #InternedUp. When she’s not working on those things, she’s either on her Peloton, playing Overwatch, Yelping, or watching wrestling.",
+    "Submitted": "2018-11-08T23:03:04.000Z",
+    "bio": "<p>Carol Benovic-Bradley (cabb) is a Community expert based in NYC who excels at helping people bring their creative ideas to life and connecting them to a supportive, motivating community. Over the years she’s worked with communities at Kickstarter, Pilotworks (RIP), Kaplan Test Prep, Empire Education Group, and Gannett. She’s also a contributor to Community Signal, WeSupportNYC, and #InternedUp. When she’s not working on those things, she’s either on her Peloton, playing Overwatch, Yelping, or watching wrestling.</p>\n<p><a href=\"https://twitter.com/CarAnnBen\">https://twitter.com/CarAnnBen</a></p>"
+  },
+  {
+    "Name": "Dominique Thomas",
+    "Availability on 02/08/2019": "Yes!",
+    "How are you currently engaged in teaching, coaching, or organizing?": "I work as a organzing with BYP100 which is a national organization of 18-35 youth organizers towards black liberation on all fronts. ",
+    "What are you hoping to get out of the 1K Workshop?": "I am hoping to bring the skills I learn in this workshop back to our organization.",
+    "How did you hear about the 1K Workshop?": "Christina XU",
+    "Email": "nique.thom@gmail.com",
+    "Action": "Yes",
+    "Gary Filter": "Clarify Intent",
+    "Gary Notes": "Aspirational?",
+    "Status": "Confirmed",
+    "Photo": [
+      {
+        "id": "attAt7d2UjmgtguxO",
+        "url": "https://dl.airtable.com/oDid2R3RKeZ71omFoK4Q_dominique.jpg",
+        "filename": "dominique.jpg",
+        "size": 19135,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/lt77beL9RTSN4Ub3ofkQ_small_dominique.jpg",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/LPYl0mznT02tXF78SZAX_large_dominique.jpg",
+            "width": 200,
+            "height": 200
+          },
+          "full": {
+            "url": "https://dl.airtable.com/T2bT399fTyWGNkZBmDfy_full_dominique.jpg",
+            "width": 200,
+            "height": 200
+          }
+        }
+      }
+    ],
+    "Bio": "My name is Dominique Thomas and I am a black activist, womanist, organizer and researcher in NYC. As an organizer, I am currently the Chapter Co-Chair of BYP100 NYC, which is a national member-based organization of 18-35-year-old black activists and organizers fighting for the social, economic, political and educational liberation of all black people, while operating through a black queer feminist lens.\n\nMy interests include the intersectionality of healthcare and white supremacy. I am particularly focused on understanding the nuances associated with the reproductive health of black mothers and black babies, given we 3 times more likely to die during childbirth. My future goals include working as a healthcare professional in black communities and conducting research to discover methods to combat the horrible outcomes black families face at the hands of healthcare. \n\nI hope Teach the 1K Workshop will connect me with other individuals who are emboldened to deconstruct systems of oppression and learn new ways of growing sustainably in the work that is important to me. \n\nhttps://byp100.org/byp100-nyc/\n",
+    "publishing status": "publish",
+    "cohort": "community",
+    "Markdown Bio": "My name is **Dominique Thomas** and I am a black activist, womanist, organizer and researcher in NYC. As an organizer, I am currently the Chapter Co-Chair of [BYP100 NYC](https://byp100.org/byp100-nyc/), which is a national member-based organization of 18-35-year-old black activists and organizers fighting for the social, economic, political and educational liberation of all black people, while operating through a black queer feminist lens.\n\nMy interests include the intersectionality of healthcare and white supremacy. I am particularly focused on understanding the nuances associated with the reproductive health of black mothers and black babies, given we 3 times more likely to die during childbirth. My future goals include working as a healthcare professional in black communities and conducting research to discover methods to combat the horrible outcomes black families face at the hands of healthcare. \n\nI hope Teach the 1K Workshop will connect me with other individuals who are emboldened to deconstruct systems of oppression and learn new ways of growing sustainably in the work that is important to me. ",
+    "Submitted": "2018-10-24T18:04:33.000Z",
+    "bio": "<p>My name is Dominique Thomas and I am a black activist, womanist, organizer and researcher in NYC. As an organizer, I am currently the Chapter Co-Chair of BYP100 NYC, which is a national member-based organization of 18-35-year-old black activists and organizers fighting for the social, economic, political and educational liberation of all black people, while operating through a black queer feminist lens.</p>\n<p>My interests include the intersectionality of healthcare and white supremacy. I am particularly focused on understanding the nuances associated with the reproductive health of black mothers and black babies, given we 3 times more likely to die during childbirth. My future goals include working as a healthcare professional in black communities and conducting research to discover methods to combat the horrible outcomes black families face at the hands of healthcare. </p>\n<p>I hope Teach the 1K Workshop will connect me with other individuals who are emboldened to deconstruct systems of oppression and learn new ways of growing sustainably in the work that is important to me. </p>\n<p><a href=\"https://byp100.org/byp100-nyc/\">https://byp100.org/byp100-nyc/</a></p>"
+  },
+  {
+    "Name": "Francesca Escoto",
+    "Availability on 02/08/2019": "Yes!",
+    "How are you currently engaged in teaching, coaching, or organizing?": "Currently, I work with organizations that foster entrepreneurship, designing curriculum for them, facilitating the teaching and coaching, and doing my own one-on-one coaching and course work.  I have worked with organizations such as Code2040, Society of Hispanic Professional Engineers, and currently, Black & Brown Founders.  Below are two links that can better explain my work as a certified coach, engineer, and entrepreneur.\ncoachfrancescaescoto.com\nstartupsforsocialimpact.com/blog\n",
+    "What are you hoping to get out of the 1K Workshop?": "I am in the process of developing curriculum for city-based/community-based bootcamps in two cities.  These bootcamps will be targeting individuals with very mixed cultural, linguistic, educational and socio-economic backgrounds.  I am looking for new tools that can facilitate learning of relevant entrepreneurship concepts in a diverse-learner classroom.  Furthermore, I am looking for tools that lend themselves for \"in real life\" as well as virtual learning experiences.\nFinally, I am looking for community that will allow me to continue learning.  Meeting others who are working in the same field as I is a very needed resource for me!",
+    "How did you hear about the 1K Workshop?": "I was referred to it by the Black & Brown Founders leader.",
+    "Email": "franchyescoto@gmail.com",
+    "Action": "Yes",
+    "Gary Filter": "Consider",
+    "Gary Notes": "Current Teacher; Professional Orgs\n",
+    "Status": "Confirmed",
+    "Photo": [
+      {
+        "id": "atta2PdaXBiiWtro3",
+        "url": "https://dl.airtable.com/5B9mq6XxRA6ejUiC5rCs_francesca.jpg",
+        "filename": "francesca.jpg",
+        "size": 35913,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/KeRPoJCuSSU0oQNGcc0M_small_francesca.jpg",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/uoY55A17ShmYjkMKSTUA_large_francesca.jpg",
+            "width": 200,
+            "height": 200
+          },
+          "full": {
+            "url": "https://dl.airtable.com/guwgcgzhS2WF1Z8cwtlm_full_francesca.jpg",
+            "width": 200,
+            "height": 200
+          }
+        }
+      }
+    ],
+    "Bio": "Francesca Escoto trains and coaches startups on effective prototyping and operations management. Her first venture was software to track the performance of aircraft engines, and for more than 15 years, she has been speaking, coaching and inspiring individuals and organizations to make an impact in their world through the wise use of technical resources.  Salsa dancing, talking life with her daughters, writing, and running fill up her free time.\n\nhttp://www.coachfrancescaescoto.com\nhttps://twitter.com/waofrancesca",
+    "publishing status": "publish",
+    "cohort": "service provider",
+    "Markdown Bio": "**[Francesca Escoto](http://www.coachfrancescaescoto.com)** trains and coaches startups on effective prototyping and operations management. Her first venture was software to track the performance of aircraft engines, and for more than 15 years, she has been speaking, coaching and inspiring individuals and organizations to make an impact in their world through the wise use of technical resources.  Salsa dancing, talking life with her daughters, writing, and running fill up her free time.",
+    "Submitted": "2018-10-29T18:27:24.000Z",
+    "bio": "<p>Francesca Escoto trains and coaches startups on effective prototyping and operations management. Her first venture was software to track the performance of aircraft engines, and for more than 15 years, she has been speaking, coaching and inspiring individuals and organizations to make an impact in their world through the wise use of technical resources.  Salsa dancing, talking life with her daughters, writing, and running fill up her free time.</p>\n<p><a href=\"http://www.coachfrancescaescoto.com\">http://www.coachfrancescaescoto.com</a>\n<a href=\"https://twitter.com/waofrancesca\">https://twitter.com/waofrancesca</a></p>"
+  },
+  {
+    "Name": "Heejin (Irene) Koo",
+    "Availability on 02/08/2019": "Yes!",
+    "How are you currently engaged in teaching, coaching, or organizing?": "I have been teaching social entrepreneurship to low-income, high-achieving high school students in New York City in partnership with Columbia University Double Discovery Center and Intrepid Museum. I have designed and taught a 6-week curriculum for the purpose, and I also led the organization of a one-day social entrepreneurship conference/pitch competition with 30+ high school students with student founders and established founders as speakers. Over the summer, I led a 5-day workshop to teach entrepreneurship to high school students in Amman, Jordan, and I am looking to expand the program to Brazil, India, Turkey, and Kenya. \nLink: https://globalcenters.columbia.edu/events/social-entrepreneurship-workshop-high-school-students",
+    "What are you hoping to get out of the 1K Workshop?": "Entrepreneurship and teaching are two of my primary passions, and I would love to meet with others from different backgrounds and shared interests. I believe that acquiring multiple perspectives and listening to interesting challenges that others may have faced would be valuable learning experiences. In addition, I am looking to expand my entrepreneurship education ventures to a non-profit organization, and I would love to meet more people in the space. ",
+    "How did you hear about the 1K Workshop?": "Angela Lee from Columbia Business School relayed this opportunity to me. ",
+    "Email": "hk2919@columbia.edu",
+    "Action": "Yes",
+    "Gary Filter": "Late",
+    "Gary Notes": "High school?",
+    "Status": "Confirmed",
+    "Photo": [
+      {
+        "id": "attgIyUXEaOCo2TYn",
+        "url": "https://dl.airtable.com/lkUHSME0SD4FR4FDd9Qy_heejin.jpg",
+        "filename": "heejin.jpg",
+        "size": 5647,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/u5HDUgPSREeNQACtqN0n_small_heejin.jpg",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/hivbPTIPQsShOVIkY2TK_large_heejin.jpg",
+            "width": 200,
+            "height": 200
+          },
+          "full": {
+            "url": "https://dl.airtable.com/o593UL6TV6DkKvP3aZtw_full_heejin.jpg",
+            "width": 200,
+            "height": 200
+          }
+        }
+      }
+    ],
+    "Bio": "Heejin (Irene) Koo is a junior at Columbia University passionate about intersections of different disciplines. Irene has shared her passions for teaching and social entrepreneurship on campus, throughout New York City, and globally. She co-led two semesters of a 6-week curricula for students in New York City in partnership with the Columbia University Double Discovery Center, and she co-founded the first annual high school social entrepreneurship conference in the fall of 2017. \n\nIn the summer of 2018, Irene also taught high school students in Amman, Jordan about social entrepreneurship through a fully-funded 5-day workshop, through which she introduced students to concepts and tools of entrepreneurship, connected them with founders, and coached students as they developed their own business ventures. While in Jordan, Irene met with founders and investors in the city, expanding her own understanding of entrepreneurship. She is currently working on expanding to Istanbul, Nairobi, Rio, and Mumbai.\n\nIrene is also fascinated by behavioral economics, environmental science, and logic puzzles. She is currently the president of the largest undergraduate group on campus, Columbia Organization of Rising Entrepreneurs. In her free time, she conducts research at the Earth Institute, is a venture fellow at New Enterprise Associates, and interns for Via, a rideshare startup.  \n\nhttps://globalcenters.columbia.edu/events/social-entrepreneurship-workshop-high-school-students\n",
+    "publishing status": "publish",
+    "cohort": "entrepreneurship education",
+    "Markdown Bio": "**Heejin (Irene) Koo** is a junior at Columbia University passionate about intersections of different disciplines. Irene has shared her passions for teaching and social entrepreneurship on campus, throughout New York City, and globally. She co-led two semesters of a 6-week curricula for students in New York City in partnership with the Columbia University Double Discovery Center, and she co-founded the first annual high school social entrepreneurship conference in the fall of 2017. \n\nIn the summer of 2018, Irene also taught high school students in Amman, Jordan about social entrepreneurship through a [fully-funded 5-day workshop](https://globalcenters.columbia.edu/events/social-entrepreneurship-workshop-high-school-students), through which she introduced students to concepts and tools of entrepreneurship, connected them with founders, and coached students as they developed their own business ventures. While in Jordan, Irene met with founders and investors in the city, expanding her own understanding of entrepreneurship. She is currently working on expanding to Istanbul, Nairobi, Rio, and Mumbai.\n\nIrene is also fascinated by behavioral economics, environmental science, and logic puzzles. She is currently the president of the largest undergraduate group on campus, Columbia Organization of Rising Entrepreneurs. In her free time, she conducts research at the Earth Institute, is a venture fellow at New Enterprise Associates, and interns for Via, a rideshare startup.",
+    "Submitted": "2018-11-10T03:01:54.000Z",
+    "bio": "<p>Heejin (Irene) Koo is a junior at Columbia University passionate about intersections of different disciplines. Irene has shared her passions for teaching and social entrepreneurship on campus, throughout New York City, and globally. She co-led two semesters of a 6-week curricula for students in New York City in partnership with the Columbia University Double Discovery Center, and she co-founded the first annual high school social entrepreneurship conference in the fall of 2017. </p>\n<p>In the summer of 2018, Irene also taught high school students in Amman, Jordan about social entrepreneurship through a fully-funded 5-day workshop, through which she introduced students to concepts and tools of entrepreneurship, connected them with founders, and coached students as they developed their own business ventures. While in Jordan, Irene met with founders and investors in the city, expanding her own understanding of entrepreneurship. She is currently working on expanding to Istanbul, Nairobi, Rio, and Mumbai.</p>\n<p>Irene is also fascinated by behavioral economics, environmental science, and logic puzzles. She is currently the president of the largest undergraduate group on campus, Columbia Organization of Rising Entrepreneurs. In her free time, she conducts research at the Earth Institute, is a venture fellow at New Enterprise Associates, and interns for Via, a rideshare startup.  </p>\n<p><a href=\"https://globalcenters.columbia.edu/events/social-entrepreneurship-workshop-high-school-students\">https://globalcenters.columbia.edu/events/social-entrepreneurship-workshop-high-school-students</a></p>"
+  }
+]
+}
+---
