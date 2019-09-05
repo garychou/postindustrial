@@ -8,7 +8,17 @@ sections:
   path: docs/teach-the-1k
   label: Teach the 1K
   create: all
-  match: "**/*"
+  match: "**/*.md"
+- type: directory
+  path: ''
+  label: "/docs/entrepreneurial-design"
+  create: all
+  match: "**/*.md"
+- type: directory
+  path: ''
+  label: "/docs/year-5"
+  create: all
+  match: "**/*.md"
 upload_dir: public/images
 public_path: "/images"
 front_matter_path: ''
