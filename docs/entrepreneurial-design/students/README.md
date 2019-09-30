@@ -265,4 +265,4 @@
 
 # From the Students
 
-<Quotes :quotes="$page.frontmatter.quotes"/>
+<Quotes :quotes="$page.frontmatter.quotes" />
