@@ -1,0 +1,37 @@
+---
+new_page_extension: md
+auto_deploy: false
+admin_path: ''
+webhook_url: 
+sections:
+- type: directory
+  path: docs/teach-the-1k
+  label: Teach the 1K
+  create: all
+  match: "**/*.md"
+- type: directory
+  path: docs/entrepreneurial-design
+  label: Entrepreneurial Design
+  create: all
+  match: "**/*.md"
+- type: directory
+  path: docs/year-5
+  label: Year 5
+  create: all
+  match: "**/*.md"
+upload_dir: public/images
+public_path: "/images"
+front_matter_path: ''
+use_front_matter_path: false
+file_template: ":filename:"
+instant_preview: 
+build:
+  preview_output_directory: ".vuepress/dist"
+  install_dependencies_command: npm install
+  preview_docker_image: node:10
+  mount_path: "/srv"
+  working_dir: "/srv"
+  instant_preview_command: vuepress dev -p 8080 -h 0.0.0.0
+  publish_command: vuepress build -d .vuepress/dist
+  output_directory: ".vuepress/dist"
+  preview_command: vuepress build -d .vuepress/dist
