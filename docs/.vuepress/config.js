@@ -1,5 +1,5 @@
 module.exports = {
-    title: 'Post-Industrial Design School',
+    title: 'Design School',
     description: 'Hello!',
     themeConfig: {
       search: false,
@@ -19,25 +19,11 @@ module.exports = {
               ]
             },
           ],
-          '/entrepreneurial-design/': [
-             {
-               title: 'Entrepreneurial Design',
-               collapsable: false,
-               children: [
-                 ['/entrepreneurial-design/', 'Overview'],
-                 '/entrepreneurial-design/lessons/',
-                 '/entrepreneurial-design/course-materials/',
-                 '/entrepreneurial-design/students/',
-                 '/entrepreneurial-design/reflections/',
-                 '/entrepreneurial-design/acknowledgments/',
-               ]
-             },
+        '/entrepreneurial-design/': [],
+         '/': [
+              '/',
           ],
-       '/': [
-            '/',
-        ],
       },
-      lastUpdated: 'Last Updated', // string | boolean
       nav: [
         { text: 'Home', link: '/'},
         { text: 'Teach the 1K', link: '/teach-the-1k/'},

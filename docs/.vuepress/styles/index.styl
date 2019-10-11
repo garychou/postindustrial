@@ -1,0 +1,53 @@
+.sidebar-heading.open
+  display: none
+
+header.navbar .site-name
+  font-size: 0.8rem
+  font-weight: 600
+  letter-spacing: 0.1em
+  text-transform: uppercase
+  color: #999
+
+header.navbar .site-name::before
+  content: "Post-Industrial "
+  color: #000;
+
+.navbar .nav-item a.nav-link
+  font-family: avenir next,avenir,sans-serif
+  color: rgba(0,0,0,.5)
+  opacity: 1
+  outline: 0
+  background-color: transparent
+  font-size: 0.875rem
+  padding: 0.4rem
+
+.navbar .nav-item a.nav-link
+  &:hover, &:link, &:visited
+    transition: color .15s ease-in
+  font-weight: 400
+
+.links .nav-item > a:not(.external):hover, .links .nav-item > a:not(.external).router-link-active
+  margin-bottom: 0
+  border-bottom: 0
+  background-color: #e3fce4
+  color: #4c9b3b
+  padding: 0.4rem
+
+  @media (min-width: 719px)
+    margin-bottom: 0
+    border-bottom: 0
+
+.sidebar
+  border: none
+  font-family: avenir next, avenir, sans-serif
+  font-size: 0.875rem
+  background-color: #f9f9fb
+
+body
+  background: #f9f9fb
+
+svg.icon.outbound
+  display: none
+
+a
+  font-weight: 600

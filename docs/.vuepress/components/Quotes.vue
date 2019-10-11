@@ -1,17 +1,16 @@
 <template>
-  <div>
+  <div class="w-100 ma0 pa0">
     <ClientOnly>
     <ul class="list pl0 pl4-ns pb4 center mw7 tc button-group">
       <li
         v-for="(val, key) in option.getFilterData"
-        class="dib mr2 avenir f5 db ph2 pv1 outline-0 no-underline"
+        class="dib mr2 avenir f5 ph2 pv1 outline-0 no-underline"
         :class="[key===filterOption? 'is-checked white br2 fw6' : 'black-40']"
         @click="filter(key)">{{ key }}
       </li>
     </ul>
   </ClientOnly>
-    <ClientOnly>
-      <isotope
+      <component :is="isotope" v-if="isotope"
             ref="quo"
             id="root_isotope2"
             :item-selector="'quote-item'"
@@ -24,29 +23,30 @@
             <div v-for="i,index in list"
               :class='[i.themes.join(" ")]'
               :key="index"
+              class="w-100 w-50-m w-third-ns ph3"
               >
-              <p class="avenir f5 i lh-copy black-80 mb0 mb0-ns">{{ i.quote }}</p>
-              <span class="avenir f5 lh-title db fs-normal mt2 mb4 mb5-ns black-80 fw5">—{{ i.author }}, <a rel="noopener noreferrer" class="avenir f5 link dim fw6 blue" :href="i.url">{{ i.title }}</a></span>
+              <p class="avenir f5 i lh-copy black-80 mb0 mb2-ns">{{ i.quote }}</p>
+              <span class="avenir f6 lh-title db fs-normal mt2 mb4 mb5-ns black-80 fw5">—{{ i.author }}, <a rel="noopener noreferrer" class="avenir f6 link dim fw6" :href="i.url">{{ i.title }}</a></span>
             </div>
-    </isotope>
-  </ClientOnly>
+    </component>
   </div>
 </template>
 
 <script>
 import Tachyons from 'tachyons';
+import resources from '../resources.json';
 
 export default {
   components: {
-    'isotope': () => import('vueisotope')
+//    'isotope': () => import('vueisotope')
   },
   name: 'Quotes',
-  props: ['quotes'],
   data () {
     return {
+      isotope: null,
       currentLayout:"masonry",
       sortOption: "original-order",
-      list: this.quotes,
+      list: resources.quotes,
       selected: null,
       filterOption: "show all",
       option:{
@@ -74,6 +74,11 @@ export default {
       }
     }
   },
+  mounted () {
+    import('vueisotope').then(module => {
+      this.isotope = module.default
+    })
+  },
   methods: {
     filter: function(key) {
     	this.$refs.quo.filter(key);
@@ -89,18 +94,18 @@ export default {
 
 
 .li:hover {
-  background-color: #8CF;
+  background-color: #ddd;
   text-shadow: 0 1px hsla(0, 0%, 100%, 0.5);
   color: #222;
 }
 
 .li:active,
 .li.is-checked {
-  background-color: #28F;
+  background-color: #ddd;
 }
 
 .is-checked {
-  background-color: #28F;
+  background-color: #ddd;
 }
 
 .li.is-checked {
@@ -111,17 +116,11 @@ export default {
 .li:active {
   box-shadow: inset 0 1px 10px hsla(0, 0%, 0%, 0.8);
 }
-
 /* ---- isotope ---- */
-
-.grid {
-  border: 1px solid #333;
-}
-
 
 /* clear fix */
 
-.grid:after {
+.isogrid:after {
   content: '';
   display: block;
   clear: both;
