@@ -83,7 +83,7 @@ Over the years, [we've](https://entrepreneurdesigners.tumblr.com/post/1578370835
 
                   <span class="flex bb b--near-white f7 fw6 ttu db mt4 mb3 ml1 mid-gray">Thanks</span>
                   <div class="flex flex-row flex-wrap items-center mt2 mb4">
-                  <div v-for="p in sortThanks(thanks[sets[0]])"  class="mb1 flex">
+                  <div v-for="p in thanks[sets[0]]"  class="mb1 flex">
                       <a
                     class="avenir fw5 ph1 link gray hover-near-black hover-bg-white br0 f7"
                     v-bind:class=p.role
@@ -139,18 +139,20 @@ export default {
         return Object.entries(this.syllabi).reverse();
     }
   },
+  mounted(){
+      for (var year in this.thanks) {
+        this.thanks[year].sort((a, b) => (a.name > b.name) ? 1 : -1)
+      }
+  },
   methods: {
     quotesByYear: function(y) {
       console.log(y);
+
       var results =  this.quotes.filter(obj => {
           return obj.year === y
         });
       console.log(results);
       return results;
-    },
-    sortThanks: function(r) {
-      r.sort((a, b) => (a.name > b.name) ? 1 : -1)
-      return r;
     }
   }
 }
