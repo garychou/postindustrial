@@ -1,14 +1,9 @@
 ---
 title: Year 5
 sidebar: auto
-sidebarDepth: 1
 pageClass: year5
-layout: LayoutYear5
-meta:
-  - title: "YAYAYAY"
-  - description: "WOOHOO"
 ---
-
+<Year5/>
 ::: slot details
 
 Conversation between [Christina Xu](http://christinaxu.org/) and [Gary Chou](https://garychou.com) on June 20, 2016\
