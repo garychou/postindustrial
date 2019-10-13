@@ -16,7 +16,7 @@ Edited by [Liz Danzico](http://bobulate.com)\
 Introduction by [Paul Ford](http://ftrain.com)
 
 <ImageCaption
- v-bind:url="['/year5/s_42FD3C04B7B503C990C3619E269FBB0C18BDC250A471A52735CC280C239EE4C5_1485269191543_file.png']"
+ v-bind:url="['/images/year5/s_42FD3C04B7B503C990C3619E269FBB0C18BDC250A471A52735CC280C239EE4C5_1485269191543_file.png']"
  imagewidth="w-100"
  >
 
@@ -48,7 +48,7 @@ This program is the avowed enemy of bureaucracy, which is why it’s powerful. I
 But none of those names capture the whole of what Gary and Christina have accomplished, so we should just stick with what works. And here we go. You’re lucky. It’s time for your own panic attack—here’s Entrepreneurial Design.
 
 <ImageCaption
- url="/year5/s_42FD3C04B7B503C990C3619E269FBB0C18BDC250A471A52735CC280C239EE4C5_1485236089203_file.png">
+ url="/images/year5/s_42FD3C04B7B503C990C3619E269FBB0C18BDC250A471A52735CC280C239EE4C5_1485236089203_file.png">
 
  *Class of 2013’s Guri Venstad’s [The Cheese Map](https://www.kickstarter.com/projects/thecheesemap/the-cheese-map)*
 
@@ -81,7 +81,7 @@ If you are prepared to react to those problems and anticipate them ahead of time
 Before, if you worked as a designer in a large company, there were other people to take care of figuring out how to mail 150 packages for you. You didn’t have to know that information. But as an independent creator, you can’t just brush that off and say, “this isn’t design; I’m not dealing with it.” The whole process is part of your design.
 
 <ImageCaption
- url="/year5/a2f2d57bbc4071abc6ee7e1bab05a322_original.gif">
+ url="/images/year5/a2f2d57bbc4071abc6ee7e1bab05a322_original.gif">
 
  *Class of 2015’s Mikey Chen and Sam Carmichael’s [The Upstanding Desk](https://www.kickstarter.com/projects/sccarmichael/the-upstanding-desk)*
 
@@ -96,7 +96,7 @@ Before, if you worked as a designer in a large company, there were other people 
 Students have to be willing to put themselves out there—to plant a flag—if they want to benefit from and leverage online networks. We try to ease them into it over the course of the semester with the smaller assignments and a weekly blogging requirement, but it’s been hard. Creating an online identity comes with much more anxiety than it did before.
 
 <ImageCaption
- url="/year5/s_42FD3C04B7B503C990C3619E269FBB0C18BDC250A471A52735CC280C239EE4C5_1485236136113_file.png">
+ url="/images/year5/s_42FD3C04B7B503C990C3619E269FBB0C18BDC250A471A52735CC280C239EE4C5_1485236136113_file.png">
 
  *Class of 2014 Xena Ni’s, [League of Ladies: Women’s Superhero Underwear](http://cargocollective.com/shellyxni/The-League-of-Ladies)*
 
@@ -113,7 +113,7 @@ When the two of us started using Twitter (2008/2009), the magic was that it was 
 [Medium](http://www.medium.com) has and hasn’t become the new open mic-night. It’s easy for a newcomer to get the attention of established people, but it’s so public and the format of well-polished essays generates a lot of anxiety.
 
 <ImageCaption
- url="/year5/s_42FD3C04B7B503C990C3619E269FBB0C18BDC250A471A52735CC280C239EE4C5_1485236235391_file.png">
+ url="/images/year5/s_42FD3C04B7B503C990C3619E269FBB0C18BDC250A471A52735CC280C239EE4C5_1485236235391_file.png">
 
  *Class of 2013 Sana Rao and Nikki Sylianteng launched [Post Card Poets](http://postcardpoets.com/)*
 
@@ -147,7 +147,7 @@ The course is intentionally designed to get the students to involve us (and othe
 **C:** It also helps because when you are thinking about your own project, everything seems hard, muddled, and you have no idea what the next step is. But for whatever reason, it's much easier to see what other people are going through and what their problems are. Giving somebody else the advice they need may actually help unblock you. Effectively, you’re just unlocking parts of your brain by tricking it to work on other people's problems.
 
 <ImageCaption
- url="/year5/s_6EA05FBDED74B3B6624B80BC9CB8928F1569A0C601B1FD4BA3D7A7789458DD99_1483747789808_ProductSessions2016.jpg">
+ url="/images/year5/s_6EA05FBDED74B3B6624B80BC9CB8928F1569A0C601B1FD4BA3D7A7789458DD99_1483747789808_ProductSessions2016.jpg">
 
  *Class of 2017 Saba Singh and David Al-Ibrahim meet with Advisor [George Rohac](https://twitter.com/grohac)*
 
@@ -168,7 +168,7 @@ When I was starting my campaign, I remember thinking, “I don’t have a suppor
 
 
 <ImageCaption
- url="/year5/107dc028f85d3e23f36f41227e29d956_original.jpg">
+ url="/images/year5/107dc028f85d3e23f36f41227e29d956_original.jpg">
 
  *Class of 2016 Datrianna Meeks’ [What Would Beyoncé Say](https://www.kickstarter.com/projects/1933280852/wwbs-what-would-b-say-playing-cards) succeeded at getting Beyonce’s attention.*
 
@@ -203,7 +203,7 @@ Even if you’re a brilliant writer, editor, and producer who somehow also knows
 **G:** It should be: “do it with a bunch of people who have your back.”
 
 <ImageCaption
- url="/year5/s_42FD3C04B7B503C990C3619E269FBB0C18BDC250A471A52735CC280C239EE4C5_1486194625661_file.png">
+ url="/images/year5/s_42FD3C04B7B503C990C3619E269FBB0C18BDC250A471A52735CC280C239EE4C5_1486194625661_file.png">
 
  *Christina’s zine, a reward produced for her Kickstarter campaign “[Multi Entry](https://www.kickstarter.com/projects/christinaxu/multi-entry-telling-the-stories-of-young-creative/)”*
 
@@ -226,8 +226,8 @@ Second, rather than having one-on-one time with each student, we organize the st
 
 
 <ImageCaption
- v-bind:url="['/year5/s_42FD3C04B7B503C990C3619E269FBB0C18BDC250A471A52735CC280C239EE4C5_1485242103307_file.png',
- '/year5/s_6EA05FBDED74B3B6624B80BC9CB8928F1569A0C601B1FD4BA3D7A7789458DD99_1483747612831_2016-02-10+20.00.09.jpg']"
+ v-bind:url="['/images/year5/s_42FD3C04B7B503C990C3619E269FBB0C18BDC250A471A52735CC280C239EE4C5_1485242103307_file.png',
+ '/images/year5/s_6EA05FBDED74B3B6624B80BC9CB8928F1569A0C601B1FD4BA3D7A7789458DD99_1483747612831_2016-02-10+20.00.09.jpg']"
  >
 
 *Students from the Class of 2017 chat with attendees after delivering their public talks*
@@ -265,8 +265,8 @@ That’s something students are not necessarily used to thinking about as part o
 
 
 <ImageCaption
- v-bind:url="['/year5/s_6EA05FBDED74B3B6624B80BC9CB8928F1569A0C601B1FD4BA3D7A7789458DD99_1483748001771_2016-01-20+15.56.01.jpg',
- '/year5/s_42FD3C04B7B503C990C3619E269FBB0C18BDC250A471A52735CC280C239EE4C5_1485241114009_file.png']"
+ v-bind:url="['/images/year5/s_6EA05FBDED74B3B6624B80BC9CB8928F1569A0C601B1FD4BA3D7A7789458DD99_1483748001771_2016-01-20+15.56.01.jpg',
+ '/images/year5/s_42FD3C04B7B503C990C3619E269FBB0C18BDC250A471A52735CC280C239EE4C5_1485241114009_file.png']"
  >
 
  *Students from the Class of 2017 (above) and the Class of 2018 (below) go through the ideation exercise at the beginning of the semester*
@@ -283,7 +283,7 @@ If you don’t know a lot of people, adopting a default mode of working in publi
 All of this is made easier the more you—in Nicole Fenton’s words—start with [Words as Material](http://nicolefenton.com/words-as-material/). Whether it’s in the form of blogging, or via our more structured [Working Backwards](https://docs.google.com/document/d/1l6d0vo6JrYKxxF2xcQgqTkvUndN7yy3FglhReMDZrp4/edit) document, this is how you plant a flag and see who shows up.
 
 <ImageCaption
- url="/year5/s_6EA05FBDED74B3B6624B80BC9CB8928F1569A0C601B1FD4BA3D7A7789458DD99_1473893676239_hurdle-race-fail.gif">
+ url="/images/year5/s_6EA05FBDED74B3B6624B80BC9CB8928F1569A0C601B1FD4BA3D7A7789458DD99_1473893676239_hurdle-race-fail.gif">
 
 *The beloved GIF we use to explain what forward momentum can feel like*
 
@@ -305,7 +305,7 @@ All of this is made easier the more you—in Nicole Fenton’s words—start wit
 **C:** Yeah, I think it’s the art of placing constraints in a way where you’re building an obstacle course that hints towards a set of outcomes. It’s game design, in a way.
 
 <ImageCaption
- url="/year5/s_42FD3C04B7B503C990C3619E269FBB0C18BDC250A471A52735CC280C239EE4C5_1485235856058_file.png">
+ url="/images/year5/s_42FD3C04B7B503C990C3619E269FBB0C18BDC250A471A52735CC280C239EE4C5_1485235856058_file.png">
 
  *Dior Vargas expanded the scope of her previous work with the [People of Color and Mental Illness Photo Project](https://www.kickstarter.com/projects/46719786/people-of-color-and-mental-illness-photo-project) in the Orbital 1K*
 
@@ -325,7 +325,7 @@ Time is also the element that’s missing from most speculative work. Speculativ
 
 
 <ImageCaption
- url="/year5/s_42FD3C04B7B503C990C3619E269FBB0C18BDC250A471A52735CC280C239EE4C5_1485235877938_file.png">
+ url="/images/year5/s_42FD3C04B7B503C990C3619E269FBB0C18BDC250A471A52735CC280C239EE4C5_1485235877938_file.png">
 
 *[Mohammed Fayaz](https://www.kickstarter.com/projects/1718232094/mojuicy-mac-a-mail-art-club) used the Orbital 1K to experiment with an alternative approach to build a business as an artist.*
 
@@ -347,7 +347,7 @@ It takes going through an experience like this to prove to yourself that you can
 Also, everything else we’ve talked about—the scaffolding—involves opening up and bringing other people into your world as collaborators, supporters, or coaches. You’re going to have an easier time convincing people to spend time with you if it’s clear to everyone that you genuinely care about your work.
 
 <ImageCaption
- url="/year5/s_42FD3C04B7B503C990C3619E269FBB0C18BDC250A471A52735CC280C239EE4C5_1486194749998_file.png">
+ url="/images/year5/s_42FD3C04B7B503C990C3619E269FBB0C18BDC250A471A52735CC280C239EE4C5_1486194749998_file.png">
 
 *David Mahmarian and Kohzy Koh’s [Designing for Autism](http://www.designingforautism.com)*
 
@@ -368,7 +368,7 @@ These are simple concepts to explain, but you can’t really understand them unl
 
 
 <ImageCaption
- url="/year5/s_42FD3C04B7B503C990C3619E269FBB0C18BDC250A471A52735CC280C239EE4C5_1485269191543_file.png">
+ url="/images/year5/s_42FD3C04B7B503C990C3619E269FBB0C18BDC250A471A52735CC280C239EE4C5_1485269191543_file.png">
 
 *Orbital 1K, drawn by [Moonsub Shin](https://www.instagram.com/p/3O54YOCSAN/) who launched [Moon’s Diary — Adventures in Europe](https://www.kickstarter.com/projects/118745650/moons-diary-adventures-in-europe)*
 
@@ -382,7 +382,7 @@ These are simple concepts to explain, but you can’t really understand them unl
 **G:** I’ll be honest, in the first two years, I had more of an agenda in terms of what I wanted to see. I would say that’s all but gone now. This really has nothing to do with the students, but [more with my own growth](http://blog.garychou.com/post/112791727772/in-2012-christina-cacioppo-and-i-were-invited-by). Anyone who is a creator experiences a constant tension between control and chance. When I started teaching, I was much more control-oriented in my outlook. As I’ve gotten older, and as I’ve gone through this class more times, I’m less so.
 
 <ImageCaption
- url="/year5/s_42FD3C04B7B503C990C3619E269FBB0C18BDC250A471A52735CC280C239EE4C5_1485236020190_file.png">
+ url="/images/year5/s_42FD3C04B7B503C990C3619E269FBB0C18BDC250A471A52735CC280C239EE4C5_1485236020190_file.png">
 
  *Iteration 1 of Entrepreneurial Design (2012), with co-teachers Christina Cacioppo and Gary Chou, and guest speaker Khoi Vinh.*
 

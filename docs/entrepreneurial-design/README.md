@@ -5,7 +5,7 @@ pageClass: entrepreneurialdesign
 sectiontitle: "What enables artists, entrepreneurs, and activists to be successful in today’s networked world?"
 sectionbyline: Christina Xu and Gary Chou
 sectionsubtitle: Fall 2018
-heroimage: "/class.png"
+heroimage: "/images/class.png"
 herocaption: Students from School of Visual Arts MFA in Interaction Design go through an ideation exercise at the beginning of the semester.
 layout: LayoutEd
 ---
