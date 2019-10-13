@@ -1,9 +1,11 @@
 module.exports = {
-    title: 'Post-Industrial Design School',
+    title: 'Design School',
     description: 'Hello!',
     themeConfig: {
       search: false,
       navbar: true,
+      activeHeaderLinks: true,
+      smoothScroll: true,
       sidebar:
        {
          '/teach-the-1k/': [

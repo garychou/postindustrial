@@ -8,7 +8,7 @@
           <span class="black-40 fw4">Design School</span>
         </span>
         <span class="db f7 f6-ns tc mb6 mb5-ns black-60">
-          A NYC-based Experiential Learning Lab
+          {{ $page.frontmatter.subtitle }}
         </span>
       </div>
 
@@ -21,14 +21,14 @@
             <div class="grow cover bg-center pv5 pv6-l" v-bind:style="{ backgroundImage: 'url(' + p.image + ')'}"></div>
           </a>
 
-          <span class="db f5 f4-ns mt3 mb1 black-90">
+          <span class="db f5 f4-l mt3 mb1 black-90">
             <a :href="p.url" class="link dim fw6">
                 {{ p.name }}
             </a>
-            <span class="dib fw4 br2 black-50 f7 ml2 sans-serif pa1 bg-black-05">{{ p.year }}</span>
+            <span class="dib fw4 br2 black-50 f7 ml1 lh-title sans-serif pa1 bg-black-05">{{ p.year }}</span>
           </span>
 
-          <h3 class="f6 f5-ns fw4 mt1 black-70 lh-copy measure-narrow">{{ p.description }}</h3>
+          <h3 class="f7 f6-m f5-ns fw4 mt1 black-70 lh-copy measure-narrow">{{ p.description }}</h3>
         </div>
       </article>
 
@@ -44,7 +44,7 @@
 
       <div class="w-100 w-50-m w-third-ns fn fl-ns pl4-m f6 black-70 avenir">
         <span class="bb b--near-white f7 fw5 tracked ttu db mt4 mb4 mb2-ns pl2-ns pb1 black-60">About</span>
-          <div class="measure-narrow-ns ml1 pa2-l center-ns" id="awesome">
+          <div class="measure-ns ml1 ph2 pv3-l ph4-l" id="awesome">
             <Content slot-key="about"/>
           </div>
       </div>

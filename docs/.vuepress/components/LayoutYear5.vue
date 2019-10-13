@@ -1,19 +1,29 @@
 <template>
   <Layout>
-   <template slot="page-top">
-
-     <div class="w-100 mw9 center pa3 pa4-ns measure avenir f6">
-       <Content slot-key="header"/>
-     </div>
-
-     <div class="w-100 mw9 center pa3 pa4-ns avenir" id="year5">
-       <div class="body center">
-         <Content slot-key="paul"/>
-        <Content slot-key="body"/>
+   <template slot="page-top" >
+       <div class="w-100 mw9 center pa3 pa4-ns measure avenir f4 f3-ns">
+        <h1 class="mb4 f-subheadline f-headline-ns">
+          {{ $frontmatter.title }}
+        </h1>
+        <div class="w-100 mw9 measure avenir f4 f3-ns mid-purple">
+         <Content slot-key="header"/>
+        </div>
+        <div class="w-100 mw9 measure-wide avenir f5">
+          <Content slot-key="details"/>
+        </div>
        </div>
 
-     </div>
-
+       <div class="w-100 mw9 center pa3 pa4-ns avenir" id="year5">
+         <div class="body center">
+           <Content slot-key="paul"/>
+           <Content slot-key="body"/>
+         </div>
+       </div>
+       <div class="w-100 mw9 center pa3 pa5-ns avenir" id="footer">
+         <div class="measure-wide center">
+           <Content slot-key="footer"/>
+         </div>
+       </div>
     </template>
   </Layout>
 </template>
@@ -36,6 +46,7 @@ export default {
     const paras = document.querySelectorAll('#year5 p, #year5 ul');
     const blockparas = document.querySelectorAll('blockquote p');
     const h = document.querySelectorAll('#year5 h2');
+    const links = document.querySelectorAll('.year5 p a');
 
     Array.from(paras).forEach((el) => {
       el.classList.add('f5','f4-ns','lh-copy','measure','center');
@@ -52,8 +63,14 @@ export default {
     });
 
     Array.from(h).forEach((el) => {
+      el.className ='';
       el.classList.add('tc', 'pv4','pv5-ns', 'mt5', 'f3','fw7','measure','center','avenir','lh-title');
     });
+
+    Array.from(links).forEach((el) => {
+      el.classList.add('link','dim');
+    });
+
 
   },
   methods: {
@@ -62,6 +79,22 @@ export default {
 </script>
 
 <style>
+.year5 .navbar .links, .year5 .navbar, .year5 .sidebar, .year5 {
+  background-color: rgb(254, 252, 255);
+}
+
+.year5 h1, .year5 h2, .year5 p {
+  color: #330933
+}
+
+.year5 .navbar {
+  border-bottom: 1px solid transparent;
+}
+
+.year5 h1 {
+    padding-top: 2rem;
+}
+
 #year5 .body ul li {
     margin-left: 1em;
     margin-bottom: 1em;

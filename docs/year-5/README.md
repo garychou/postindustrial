@@ -1,19 +1,34 @@
 ---
-title: "Year 5"
+title: Year 5
 sidebar: auto
 sidebarDepth: 1
 pageClass: year5
 layout: LayoutYear5
+meta:
+  - title: "YAYAYAY"
+  - description: "WOOHOO"
 ---
 
-::: slot header
-# Year 5
-
-Year 5 provides reflections on [Entrepreneurial Design](http://postindustrialdesign.school), a semester-long course at [School of Visual Arts MFA in Interaction Design](http://interactiondesign.sva.edu) that challenges the students to make $1,000 by launching an original idea out in the world.
+::: slot details
 
 Conversation between [Christina Xu](http://christinaxu.org/) and [Gary Chou](https://garychou.com) on June 20, 2016\
 Edited by [Liz Danzico](http://bobulate.com)\
 Introduction by [Paul Ford](http://ftrain.com)
+
+<ImageCaption
+ v-bind:url="['/year5/s_42FD3C04B7B503C990C3619E269FBB0C18BDC250A471A52735CC280C239EE4C5_1485269191543_file.png']"
+ imagewidth="w-100"
+ >
+
+*Orbital 1K, drawn by [Moonsub Shin](https://www.instagram.com/p/3O54YOCSAN/) who launched [Moon’s Diary — Adventures in Europe](https://www.kickstarter.com/projects/118745650/moons-diary-adventures-in-europe)*
+
+</ImageCaption>
+
+:::
+
+::: slot header
+
+Reflections on teaching [Entrepreneurial Design](http://postindustrialdesign.school), a semester-long course at [School of Visual Arts MFA in Interaction Design](http://interactiondesign.sva.edu) that challenges the students to make $1,000 by launching an original idea out in the world.
 
 :::
 
@@ -83,7 +98,7 @@ Students have to be willing to put themselves out there—to plant a flag—if t
 <ImageCaption
  url="/year5/s_42FD3C04B7B503C990C3619E269FBB0C18BDC250A471A52735CC280C239EE4C5_1485236136113_file.png">
 
- *Class of 2014 Shelly Ni’s, [League of Ladies: Women’s Superhero Underwear](http://cargocollective.com/shellyxni/The-League-of-Ladies)*
+ *Class of 2014 Xena Ni’s, [League of Ladies: Women’s Superhero Underwear](http://cargocollective.com/shellyxni/The-League-of-Ladies)*
 
  </ImageCaption>
 
@@ -107,7 +122,7 @@ When the two of us started using Twitter (2008/2009), the magic was that it was 
 
 ## From Independence to Interdependence
 
-**Christina**: One of the benefits of making the students work in the real world is that it puts all of us—the students *and* the instructors—on the same team. Whether the students hit their $1,000 goal is up to the world, not us. So in the course, we are their coaches and allies working with them, not grading or judging them. That’s quite alien for some of our students.
+**C:** One of the benefits of making the students work in the real world is that it puts all of us—the students *and* the instructors—on the same team. Whether the students hit their $1,000 goal is up to the world, not us. So in the course, we are their coaches and allies working with them, not grading or judging them. That’s quite alien for some of our students.
 
 **G:** I think that’s been one of the most important aspects of the design of the course. It reframes the classroom dynamic, which is traditionally competitive or about seeking approval in some form. And that traditional model is at odds with how how the process of creation works: most people think a course is a single-player game whereas it’s really much more of a multi-player game.
 
@@ -197,7 +212,7 @@ Even if you’re a brilliant writer, editor, and producer who somehow also knows
 
 ## Developing a Practice of Momentum
 
-**Christina**: There is a related thread here about developing a practice of momentum: how do you maintain weekly progress or make decisions when you’re stuck? How do you work through that cycle of doubt?
+**C:** There is a related thread here about developing a practice of momentum: how do you maintain weekly progress or make decisions when you’re stuck? How do you work through that cycle of doubt?
 
 > I’ve come to really appreciate the process of review as a weapon for getting past the cycle of doubt and uncertainty.
 
@@ -209,11 +224,15 @@ If you can build in a regular practice of checking in with other people who don�
 
 Second, rather than having one-on-one time with each student, we organize the students into groups where they critique each other, an idea that our fellow instructor [Leland Rechis](http://twitter.com/leland) came up with.
 
-![](/year5/s_42FD3C04B7B503C990C3619E269FBB0C18BDC250A471A52735CC280C239EE4C5_1485242103307_file.png)
 
-![](/year5/s_6EA05FBDED74B3B6624B80BC9CB8928F1569A0C601B1FD4BA3D7A7789458DD99_1483747612831_2016-02-10+20.00.09.jpg)
+<ImageCaption
+ v-bind:url="['/year5/s_42FD3C04B7B503C990C3619E269FBB0C18BDC250A471A52735CC280C239EE4C5_1485242103307_file.png',
+ '/year5/s_6EA05FBDED74B3B6624B80BC9CB8928F1569A0C601B1FD4BA3D7A7789458DD99_1483747612831_2016-02-10+20.00.09.jpg']"
+ >
+
 *Students from the Class of 2017 chat with attendees after delivering their public talks*
 
+</ImageCaption>
 
 Third, we have three public-facing milestones—evenly spaced throughout the semester—to help pace their progress:
 
@@ -244,9 +263,15 @@ For example, one of the questions we asked that might have been a little bewilde
 
 That’s something students are not necessarily used to thinking about as part of their coursework. But for us, it’s very integral to have their project actually be helpful to them because it drives them in a way that nothing else can. It also just gives them a starting place to think about ideas.
 
-![](/year5/s_6EA05FBDED74B3B6624B80BC9CB8928F1569A0C601B1FD4BA3D7A7789458DD99_1483748001771_2016-01-20+15.56.01.jpg)\
-![](/year5/s_42FD3C04B7B503C990C3619E269FBB0C18BDC250A471A52735CC280C239EE4C5_1485241114009_file.png)\
-*Students from the Class of 2017 (above) and the Class of 2018 (below) go through the ideation exercise at the beginning of the semester*
+
+<ImageCaption
+ v-bind:url="['/year5/s_6EA05FBDED74B3B6624B80BC9CB8928F1569A0C601B1FD4BA3D7A7789458DD99_1483748001771_2016-01-20+15.56.01.jpg',
+ '/year5/s_42FD3C04B7B503C990C3619E269FBB0C18BDC250A471A52735CC280C239EE4C5_1485241114009_file.png']"
+ >
+
+ *Students from the Class of 2017 (above) and the Class of 2018 (below) go through the ideation exercise at the beginning of the semester*
+
+</ImageCaption>
 
 
 **G:** The other key aspect was that it wasn’t a solitary exercise. We took them through multiple rounds where they would each look at and riff off each other’s work. I think that made it easier for them to get out of their own heads, and got the students involved in each other’s processes.
@@ -329,7 +354,7 @@ Also, everything else we’ve talked about—the scaffolding—involves opening 
 </ImageCaption>
 
 
-**Christina**: On the other hand, I have also seen many people—maybe more people—who *do* genuinely care about their projects bail.
+**C:** On the other hand, I have also seen many people—maybe more people—who *do* genuinely care about their projects bail.
 
 **G:** There are a lot of reasons why this may happen. You may care too much and be overwhelmed. You may be so invested in your idea that you’ll do anything to prevent its failure, including dragging your feet and sabotaging the project. Or, maybe it’s just not the right time.
 
@@ -402,6 +427,6 @@ As designers, we’re not always conscious of the power that we wield or the pos
 
 *Thanks to the [Orbital](http://orbital.nyc) members for the design feedback; and to all of our students for the lessons.*
 
-*For additional resources, syllabi, student reflections and more, visit the course archive: [postindustrialdesign.school](https://postindustrialdesign.school)*
+*For additional resources, syllabi, student reflections and more,  [visit the course archive](/entrepreneurial-design).*
 
 :::

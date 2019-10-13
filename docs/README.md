@@ -1,6 +1,6 @@
 ---
 title: Post-Industrial Design School
-subtitle: A NYC-based Experiential Learning Lab
+subtitle: An Experiential Learning Lab
 sidebar: false
 pageClass: homepage
 layout: LayoutHome
@@ -9,17 +9,17 @@ projects:
     url: /teach-the-1k
     year: 2019
     image: /t1k2.jpg
-    description: A workshop for entrepreneurship educators and activators
+    description: "How do we scale the impact of our work?"
   - name: Entrepreneurial Design
     url: /entrepreneurial-design
     year: 2018
     image: /class.png
-    description: An archive of course materials, student blog posts, talks and insights.
+    description: "What enables artists, entrepreneurs, and activists to be successful in today’s networked world?"
   - name: Year 5
     url: /year-5
     year: 2016
     image: /year5/s_42FD3C04B7B503C990C3619E269FBB0C18BDC250A471A52735CC280C239EE4C5_1485269191543_file.png
-    description: A conversation reflecting on the first 5 years of teaching.
+    description: Lessons learned from the first 5 years of the $1K Challenge.
 ---
 
 ::: slot mission

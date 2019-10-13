@@ -26,11 +26,18 @@ header.navbar .nav-item
     transition: color .15s ease-in
   font-weight: 500
 
-.links .nav-item > a:not(.external):hover, .links .nav-item > a:not(.external).router-link-active
+.links .nav-item > a:not(.external):hover
+  background-color: #F6E3FC
+  color: #5e2ca5
   margin-bottom: 0
   border-bottom: 0
-  background-color: #e3fce4
-  color: #4c9b3b
+  border-radius: 5px
+
+.links .nav-item > a:not(.external).router-link-active
+  margin-bottom: 0
+  border-bottom: 0
+  background-color: #F6E3FC
+  color: #5e2ca5
   padding: 0.4rem 0.6rem
   font-weight: 600
   border-radius: 5px
@@ -45,12 +52,10 @@ header.navbar .nav-item
   margin-left: 1rem
   padding-left: 0.5rem
 
-.year5 .sidebar
-  border: none
-  font-family: avenir next, avenir, sans-serif
-  font-size: 0.95rem
-
 .entrepreneurialdesign .sidebar-heading.open
+  display: none
+
+.year5 .sidebar-heading.open
   display: none
 
 body
@@ -62,3 +67,9 @@ svg.icon.outbound
 
 a
   font-weight: 600
+
+
+.year5 .sidebar
+  border: none
+  font-family: avenir next, avenir, sans-serif
+  font-size: 0.95rem
