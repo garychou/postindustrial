@@ -1,31 +1,28 @@
 ---
-title: Overview
-sidebarDepth: 3
+title: Post-Industrial Design School
+subtitle: A NYC-based Experiential Learning Lab
+sidebar: false
+pageClass: homepage
+layout: LayoutHome
+projects:
+  - name: Teach the 1K
+    url: /teach-the-1k
+    year: 2019
+    image: /t1k2.jpg
+    description: A workshop for entrepreneurship educators and activators
+  - name: Entrepreneurial Design
+    url: /entrepreneurial-design
+    year: 2018
+    image: /class.png
+    description: An archive of course materials, student blog posts, talks and insights.
+  - name: Year 5
+    url: /year-5
+    year: 2016
+    image: /year5/s_42FD3C04B7B503C990C3619E269FBB0C18BDC250A471A52735CC280C239EE4C5_1485269191543_file.png
+    description: A conversation reflecting on the first 5 years of teaching.
 ---
 
-# Background
-
-From 2014 through 2018, Christina Xu and Gary Chou have co-taught Entrepreneurial Design at School of Visual Arts [MFA in Interaction Design Program](http://interactiondesign.sva.edu/).
-
-Drawing from their collective experience working with a range of entrepreneurs — from independent creators to venture-backed startup founders — the course takes a first principles approach to entrepreneurship education, focusing on teaching two distinct abilities:
-
-1. **The ability to confront and navigate uncertainty:** How do you learn to sail into uncharted territory, to make decisions with incomplete data, to be open to the options that have yet to reveal themselves?
-
-2. **The ability to sustain and grow relevant networks:** How do you cultivate the groups of people relevant to your pursuit, from which you will access support, collaborators, resources and opportunities?
-
-These abilities are best developed through an experiential—rather than instructional—teaching approach. Blog posts, lectures and case studies will only get you so far. At some point, you need to “do” in order to learn.
-
-However, teaching experientially can be both unpredictable and unwieldy, so over the years, their work has coalesced around developing and refining a simple, but powerful tool, the **$1K Challenge:**
-
-> “Design, launch and complete a crowdfunding campaign that benefits a community you’ve worked with over the course of the semester.
-> The campaign should raise at least $1,000 from 50 different backers.”
-
-Over 100 students have taken the challenge, raising over $300K from thousands of backers [all out in the real world](https://youtu.be/e0Jsq6ZsARI?t=610). That said, the magic of the challenge isn’t in the amount of money raised—it’s in [the lessons learned along the way](https://postindustrialdesign.school/background#students):
-
-> “It’s about there being no right answers. About fighting the tendency to ask for approval or permission. About getting out of your head and engaging with the world.”
-—Nikki Sylianteng, 2012
-
-## Our Mission
+::: slot mission
 
 **There’s never been a more important time to prepare people to confront uncertainty,** yet we are under-resourced and unequipped as a society to do so at scale.
 
@@ -41,12 +38,37 @@ We believe that education has an important role to play in buffering society thr
 
 Through the past seven years of teaching and working with students, artists, entrepreneurs, and activists, we have learned that there are two fundamental abilities that help creators thrive in today’s chaos:
 
-The ability to confront and navigate uncertainty - The journey of creation requires sailing off into uncharted territory, with no preset right or wrong answers. Creators must develop practices for making decisions with incomplete data, recognizing the difference between an obstacle and a dead end, and reflecting on their progress honestly.
+* **The ability to confront and navigate uncertainty:** The journey of creation requires sailing off into uncharted territory, with no preset right or wrong answers. Creators must develop practices for making decisions with incomplete data, recognizing the difference between an obstacle and a dead end, and reflecting on their progress honestly.
 
-The ability to sustain and grow relevant networks - Networks of people who can provide a creator with advice, support, information, connections, or capital are critical infrastructure. Creators need to be just as intentional about developing this infrastructure as they are about the work itself.
+* **The ability to sustain and grow relevant networks:** Networks of people who can provide a creator with advice, support, information, connections, or capital are critical infrastructure. Creators need to be just as intentional about developing this infrastructure as they are about the work itself.
 
 While some people have more practice with or natural aptitude for these abilities, we know from experience that they can be taught effectively, and that doing so can yield profound results.
 
 We see these abilities as fundamental to an emerging and critical form of education, which draws from pedagogies like design and entrepreneurship education.
 
 We want to see more classrooms, training programs, and incubators teach these fundamental abilities to the people who need them the most.
+
+:::
+
+::: slot about
+
+[Christina Xu](http://christinaxu.org/) has taught Entrepreneurial Design along with Gary Chou at SVA's MFA in Interaction Design program from 2014 through 2018. She works as a freelance ethnographic researcher studying internet culture and social behavior around technology in the US and China. Her past projects include Letters for Black Lives, Awesome Foundation, and ROFLCon.
+
+[Gary Chou](https://garychou.com/) is founder of Orbital, a studio for building networks.  In addition to co-teaching with Christina, he’s been an advisor to Venture for America and Austin Center for Design.  Previously he was General Manager at Union Square Ventures, a venture capital firm based in New York City.  He’s held senior product management roles at a number of early stage consumer and enterprise startups.
+
+:::
+
+
+::: slot other
+
+The **$1K Challenge:**
+
+> “Design, launch and complete a crowdfunding campaign that benefits a community you’ve worked with over the course of the semester.
+> The campaign should raise at least $1,000 from 50 different backers.”
+
+Over 100 students have taken the challenge, raising over $300K from thousands of backers [all out in the real world](https://youtu.be/e0Jsq6ZsARI?t=610). That said, the magic of the challenge isn’t in the amount of money raised—it’s in [the lessons learned along the way](https://postindustrialdesign.school/background#students):
+
+> “It’s about there being no right answers. About fighting the tendency to ask for approval or permission. About getting out of your head and engaging with the world.”
+—Nikki Sylianteng, 2012
+
+:::

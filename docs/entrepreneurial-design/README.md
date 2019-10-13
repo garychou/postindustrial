@@ -1,11 +1,18 @@
 ---
 title: Entrepreneurial Design
 sidebar: false
+pageClass: entrepreneurialdesign
+sectiontitle: "What enables artists, entrepreneurs, and activists to be successful in today’s networked world?"
+sectionbyline: Christina Xu and Gary Chou
+sectionsubtitle: Fall 2018
+heroimage: "/class.png"
+herocaption: Students from School of Visual Arts MFA in Interaction Design go through an ideation exercise at the beginning of the semester.
+layout: LayoutEd
 ---
 
-::: slot overview
+::: slot body
 
-From 2012 - 2018, we ([Christina Xu](http://christinaxu.org/) and [Gary Chou](https://garychou.com/)) have explored this question primarily through our work co-teaching "Entrepreneurial Design", a semester-long compulsory course for first-year students at [School of Visual Arts MFA in Interaction Design](http://interactionsdesign.sva.edu/) program.
+From 2012 - 2018, we have explored this question primarily through our work co-teaching *Entrepreneurial Design*, a semester-long compulsory course for first-year students at [School of Visual Arts MFA in Interaction Design](http://interactionsdesign.sva.edu/) program.
 
 The course challenges students to:
 
@@ -31,6 +38,16 @@ Below is a repository of course materials, reflections from the instructors, stu
 
 :::
 
+::: slot sidebar
+
+**Acknowledgments**
+
+Entrepreneurial Design has evolved over the years thanks to the contributions and insights of our previous Entrepreneurial Design co-instructors, [Christina Cacioppo](https://twitter.com/christinacaci) (co-creator, 2012) and [Leland Rechis](https://twitter.com/leland) (2014, 2015), and the guidance of our department chair [Liz Danzico](https://twitter.com/bobulate).
+
+Special thanks to our School of Visual Arts [MFA in Interaction Design](http://interactiondesign.sva.edu) [Faculty and Staff](https://interactiondesign.sva.edu/people/faculty) colleagues. We've benefitted from the fact that the students bring with them the skills and insights developed in their other courses as well as within the experience of working together in the studio.
+
+:::
+
 ::: slot insights
 
 Teaching Entrepreneurial Design has taught us a lot about the benefits and challenges of experiential instruction.
@@ -50,15 +67,5 @@ Here’s an overview of some of the major instructional challenges we have encou
 5. **Students are systemically unprepared to deal with ambiguity.** In our class, there is often no “right answer,” which can be incredibly unnerving for students trained in an achievement-oriented mindset.
 
 6. **Personalized transformative experiences don’t scale.** In our model, students show up with different aspirations and skill-sets, then go on very individualized journeys. This means that what they need from us as instructors is eclectic and unpredictable, which requires a lot of emotional energy to manage.
-
-:::
-
-<Materials/>
-
-::: slot acknowledgments
-
-Entrepreneurial Design has evolved over the years thanks to the contributions and insights of our previous Entrepreneurial Design co-instructors, [Christina Cacioppo](https://twitter.com/christinacaci) (co-creator, 2012) and [Leland Rechis](https://twitter.com/leland) (2014, 2015), and the guidance of our department chair [Liz Danzico](https://twitter.com/bobulate).
-
-Special thanks to our School of Visual Arts [MFA in Interaction Design](http://interactiondesign.sva.edu) [Faculty and Staff](https://interactiondesign.sva.edu/people/faculty) colleagues. We've benefitted from the fact that the students bring with them the skills and insights developed in their other courses as well as within the experience of working together in the studio.
 
 :::

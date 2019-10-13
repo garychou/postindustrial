@@ -1,5 +1,5 @@
 module.exports = {
-    title: 'Design School',
+    title: 'Post-Industrial Design School',
     description: 'Hello!',
     themeConfig: {
       search: false,
@@ -28,7 +28,8 @@ module.exports = {
         { text: 'Home', link: '/'},
         { text: 'Teach the 1K', link: '/teach-the-1k/'},
         { text: 'Entrepreneurial Design', link: '/entrepreneurial-design/'},
-      ]
+        { text: 'Year 5', link: '/year-5/'},
+    ]
     },
     markdown: {
 
