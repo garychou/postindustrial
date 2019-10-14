@@ -19,7 +19,7 @@ projects:
     url: /year-5
     year: 2016
     image: /images/year5/s_42FD3C04B7B503C990C3619E269FBB0C18BDC250A471A52735CC280C239EE4C5_1485269191543_file.png
-    description: Lessons learned from the first 5 years of the $1K Challenge.
+    description: Lessons learned from teaching the $1K Challenge.
 ---
 
 ::: slot mission

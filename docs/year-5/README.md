@@ -3,7 +3,6 @@ title: Year 5
 sidebar: auto
 pageClass: year5
 conversationDate: June 20, 2016
-subtitle: Reflections on teaching the $1,000 Challenge.
 ---
 
 <Year5/>
@@ -12,7 +11,7 @@ subtitle: Reflections on teaching the $1,000 Challenge.
 
 ## Year 5
 
-Reflections on teaching the $1,000 Challenge.
+Lessons learned from teaching the $1,000 Challenge.
 
 :::
 
