@@ -1,6 +1,6 @@
 <template>
   <div>
-   <div class="w-100 mw9 center pa3 pa4-ns measure avenir f4 f3-ns">
+   <div class="w-100 mw9 center ph3 ph4-ns measure avenir f4 f3-ns">
     <h1 class="mb4 f-subheadline f-headline-ns">
       {{ $frontmatter.title }}
     </h1>
@@ -12,7 +12,7 @@
     </div>
    </div>
 
-   <div class="w-100 mw9 center pa3 pa4-ns avenir" id="year5">
+   <div class="w-100 mw9 center pa0 pa4-ns avenir" id="year5">
      <div class="body center">
        <Content slot-key="paul"/>
        <Content slot-key="body"/>
@@ -78,6 +78,18 @@ export default {
 <style>
 .year5 .navbar .links, .year5 .navbar, .year5 .sidebar, .year5 {
   background-color: rgb(254, 252, 255);
+}
+
+.year5 .sidebar {
+  border: none;
+  font-family: avenir next, avenir, sans-serif;
+  font-size: 0.95rem;
+  top: 21%;
+}
+
+
+.year5 .sidebar-heading.open {
+  display: none;
 }
 
 .year5 h1, .year5 h2, .year5 p {
