@@ -1,6 +1,6 @@
 ---
 title: Teach the 1K
-sidebar: false
+sidebar: true
 pageClass: entrepreneurialdesign
 sectiontitle: "How might we scale the impact of our work?"
 sectionbyline: Christina Xu and Gary Chou
@@ -21,3 +21,5 @@ This was our attempt at explaining to people what we've done.
 It was also a forcing function to figure out how to contextualize our work.
 
 :::
+
+LALALAL

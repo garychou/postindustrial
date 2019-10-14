@@ -2,13 +2,29 @@
 title: Year 5
 sidebar: auto
 pageClass: year5
+conversationDate: June 20, 2016
+subtitle: Reflections on teaching the $1,000 Challenge.
 ---
-<Year5/>
-::: slot details
 
-Conversation between [Christina Xu](http://christinaxu.org/) and [Gary Chou](https://garychou.com) on June 20, 2016\
-Edited by [Liz Danzico](http://bobulate.com)\
-Introduction by [Paul Ford](http://ftrain.com)
+<Year5/>
+
+::: slot titles
+
+## Year 5
+
+Reflections on teaching the $1,000 Challenge.
+
+:::
+
+::: slot credits
+
+Conversation by [Christina Xu](http://christinaxu.org/) and [Gary Chou](https://garychou.com) on June 20, 2016\
+Edited by [Liz Danzico](http://bobulate.com), chair & co-founder [MFA in Interaction Design](http://interactiondesign.sva.edu),  School of Visual Arts\
+Introduction by [Paul Ford](https://twitter.com/ftrain), Faculty MFA in Interaction Design, School of Visual Arts
+
+:::
+
+::: slot details
 
 <ImageCaption
  v-bind:url="['/images/year5/s_42FD3C04B7B503C990C3619E269FBB0C18BDC250A471A52735CC280C239EE4C5_1485269191543_file.png']"
@@ -18,12 +34,6 @@ Introduction by [Paul Ford](http://ftrain.com)
 *Orbital 1K, drawn by [Moonsub Shin](https://www.instagram.com/p/3O54YOCSAN/) who launched [Moon’s Diary — Adventures in Europe](https://www.kickstarter.com/projects/118745650/moons-diary-adventures-in-europe)*
 
 </ImageCaption>
-
-:::
-
-::: slot header
-
-Reflections on teaching [Entrepreneurial Design](http://postindustrialdesign.school), a semester-long course at [School of Visual Arts MFA in Interaction Design](http://interactiondesign.sva.edu) that challenges the students to make $1,000 by launching an original idea out in the world.
 
 :::
 
@@ -341,14 +351,6 @@ It takes going through an experience like this to prove to yourself that you can
 
 Also, everything else we’ve talked about—the scaffolding—involves opening up and bringing other people into your world as collaborators, supporters, or coaches. You’re going to have an easier time convincing people to spend time with you if it’s clear to everyone that you genuinely care about your work.
 
-<ImageCaption
- url="/images/year5/s_42FD3C04B7B503C990C3619E269FBB0C18BDC250A471A52735CC280C239EE4C5_1486194749998_file.png">
-
-*David Mahmarian and Kohzy Koh’s [Designing for Autism](http://www.designingforautism.com)*
-
-</ImageCaption>
-
-
 **C:** On the other hand, I have also seen many people—maybe more people—who *do* genuinely care about their projects bail.
 
 **G:** There are a lot of reasons why this may happen. You may care too much and be overwhelmed. You may be so invested in your idea that you’ll do anything to prevent its failure, including dragging your feet and sabotaging the project. Or, maybe it’s just not the right time.
@@ -363,9 +365,9 @@ These are simple concepts to explain, but you can’t really understand them unl
 
 
 <ImageCaption
- url="/images/year5/s_42FD3C04B7B503C990C3619E269FBB0C18BDC250A471A52735CC280C239EE4C5_1485269191543_file.png">
+ url="/images/year5/s_42FD3C04B7B503C990C3619E269FBB0C18BDC250A471A52735CC280C239EE4C5_1486194749998_file.png">
 
-*Orbital 1K, drawn by [Moonsub Shin](https://www.instagram.com/p/3O54YOCSAN/) who launched [Moon’s Diary — Adventures in Europe](https://www.kickstarter.com/projects/118745650/moons-diary-adventures-in-europe)*
+*David Mahmarian and Kohzy Koh’s [Designing for Autism](http://www.designingforautism.com)*
 
 </ImageCaption>
 

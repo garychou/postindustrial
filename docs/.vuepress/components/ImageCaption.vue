@@ -1,8 +1,8 @@
 <template>
-  <div class="w-100 tc">
-    <img v-for="u in items" :src="u" class="w-100 mt4 mt4-ns mb1-ns"
+  <div class="w-100 tc mt4 mv5-ns">
+    <img v-for="u in items" :src="u" class="w-100 mb1-ns ba b--black-10 pa0"
      :class="imagewidth ? imagewidth : 'w-70-ns'"/>
-    <span class="avenir f6 tc mb4 mb4-ns db lh-title">
+    <span class="avenir f6 tc mb4 mb4-ns db lh-title caption">
       <slot></slot>
     </span>
   </div>
@@ -26,19 +26,14 @@ export default {
       this.items.push(this.url);
     }
 
+  },
+  mounted() {
+    const captions = document.querySelectorAll('.caption p');
+
+    Array.from(captions).forEach((el) => {
+      el.className ='';
+      el.classList.add('tc', 'pv0','mv1');
+    });
   }
 }
 </script>
-<!--
-
-
-TODOs.
-
-2. Multiple images component
-3. A Name urls don't work, not scrolling.
-
---
-1. Fix Header Site name
-2. Style the header of Year 5
-4. Add the acknowledgments to the end of Year 5
--->

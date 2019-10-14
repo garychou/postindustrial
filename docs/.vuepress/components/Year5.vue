@@ -1,16 +1,17 @@
 <template>
   <div>
-   <div class="w-100 mw9 center ph3 ph4-ns measure avenir f4 f3-ns">
-    <h1 class="mb4 f-subheadline f-headline-ns">
-      {{ $frontmatter.title }}
-    </h1>
-    <div class="w-100 mw9 measure avenir f4 f3-ns mid-purple">
-     <Content slot-key="header"/>
+   <div class="w-100 mw9 center ph4-ns measure avenir f4 f3-ns">
+    <div class="w-100 mw9 avenir f4 lh-title fw5 mt0 pv0 titles">
+      <Content slot-key="titles"/>
     </div>
-    <div class="w-100 mw9 measure-wide avenir f5">
-      <Content slot-key="details"/>
+    <div class="w-100 mw9 avenir f5">
+      <Content slot-key="credits"/>
     </div>
-   </div>
+    <div class="w-100 mw9 avenir f4 f5-ns mid-purple">
+     <Content slot-key="details"/>
+    </div>
+
+  </div>
 
    <div class="w-100 mw9 center pa0 pa4-ns avenir" id="year5">
      <div class="body center">
@@ -18,7 +19,7 @@
        <Content slot-key="body"/>
      </div>
    </div>
-   <div class="w-100 mw9 center pa3 pa5-ns avenir" id="footer">
+   <div class="w-100 mw9 center pa3 pv5-ns avenir" id="footer">
      <div class="measure-wide center">
        <Content slot-key="footer"/>
      </div>
@@ -50,7 +51,6 @@ export default {
     });
 
     Array.from(blocks).forEach((el) => {
-      console.log(el);
       el.classList.add('ph0','f3','f1-ns','measure-narrow','tc','bl0','center');
     });
 
@@ -68,7 +68,6 @@ export default {
       el.classList.add('link','dim');
     });
 
-
   },
   methods: {
   }
@@ -76,15 +75,29 @@ export default {
 </script>
 
 <style>
-.year5 .navbar .links, .year5 .navbar, .year5 .sidebar, .year5 {
+.year5 .navbar, .year5 .navbar .links, .year5 .navbar, .year5 .sidebar, .year5 {
   background-color: rgb(254, 252, 255);
 }
 
 .year5 .sidebar {
   border: none;
   font-family: avenir next, avenir, sans-serif;
-  font-size: 0.95rem;
-  top: 21%;
+}
+
+.year5 .sidebar a {
+  font-size: 0.9rem;
+}
+
+@media screen and (min-width: 720px) {
+  .year5 .sidebar {
+    top: 21%;
+  }
+}
+
+@media screen and (max-width: 520px) {
+  .year5 ul.sidebar-links.sidebar-group-items li a.sidebar-link {
+    font-size: 0.8rem;
+  }
 }
 
 
@@ -92,8 +105,19 @@ export default {
   display: none;
 }
 
+.year5 .sidebar a, .year5 .navbar .links .nav-item a.nav-link {
+  color: #6b4e6b;
+}
+
+
+.year5 .sidebar a.active.sidebar-link {
+  color: #330933;
+  border-color: transparent;
+}
+
+
 .year5 h1, .year5 h2, .year5 p {
-  color: #330933
+  color: #330933;
 }
 
 .year5 .navbar {
@@ -113,4 +137,16 @@ export default {
   border-left: 0 !important;
 }
 
+.year5 .titles h2 {
+  font-size: 6rem;
+  margin: 0;
+  padding: 4rem 0 0 0;
+  line-height: 6rem;
+}
+
+.year5 .subtitle {
+  font-size: 1.25rem;
+  line-height: 1.25rem;
+  font-weight: 500;
+}
 </style>

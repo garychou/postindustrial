@@ -12,28 +12,28 @@
         </span>
       </div>
 
-      <div class="w-100 cf">
-      <span class="bb b--near-white f7 fw5 tracked ttu db mt4 mb3 pb1 ml1 black-60">Projects</span>
+      <div class="w-100 cf mb4">
+        <span class="bb b--near-white f7 fw5 tracked ttu db mt4 mb3 pb1 ml1 black-60">Projects</span>
 
-      <article v-for="p in $page.frontmatter.projects" class="mt3 mt0-ns fl w-100 w-50-m w-third-ns pa1-ns">
-        <div class="pa2">
-          <a :href="p.url" class="fl w-100 border-box overflow-hidden ba b--black-40 db mb3" title="">
-            <div class="grow cover bg-center pv5 pv6-l" v-bind:style="{ backgroundImage: 'url(' + p.image + ')'}"></div>
-          </a>
-
-          <span class="db f5 f4-l mt3 mb1 black-90">
-            <a :href="p.url" class="link dim fw6">
-                {{ p.name }}
+        <article v-for="p in $page.frontmatter.projects" class="mt3 mt0-ns fl w-100 w-50-m w-third-ns pa1-ns">
+          <div class="pa2">
+            <a :href="p.url" class="fl w-100 border-box overflow-hidden ba b--black-40 db mb3" title="">
+              <div class="grow cover bg-center pv5 pv6-l" v-bind:style="{ backgroundImage: 'url(' + p.image + ')'}"></div>
             </a>
-            <span class="dib fw4 br2 black-50 f7 ml1 lh-title sans-serif pa1 bg-black-05">{{ p.year }}</span>
-          </span>
 
-          <h3 class="f7 f6-m f5-ns fw4 mt1 black-70 lh-copy measure-narrow">{{ p.description }}</h3>
-        </div>
-      </article>
+            <span class="db f5 f4-l mt3 mb1 black-90">
+              <a :href="p.url" class="link dim fw6">
+                  {{ p.name }}
+              </a>
+              <span class="dib fw4 br2 black-50 f7 ml1 lh-title sans-serif pa1 bg-black-05">{{ p.year }}</span>
+            </span>
+
+            <h3 class="f7 f6-m f5-ns fw4 mt1 black-70 lh-copy measure-narrow">{{ p.description }}</h3>
+          </div>
+        </article>
 
       </div>
-
+      <div class="cf pb6">
       <div class="w-100 w-50-m w-two-thirds-ns fn fl-ns avenir" id="mission">
         <span class="w-90-ns bb b--near-white f7 fw5 tracked ttu db mt4 mb1 pb1 black-60">Mission</span>
         <div class="lh-copy measure-wide ml1 mt4 mt0-ns f6 f5-m f4-ns pa2-l">
@@ -48,6 +48,7 @@
             <Content slot-key="about"/>
           </div>
       </div>
+    </div>
 
   </div>
 </template>
