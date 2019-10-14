@@ -1,6 +1,8 @@
 ---
 title: Core Concepts
-sidebarDepth: 2
+sidebarDepth: 1
+pageClass: t1kguide
+
 ---
 
 # Core Concepts

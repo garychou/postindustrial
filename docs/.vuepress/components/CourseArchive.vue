@@ -109,9 +109,6 @@ export default {
 </style>
 
 <style scoped>
-.super-light-gray {
-  background: #f9f9fb;
-}
 
 th,td {
   border: 0;

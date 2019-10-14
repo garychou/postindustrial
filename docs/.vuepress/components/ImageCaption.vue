@@ -1,8 +1,10 @@
 <template>
   <div class="w-100 tc mt4 mv5-ns">
     <img v-for="u in items" :src="u" class="w-100 mb1-ns ba b--black-10 pa0"
-     :class="imagewidth ? imagewidth : 'w-70-ns'"/>
-    <span class="avenir f6 tc mb4 mb4-ns db lh-title caption">
+     :class="imagewidth ? imagewidth : 'w-70-l'"/>
+    <span class="avenir f6 tc mb4 mb4-ns db lh-title center caption"
+    :class="imagewidth ? imagewidth : 'w-70-l'"
+      >
       <slot></slot>
     </span>
   </div>
@@ -32,7 +34,7 @@ export default {
 
     Array.from(captions).forEach((el) => {
       el.className ='';
-      el.classList.add('tc', 'pv0','mv1');
+      el.classList.add('tc', 'pv0','mv1','center');
     });
   }
 }

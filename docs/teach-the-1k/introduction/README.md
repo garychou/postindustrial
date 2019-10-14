@@ -1,6 +1,7 @@
 ---
 title: Introduction
-sidebarDepth: 2
+pageClass: t1kguide
+
 ---
 
 # Introduction
@@ -13,16 +14,23 @@ We didn’t really know what to expect. However, we were pleasantly surprised. O
 
 We got exactly what we wanted—which is a group of educators and activators  doing a wide range of work, working within different organizations and communities in different functions, all of whom fit this definition.
 
+### What this is and isn't about
+
 ![image alt text](./images/image_0.png)
 
 The course we designed turned out not to be about what the tech industry tends to think of as business fundamentals, like how to raise VC or build an MVP, but rather about how to get started when you have an inkling of an idea. Fundamentally, we have been exploring the question: "What enables artists, entrepreneurs, and activists to be successful in today’s networked world?"
 
 After 10 iterations of teaching it, our current best answer to this is: the abilities to **confront and navigate uncertainty**, and to **grow and sustain relevant networks**.
 
+### Teaching through challenges
+
 The best way we have figured out how to teach these two skills is through something we call the $1K Challenge, which we first developed at the School of Visual Arts’ MFA in Interaction Design program. In 2018, we framed the $1K Challenge to our students at SVA as:
-"Design, launch and complete a crowdfunding campaign that benefits a community and raises at least $1,000 from 50 different backers."
+
+> "Design, launch and complete a crowdfunding campaign that benefits a community and raises at least $1,000 from 50 different backers."
 
 ![image alt text](./images/image_1.png)
+
+### Outcomes
 
 In response to this prompt, our students made things like [[ examples, examples, examples ]].
 

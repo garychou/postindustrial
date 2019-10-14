@@ -22,7 +22,7 @@
 
      <BasicPanel
        name="Insights"
-       bgclass="bg-washed-blue"
+       bgclass="super-super-light-gray"
        txtcolor="black-80"
        titlecolor="black-60">
        <Content slot-key="insights"/>
@@ -51,21 +51,11 @@ export default {
   }
 }
 </script>
-<style scoped>
-.page {
-  padding-bottom: 2rem;
-  display: block;
-}
-.super-light-gray {
-  background: #f9f9fb;
-}
+<style>
+/*
+#e3fce6
+#33a52c
+*/
 
-th,td {
-  border: 0;
-}
-tr {
-  border: 0;
-  background-color: #fff;
-  border-radius: 3px;
-}
+
 </style>

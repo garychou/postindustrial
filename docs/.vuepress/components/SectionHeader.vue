@@ -1,6 +1,6 @@
 <template>
-  <article class="mh0 pa0 pa4-m ph4-l pb4 br3 mb2">
-    <div class="tl tc-ns pv2 pv3-m pv4-ns">
+  <article class="mh0 pa0 ph4-m ph4-l pb4 br3 mb2">
+    <div class="tl tc-ns pv2">
       <h1 class="avenir fw7 measure lh-title f3 f1-ns black-70 tl">{{ title }}</h1>
       <time class="f6 ttu db mb3 mb4-ns fw6 tracked black-80 tl">
       {{ byline }}, <span class="fw4 black-50">{{ subtitle }}</span>

@@ -1,6 +1,7 @@
 ---
 title: How We Teach
 sidebarDepth: 2
+pageClass: t1kguide
 ---
 
 # How We Teach
@@ -176,7 +177,7 @@ Though it can be a lot of work to put together, Product Sessions has a few power
 
 1. **Motivation.** Presenting to strangers (even if they’re our friends) is intimidating enough that it pushes the students to get something ready for viewing.
 
-2. **Coverage. **Our network has expertise in things we don’t know anything about.
+2. **Coverage.** Our network has expertise in things we don’t know anything about.
 
 3. **Perspective**. The students need to hear things from other people, even if they’re saying exactly what we’ve been telling them all semester.
 

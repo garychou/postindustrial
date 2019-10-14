@@ -77,20 +77,13 @@ export default {
 <style>
 .year5 .navbar, .year5 .navbar .links, .year5 .navbar, .year5 .sidebar, .year5 {
   background-color: rgb(254, 252, 255);
+
 }
 
-.year5 .sidebar {
-  border: none;
-  font-family: avenir next, avenir, sans-serif;
-}
-
-.year5 .sidebar a {
-  font-size: 0.9rem;
-}
 
 @media screen and (min-width: 720px) {
   .year5 .sidebar {
-    top: 32%;
+    top: 30%;
   }
 }
 
@@ -100,21 +93,9 @@ export default {
   }
 }
 
-
 .year5 .sidebar-heading.open {
   display: none;
 }
-
-.year5 .sidebar a, .year5 .navbar .links .nav-item a.nav-link {
-  color: #6b4e6b;
-}
-
-
-.year5 .sidebar a.active.sidebar-link {
-  color: #330933;
-  border-color: transparent;
-}
-
 
 .year5 h1, .year5 h2, .year5 p {
   color: #330933;
