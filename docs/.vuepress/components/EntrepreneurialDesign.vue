@@ -1,5 +1,5 @@
 <template>
-   <div class="w-100 mw9 center pb5 ph3">
+   <div class="w-100 mw9 center pb5">
 
      <SectionHeader
        :title="$page.frontmatter.sectiontitle"

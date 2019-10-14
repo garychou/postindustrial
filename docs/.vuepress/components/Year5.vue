@@ -1,6 +1,6 @@
 <template>
   <div>
-   <div class="w-100 mw9 center ph4-ns measure avenir f4 f3-ns">
+   <div class="w-100 mw9 center measure avenir f4 f3-ns">
     <div class="w-100 mw9 avenir f4 lh-title fw5 mt0 pv0 titles">
       <Content slot-key="titles"/>
     </div>
