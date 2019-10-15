@@ -1,5 +1,6 @@
 header.navbar .site-name
   font-size: 0.8rem
+  font-family: -apple-system,BlinkMacSystemFont,avenir next,avenir,helvetica neue,helvetica,ubuntu,roboto,noto,segoe ui,arial,sans-serif
   font-weight: 600
   letter-spacing: 0.1em
   text-transform: uppercase
@@ -10,7 +11,6 @@ header.navbar .site-name::before
   color: #000;
 
 .navbar .nav-item a.nav-link
-  font-family: avenir next,avenir,sans-serif
   color: rgba(0,0,0,.5)
   opacity: 1
   outline: 0
@@ -48,6 +48,7 @@ header.navbar .nav-item
 body
   background: #f9f9fb
   background: #fff
+  font-family: avenir next, avenir, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif
 
 svg.icon.outbound
   display: none
@@ -63,12 +64,16 @@ a.header-anchor
 .year5 .sidebar a, .navbar .links .nav-item a.nav-link:not(.router-link-active)
   color: #808080
 
+.teachthe1k .nav-links a:hover,
+.teachthe1k .nav-links a.router-link-active,
 .teachthe1k .navbar .links .nav-item a.nav-link:hover,
 .teachthe1k div.links div.nav-item > a:hover,
 .teachthe1k .links .nav-item > a:not(.external).router-link-active,
 .t1kguide .navbar .links .nav-item a.nav-link:hover,
 .t1kguide div.links div.nav-item > a:hover,
 .t1kguide .links .nav-item > a:not(.external).router-link-active
+.t1kguide .nav-links a:hover,
+.t1kguide .nav-links a.router-link-active
   color: #33a52c
 
 .teachthe1k .links .nav-item > a:not(.external).router-link-active,
@@ -88,6 +93,7 @@ a.header-anchor
 .entrepreneurialdesign a
   color: #2c69a5;
 
+.entrepreneurialdesign .nav-links a:hover, .entrepreneurialdesign .nav-links a.router-link-active,
 .entrepreneurialdesign .navbar .links .nav-item a.nav-link:hover,
 .entrepreneurialdesign .links .nav-item > a:hover,
 .entrepreneurialdesign .links .nav-item > a:not(.external).router-link-active
@@ -107,24 +113,28 @@ a.header-anchor
   background-color: #F6E3FC
   font-weight: 600
 
+
+.sidebar
+  @media (max-width: 720px)
+    width: 100%;
+
+
 .sidebar-heading
   display: none
 
 ul.sidebar-links li a.sidebar-link
-  font-family: avenir next, avenir, sans-serif
-  font-size: 1.1rem
+  font-size: 0.95rem
 
 ul.sidebar-links li a.sidebar-link.active
   border-left-color: transparent
 
 .sidebar-group.is-sub-group > .sidebar-group-items > li > a.sidebar-link
-  font-size: 1.1rem
+  font-size: 0.95rem
 
 ul.sidebar-links li a.sidebar-link:not(.active), .sidebar-group.is-sub-group > .sidebar-group-items > li > a.sidebar-link:not(.active)
   color: #808080
 
 .year5 ul.sidebar-links li a.sidebar-link
-  font-family: avenir next, avenir, sans-serif
   font-size: 0.95rem
 
 .year5 .sidebar-group.is-sub-group > .sidebar-group-items > li > a.sidebar-link
@@ -146,5 +156,4 @@ ul.sidebar-links li a.sidebar-link:not(.active), .sidebar-group.is-sub-group > .
   margin-right: auto
   margin-left: auto
   max-width: 39em
-  font-family: avenir next, avenir, sans-serif
   font-size: 1.1rem

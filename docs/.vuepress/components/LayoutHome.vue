@@ -21,7 +21,7 @@
               <div class="grow cover bg-center pv5 pv6-l" v-bind:style="{ backgroundImage: 'url(' + p.image + ')'}"></div>
             </a>
 
-            <span class="db f5 f4-l mt3 mb1 black-90">
+            <span class="db f5 f4-m f4-l mt3 mb1 black-90">
               <a :href="p.url" class="link dim fw6">
                   {{ p.name }}
               </a>
@@ -34,25 +34,26 @@
 
       </div>
       <div class="cf pb6">
+
       <div class="w-100 w-50-m w-two-thirds-ns fn fl-ns avenir" id="mission">
         <span class="w-90-ns bb b--near-white f7 fw5 tracked ttu db mt4 mb1 pb1 black-60">Purpose</span>
         <div class="lh-copy measure-wide ml1 mt4 mt0-ns f6 f5-m f4-ns pa2-l">
           <Content slot-key="mission"/>
         </div>
-
       </div>
 
       <div class="w-100 w-50-m w-third-ns fn fl-ns pl4-m f6 black-70 avenir">
+
+        <span class="bb b--near-white f7 fw5 tracked ttu db mt4 mb4 mb2-ns pl2-ns pb1 black-60">Team</span>
+        <div class="measure-ns ml1 ph2 pv3-l ph3-l">
+          <Content slot-key="about"/>
+        </div>
 
         <span class="bb b--near-white f7 fw5 tracked ttu db mt4 mb4 mb2-ns pl2-ns pb1 black-60">Words</span>
         <div class="measure-ns ml1 ph2 pv3-l ph3-l">
           <HomePageLinks/>
         </div>
-
-        <span class="bb b--near-white f7 fw5 tracked ttu db mt4 mb4 mb2-ns pl2-ns pb1 black-60">Team</span>
-          <div class="measure-ns ml1 ph2 pv3-l ph3-l">
-            <Content slot-key="about"/>
-          </div>
+  
       </div>
     </div>
 

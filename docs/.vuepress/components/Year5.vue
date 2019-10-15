@@ -1,19 +1,19 @@
 <template>
   <div>
-   <div class="w-100 mw9 center measure avenir f4 f3-ns">
-    <div class="w-100 mw9 avenir f4 lh-title fw5 mt0 pv0 titles">
+   <div class="db dt-l w-100 mw9 center f4 f3-ns">
+    <div class="v-mid-ns db dtc-ns w-100 w-50-m w-70-ns ph0 mh0 lh-title fw5 titles ">
       <Content slot-key="titles"/>
+      <div class="w-100 fw4 f6">
+        <Content slot-key="credits"/>
+      </div>
     </div>
-    <div class="w-100 mw9 avenir f5">
-      <Content slot-key="credits"/>
-    </div>
-    <div class="w-100 mw9 avenir f4 f5-ns mid-purple">
-     <Content slot-key="details"/>
+    <div class="v-mid-ns db dtc-ns w-100 w-50-m w-30-ns f5-ns mid-purple pl4-m pl0-ns">
+     <Content slot-key="heroimage"/>
     </div>
 
   </div>
 
-   <div class="w-100 mw9 center pa0 pa4-ns avenir" id="year5">
+   <div class="cf w-100 mw9 center pa0 pa4-ns avenir" id="year5">
      <div class="body center">
        <Content slot-key="paul"/>
        <Content slot-key="body"/>
@@ -80,19 +80,6 @@ export default {
 
 }
 
-
-@media screen and (min-width: 720px) {
-  .year5 .sidebar {
-    top: 30%;
-  }
-}
-
-@media screen and (max-width: 520px) {
-  .year5 ul.sidebar-links.sidebar-group-items li a.sidebar-link {
-    font-size: 0.8rem;
-  }
-}
-
 .year5 .sidebar-heading.open {
   display: none;
 }
@@ -105,10 +92,6 @@ export default {
   border-bottom: 1px solid transparent;
 }
 
-.year5 h1 {
-    padding-top: 2rem;
-}
-
 #year5 .body ul li {
     margin-left: 1em;
     margin-bottom: 1em;
@@ -118,11 +101,16 @@ export default {
   border-left: 0 !important;
 }
 
+.year5 .titles {
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .year5 .titles h2 {
   font-size: 6rem;
   margin: 0;
-  padding: 4rem 0 0 0;
-  line-height: 6rem;
+  padding: 0;
+  border-bottom: 0;
 }
 
 .year5 .subtitle {
@@ -130,4 +118,24 @@ export default {
   line-height: 1.25rem;
   font-weight: 500;
 }
+
+@media screen and (min-width: 720px) {
+  .year5 .sidebar {
+    top: 32%;
+  }
+}
+
+@media screen and (max-width: 520px) {
+  .year5 ul.sidebar-links.sidebar-group-items li a.sidebar-link {
+    font-size: 0.9rem;
+  }
+
+  .year5 .titles h2#year-5 {
+    font-size: 5rem;
+    margin-bottom: 0;
+    padding-bottom: 0;
+  }
+
+}
+
 </style>

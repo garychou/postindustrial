@@ -23,7 +23,7 @@ Introduction by [Paul Ford](https://twitter.com/ftrain), Faculty MFA in Interact
 
 :::
 
-::: slot details
+::: slot heroimage
 
 <ImageCaption
  v-bind:url="['/images/year5/s_42FD3C04B7B503C990C3619E269FBB0C18BDC250A471A52735CC280C239EE4C5_1485269191543_file.png']"
