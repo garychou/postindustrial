@@ -52,9 +52,9 @@ We want to see more classrooms, training programs, and incubators teach these fu
 
 ::: slot about
 
-[Christina Xu](http://christinaxu.org/) has taught Entrepreneurial Design along with Gary Chou at SVA's MFA in Interaction Design program from 2014 through 2018. She works as a freelance ethnographic researcher studying internet culture and social behavior around technology in the US and China. Her past projects include Letters for Black Lives, Awesome Foundation, and ROFLCon.
+[Christina Xu](http://christinaxu.org/) ([@xuhulk](https://twitter.com/xuhulk)) has taught Entrepreneurial Design along with Gary Chou at SVA's MFA in Interaction Design program from 2014 through 2018. She works as a freelance ethnographic researcher studying internet culture and social behavior around technology in the US and China. Her past projects include Letters for Black Lives, Awesome Foundation, and ROFLCon.
 
-[Gary Chou](https://garychou.com/) is founder of Orbital, a studio for building networks.  In addition to co-teaching with Christina, he’s been an advisor to Venture for America and Austin Center for Design.  Previously he was General Manager at Union Square Ventures, a venture capital firm based in New York City.  He’s held senior product management roles at a number of early stage consumer and enterprise startups.
+[Gary Chou](https://garychou.com/) ([@garychou](https://twitter.com/garychou)) is founder of Orbital, a studio for building networks.  In addition to co-teaching with Christina, he’s been an advisor to Venture for America and Austin Center for Design.  Previously he was General Manager at Union Square Ventures, a venture capital firm based in New York City.  He’s held senior product management roles at a number of early stage consumer and enterprise startups.
 
 :::
 

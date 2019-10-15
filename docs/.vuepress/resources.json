@@ -107,7 +107,7 @@
 			"title": "Tickets Podcast: Gary Chou and Christina Xu on entrepreneurship education and harnessing the power of networks",
 			"author": "Hosted by Howard Gray",
 			"year": "2019",
-			"featured": "0"
+			"featured": "1"
 		}],
 		"2018": [{
 			"url": "https://medium.com/@garychou/infrastructure-and-interdependence-417e926c539c",
@@ -121,28 +121,28 @@
 			"title": "2017 IxD Education Summit",
 			"author": "Christina Xu and Gary Chou",
 			"year": "2017",
-			"featured": "1"
+			"featured": "0"
 		}],
 		"2016": [{
 			"url": "https://postindustrialdesign.school/year-5",
 			"title": "Year 5",
 			"author": "Christina Xu and Gary Chou; Edited by Liz Danzico, Introduction by Paul Ford",
 			"year": "2016",
-			"featured": "1"
+			"featured": "0"
 		}],
 		"2015": [{
 				"url": "https://medium.com/chrysaora-weekly/signal-space-structure-designing-for-communities-of-interest-d09ad8454f57",
 				"title": "Signal, Space, Structure: Designing for Communities of Interest",
 				"author": "Christina Xu",
 				"year": "2015",
-				"featured": "0"
+				"featured": "1"
 			},
 			{
 				"url": "https://medium.com/@garychou/on-constraints-exploration-and-chance-cfe46b116c56",
 				"title": "On Constraints, Exploration and Chance",
 				"author": "Gary Chou",
 				"year": "2015",
-				"featured": "0"
+				"featured": "1"
 			},
 			{
 				"url": "http://blog.garychou.com/post/112791727772/in-2012-christina-cacioppo-and-i-were-invited-by",
@@ -166,7 +166,15 @@
 			"year": "2014",
 			"featured": "0"
 		}],
-		"2013": [{
+		"2013": [
+			{
+			"url": "https://www.youtube.com/watch?v=Z2SI8RYCZkg",
+			"title": "Christina Xu @ XOXO Festival",
+			"author": "Christina Xu",
+			"year": "2013",
+			"featured": "1"
+			},
+			{
 			"url": "http://www.christinacacioppo.com/sva.html",
 			"title": "Girls Who Code Talk",
 			"author": "Christina Cacioppo",

@@ -22,13 +22,9 @@ header.navbar .nav-item
   margin-left: 2rem
 
 .navbar .nav-item a.nav-link
-  &:hover, &:link, &:visited
-    transition: color .15s ease-in
   font-weight: 500
 
 .links .nav-item > a:not(.external):hover
-  background-color: #F6E3FC
-  color: #5e2ca5
   margin-bottom: 0
   border-bottom: 0
   border-radius: 5px
@@ -36,7 +32,6 @@ header.navbar .nav-item
 .links .nav-item > a:not(.external).router-link-active
   margin-bottom: 0
   border-bottom: 0
-  background-color: #F6E3FC
   padding: 0.4rem 0.6rem
   border-radius: 5px
   @media (min-width: 719px)
@@ -65,36 +60,52 @@ a.header-anchor
 
 
 /* colors */
-
-.entrepreneurialdesign a
-  color: #2c69a5;
-
-.entrepreneurialdesign .links .nav-item > a:hover, .entrepreneurialdesign .links .nav-item > a:not(.external).router-link-active
-  background: #e3f8fc
-  color: #2c69a5
-
 .year5 .sidebar a, .navbar .links .nav-item a.nav-link:not(.router-link-active)
   color: #808080
 
-.year5 .sidebar a.active.sidebar-link, .year5 .navbar .links .nav-item a.router-link-active
-  color: #330933
-  border-color: transparent
-
-.year5 .sidebar a, .navbar .links .nav-item a.nav-link:not(.router-link-active)
-  color: #808080
-
-.teachthe1k .links .nav-item > a:hover, .teachthe1k .links .nav-item > a:not(.external).router-link-active,
-.t1kguide .links .nav-item > a:hover, .t1kguide .links .nav-item > a:not(.external).router-link-active
-  background: #e3fce6
+.teachthe1k .navbar .links .nav-item a.nav-link:hover,
+.teachthe1k div.links div.nav-item > a:hover,
+.teachthe1k .links .nav-item > a:not(.external).router-link-active,
+.t1kguide .navbar .links .nav-item a.nav-link:hover,
+.t1kguide div.links div.nav-item > a:hover,
+.t1kguide .links .nav-item > a:not(.external).router-link-active
   color: #33a52c
+
+.teachthe1k .links .nav-item > a:not(.external).router-link-active,
+.t1kguide .links .nav-item > a:not(.external).router-link-active
+  background: #e3fce6
+  font-weight: 600
+  border-color: transparent
 
 .teachthe1k .sidebar a.active.sidebar-link, .year5 .teachthe1k .links .nav-item a.router-link-active,
 .t1kguide .sidebar a.active.sidebar-link, .year5 .t1kguide .links .nav-item a.router-link-active
   color: #33a52c
+
+.teachthe1k a,
+.t1kguide a
+  color: #33a52c
+
+.entrepreneurialdesign a
+  color: #2c69a5;
+
+.entrepreneurialdesign .navbar .links .nav-item a.nav-link:hover,
+.entrepreneurialdesign .links .nav-item > a:hover,
+.entrepreneurialdesign .links .nav-item > a:not(.external).router-link-active
+  color: #2c69a5
+
+.entrepreneurialdesign .links .nav-item > a:not(.external).router-link-active
+  background: #e3f8fc
+  font-weight: 600
+
+.year5 .navbar .links .nav-item a.nav-link:hover,
+.year5 .sidebar a.active.sidebar-link,
+.year5 .navbar .links .nav-item a.router-link-active
+  color: #330933
   border-color: transparent
 
-.teachthe1k a, .t1kguide a
-  color: #33a52c
+.year5 .navbar .links .nav-item a.router-link-active
+  background-color: #F6E3FC
+  font-weight: 600
 
 .sidebar-heading
   display: none

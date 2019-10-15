@@ -421,8 +421,6 @@ As designers, we’re not always conscious of the power that we wield or the pos
 
 ***********
 
-*Thanks to the [Orbital](http://orbital.nyc) members for the design feedback; and to all of our students for the lessons.*
-
-*For additional resources, syllabi, student reflections and more,  [visit the course archive](/entrepreneurial-design).*
+*Thanks to our former School of Visual Arts [MFA in Interaction Design](http://interactiondesign.sva.edu) students and [Orbital](http://orbital.nyc) Bootcamp/1K participants for the lessons; and to the Orbital members for the design feedback. For additional resources, syllabi, student reflections and more,  [visit the course archive](/entrepreneurial-design).*
 
 :::

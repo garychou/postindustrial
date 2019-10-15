@@ -35,7 +35,7 @@
       </div>
       <div class="cf pb6">
       <div class="w-100 w-50-m w-two-thirds-ns fn fl-ns avenir" id="mission">
-        <span class="w-90-ns bb b--near-white f7 fw5 tracked ttu db mt4 mb1 pb1 black-60">Mission</span>
+        <span class="w-90-ns bb b--near-white f7 fw5 tracked ttu db mt4 mb1 pb1 black-60">Purpose</span>
         <div class="lh-copy measure-wide ml1 mt4 mt0-ns f6 f5-m f4-ns pa2-l">
           <Content slot-key="mission"/>
         </div>
@@ -43,8 +43,14 @@
       </div>
 
       <div class="w-100 w-50-m w-third-ns fn fl-ns pl4-m f6 black-70 avenir">
-        <span class="bb b--near-white f7 fw5 tracked ttu db mt4 mb4 mb2-ns pl2-ns pb1 black-60">About</span>
-          <div class="measure-ns ml1 ph2 pv3-l ph4-l" id="awesome">
+
+        <span class="bb b--near-white f7 fw5 tracked ttu db mt4 mb4 mb2-ns pl2-ns pb1 black-60">Words</span>
+        <div class="measure-ns ml1 ph2 pv3-l ph3-l">
+          <HomePageLinks/>
+        </div>
+
+        <span class="bb b--near-white f7 fw5 tracked ttu db mt4 mb4 mb2-ns pl2-ns pb1 black-60">Team</span>
+          <div class="measure-ns ml1 ph2 pv3-l ph3-l">
             <Content slot-key="about"/>
           </div>
       </div>
@@ -62,12 +68,6 @@ export default {
   data () {
     return {
     }
-  },
-  computed: {
-  },
-  created(){
-  },
-  methods: {
   }
 }
 </script>
@@ -81,6 +81,7 @@ div#home a {
   color: #333;
   transition: color .15s ease-in;
 }
+
 div#home a:hover {
   color: #888;
   transition: color .15s ease-in;
