@@ -20,7 +20,7 @@ Introduction by [Paul Ford](https://twitter.com/ftrain), Faculty MFA in Interact
 
 ::: slot herocaption
 
-*Orbital 1K, drawn by [Moonsub Shin](https://www.instagram.com/p/3O54YOCSAN/) who launched [Moon’s Diary — Adventures in Europe](https://www.kickstarter.com/projects/118745650/moons-diary-adventures-in-europe)*
+Orbital 1K, drawn by [Moonsub Shin](https://www.instagram.com/p/3O54YOCSAN/) who launched [Moon’s Diary — Adventures in Europe](https://www.kickstarter.com/projects/118745650/moons-diary-adventures-in-europe)
 
 :::
 
