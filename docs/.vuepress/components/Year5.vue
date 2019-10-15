@@ -1,14 +1,25 @@
 <template>
   <div>
-   <div class="db dt-l w-100 mw9 center f4 f3-ns">
-    <div class="v-mid-ns db dtc-ns w-100 w-50-m w-70-ns ph0 mh0 lh-title fw5 titles ">
-      <Content slot-key="titles"/>
-      <div class="w-100 fw4 f6">
+   <div class="db dt-l w-100 mw8 center f4 f3-ns">
+    <div class="v-mid db dtc-ns w-100 w-50-m w-two-thirds-ns ph0 mh0 lh-title fw5 titles">
+      <h2 class="f-subheadline f-headline-l mv0 pv0">{{ $frontmatter.title }}</h2>
+      <p class="lh-copy mt0 pt0 f5 f4-l fw4 fw4-ns">{{ $frontmatter.subtitle }}</p>
+      <p class="f6 ttu db tracked tl">
+        {{ $frontmatter.byline }}, <span class="db dib-l fw6 black-80">{{ $frontmatter.conversationDate }}</span>
+      </p>
+      <div class="w-100 fw4 f6 pr2">
         <Content slot-key="credits"/>
       </div>
     </div>
-    <div class="v-mid-ns db dtc-ns w-100 w-50-m w-30-ns f5-ns mid-purple pl4-m pl0-ns">
-     <Content slot-key="heroimage"/>
+    <div class="v-mid-ns db dtc-ns w-100 w-50-m w-third-ns f5-ns mid-purple pl4-m pl0-ns">
+
+      <div class="w-100 tc mt5 mv0-ns">
+        <img :src="$frontmatter.heroimage" class="w-100 mb1-ns ba b--black-30 pa0"/>
+        <div class="avenir f7 f6-ns tc db lh-title center">
+          <Content slot-key="herocaption"/>
+        </div>
+      </div>
+
     </div>
 
   </div>
@@ -77,7 +88,6 @@ export default {
 <style>
 .year5 .navbar, .year5 .navbar .links, .year5 .navbar, .year5 .sidebar, .year5 {
   background-color: rgb(254, 252, 255);
-
 }
 
 .year5 .sidebar-heading.open {
@@ -101,24 +111,6 @@ export default {
   border-left: 0 !important;
 }
 
-.year5 .titles {
-  margin-left: auto;
-  margin-right: auto;
-}
-
-.year5 .titles h2 {
-  font-size: 6rem;
-  margin: 0;
-  padding: 0;
-  border-bottom: 0;
-}
-
-.year5 .subtitle {
-  font-size: 1.25rem;
-  line-height: 1.25rem;
-  font-weight: 500;
-}
-
 @media screen and (min-width: 720px) {
   .year5 .sidebar {
     top: 32%;
@@ -128,12 +120,6 @@ export default {
 @media screen and (max-width: 520px) {
   .year5 ul.sidebar-links.sidebar-group-items li a.sidebar-link {
     font-size: 0.9rem;
-  }
-
-  .year5 .titles h2#year-5 {
-    font-size: 5rem;
-    margin-bottom: 0;
-    padding-bottom: 0;
   }
 
 }

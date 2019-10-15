@@ -2,37 +2,25 @@
 title: Year 5
 sidebar: auto
 pageClass: year5
+byline: Christina Xu and Gary Chou
 conversationDate: June 20, 2016
+subtitle: Lessons learned from teaching the $1,000 Challenge.
+heroimage: /images/year5/s_42FD3C04B7B503C990C3619E269FBB0C18BDC250A471A52735CC280C239EE4C5_1485269191543_file.png
+
 ---
 
 <Year5/>
 
-::: slot titles
-
-## Year 5
-
-Lessons learned from teaching the $1,000 Challenge.
-
-:::
-
 ::: slot credits
 
-Conversation by [Christina Xu](http://christinaxu.org/) and [Gary Chou](https://garychou.com) on June 20, 2016\
 Edited by [Liz Danzico](http://bobulate.com), chair & co-founder [MFA in Interaction Design](http://interactiondesign.sva.edu),  School of Visual Arts\
 Introduction by [Paul Ford](https://twitter.com/ftrain), Faculty MFA in Interaction Design, School of Visual Arts
 
 :::
 
-::: slot heroimage
-
-<ImageCaption
- v-bind:url="['/images/year5/s_42FD3C04B7B503C990C3619E269FBB0C18BDC250A471A52735CC280C239EE4C5_1485269191543_file.png']"
- imagewidth="w-100"
- >
+::: slot herocaption
 
 *Orbital 1K, drawn by [Moonsub Shin](https://www.instagram.com/p/3O54YOCSAN/) who launched [Moon’s Diary — Adventures in Europe](https://www.kickstarter.com/projects/118745650/moons-diary-adventures-in-europe)*
-
-</ImageCaption>
 
 :::
 
@@ -143,8 +131,6 @@ The course is intentionally designed to get the students to involve us (and othe
 **G:** Learning to understand that you have to cultivate this system alongside the creation of your thing is also part of the challenge. Creating the thing is hard enough as it is. Back to the idea of working in the real world, it’d be hard to practice cultivating a network if you were working on a fake project.
 
 **C:** Also, it really matters that the students are going through this experience together. Having a cohort just makes this process a lot easier because you have a group of people who are not your instructors and not your audience, but working alongside you.
-
-> The value of the cohort is that it expands the surface area of lessons to be learned.
 
 **G:** The value of the cohort is that it expands the surface area of lessons to be learned. You are learning not just from your own experience, but also through observing others in the cohort. You get to learn from the different decisions they've made, the challenges they’ve run into, and how they’ve overcome those. Also, you can calibrate your progress to the others in a way that helps you push forward. It's like having a bunch of running partners.
 
