@@ -1,6 +1,6 @@
 <template slot="page-top">
 
-    <div class="w-100 mw9 center pv5 ph3 ph6-l avenir" id="home">
+    <div class="w-100 mw9 center pv5 ph3 ph3-l avenir" id="home">
 
       <div class="sans-serif mv5">
         <span class="db tc mb3 tracked ttu f6 f3-ns">
@@ -53,7 +53,7 @@
         <div class="measure-ns ml1 ph2 pv3-l ph3-l">
           <HomePageLinks/>
         </div>
-  
+
       </div>
     </div>
 

@@ -4,7 +4,7 @@ pageClass: t1kguide
 
 ---
 
-# Introduction
+# The Workshop
 
 In May 2018, we wrapped up our 7th iteration of the Entrepreneurial Design course at SVA IxD, and the 10th variation of this experiential learning program. It was our most successful version of the course and so we were trying to figure out what to do next. What should we do with this knowledge that we now have.
 
