@@ -13,9 +13,7 @@ sitename: FOO FOO
 <Year5/>
 
 ::: slot credits
-
-Edited by [Liz Danzico](http://bobulate.com), chair & co-founder [MFA in Interaction Design](http://interactiondesign.sva.edu),  School of Visual Arts\
-Introduction by [Paul Ford](https://twitter.com/ftrain), Faculty MFA in Interaction Design, School of Visual Arts
+After 5 years of teaching Entrepreneurial Design, Gary and Christina sat down to talk about what the class had become, and what they had learned over the years. The transcript was edited down into this written piece by [Liz Danzico](http://bobulate.com), the chair & co-founder of [MFA in Interaction Design](http://interactiondesign.sva.edu) at School of Visual Arts, and fellow SVA IXD Faculty member [Paul Ford](https://twitter.com/ftrain) wrote a generous introduction.
 
 :::
 
