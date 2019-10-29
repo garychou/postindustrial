@@ -7,7 +7,9 @@ pageClass: t1kguide
 
 # Core Concepts
 
-The design of the course is shaped by a few core concepts, some of which we have known all along, and others which have emerged through trial and error. They are: working in public, designing obstacle courses, and cohorts.
+The design of the course is shaped by a few core concepts, some of which we have known all along, and others which have emerged through trial and error.
+
+They are: working in public, designing obstacle courses, and cohorts.
 
 ## Working in Public
 

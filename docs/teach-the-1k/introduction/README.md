@@ -4,15 +4,11 @@ pageClass: t1kguide
 
 ---
 
-# The Workshop
+### Alternatively
 
-In May 2018, we wrapped up our 7th iteration of the Entrepreneurial Design course at SVA IxD, and the 10th variation of this experiential learning program. It was our most successful version of the course and so we were trying to figure out what to do next. What should we do with this knowledge that we now have.
-
-We went through a few different iterations—a book, a conference, etc., and decided that we should do what we tell our students to do: Launch a signal out into the world and see what comes back.
-
-We didn’t really know what to expect. However, we were pleasantly surprised. Over 50 people applied, of which only a 2-3 didn’t fit the requirements.
-
-We got exactly what we wanted—which is a group of educators and activators  doing a wide range of work, working within different organizations and communities in different functions, all of whom fit this definition.
+[Workshop schedule goes here]
+[We cut all of this because it's kind of a rehash of ED, which doesn't make sense for this web version]
+[Maybe some stuff about what we were hoping to accomplish with this: the goal is to teach people how to teach a class centered around the $1K Challenge, in many different types of contexts and communities]
 
 ### What this is and isn't about
 
