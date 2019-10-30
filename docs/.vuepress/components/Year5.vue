@@ -1,9 +1,7 @@
 <template>
   <div>
    <div class="w-100 mw8 pt4 center flex flex-column flex-row-reverse-l">
-
-
-
+     
      <div class="w-100 w-two-thirds-l pl4-l lh-title fw5 titles">
       <h2 class="f-subheadline f-headline-l mv0 pv0">{{ $frontmatter.title }}</h2>
       <p class="lh-copy mt0 pt0 f3 fw4">{{ $frontmatter.subtitle }}</p>

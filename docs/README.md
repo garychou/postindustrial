@@ -6,17 +6,17 @@ pageClass: homepage
 layout: LayoutHome
 projects:
   - name: Teach the 1K
-    url: /teach-the-1k
+    url: /teach-the-1k/
     year: 2019
     image: /images/t1k2.jpg
     description: "How do we scale the impact of our work?"
   - name: Entrepreneurial Design
-    url: /entrepreneurial-design
+    url: /entrepreneurial-design/
     year: 2012 - 2018
     image: /images/class.png
     description: "What enables artists, entrepreneurs, and activists to be successful in today’s networked world?"
   - name: Year 5
-    url: /year-5
+    url: /year-5/
     year: 2016
     image: /images/year5/s_42FD3C04B7B503C990C3619E269FBB0C18BDC250A471A52735CC280C239EE4C5_1485269191543_file.png
     description: Lessons learned from teaching the $1K Challenge.
