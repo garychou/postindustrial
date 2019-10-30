@@ -25,38 +25,41 @@
               <a :href="p.url" class="link dim fw6">
                   {{ p.name }}
               </a>
-              <span class="dib fw4 br2 black-50 f7 ml1 lh-title sans-serif pa1 bg-black-05">{{ p.year }}</span>
+              <span class="dib fw6 br2 black-40 f7 ml1 lh-title sans-serif pa1 bg-black-05">{{ p.year }}</span>
             </span>
 
-            <h3 class="f7 f6-m f5-ns fw4 mt1 black-70 lh-copy measure-narrow">{{ p.description }}</h3>
+            <h3 class="f6 f5-ns fw4 mt1 black-70 lh-copy measure">{{ p.description }}</h3>
           </div>
         </article>
 
       </div>
-      <div class="cf pb6">
+      <div class="pb6 w-100">
 
-      <div class="w-100 w-50-m w-two-thirds-ns fn fl-ns avenir" id="mission">
-        <span class="w-90-ns bb b--near-white f7 fw5 tracked ttu db mt4 mb1 pb1 black-60">Purpose</span>
-        <div class="lh-copy measure-wide ml1 mt4 mt0-ns f6 f5-m f4-ns pa2-l">
-          <Content slot-key="mission"/>
+          <div class="cf w-100">
+
+            <div class="f5 f5-l fn fl-ns black-70 avenir w-third-m w-25-ns">
+              <span class="bb b--near-white f7 fw5 tracked ttu db mt4 mb4 mb4-ns pl2-ns pb1 black-60">Talks & Essays</span>
+              <div class="measure-ns ml1-l ph0 pb3 ph2-l">
+                <HomePageLinks/>
+              </div>
+
+              <span class="bb b--near-white f7 fw5 tracked ttu db mt4 mb4 mb4-ns pl2-ns pb1 black-60">Team</span>
+              <div class="measure-ns ml1-l ph0 pb3 ph2-l">
+                <Content slot-key="about"/>
+              </div>
+            </div>
+
+            <div class="fn fl-ns avenir w-two-thirds-m w-75-ns pl4-m pl5-l" id="mission">
+              <span class="w-90-ns bb b--near-white f7 fw5 tracked ttu db mt4 mb1 pb1 black-60">Purpose</span>
+              <div class="lh-copy measure-wide-l ml1 mt4 mt0-ns f5 f4-ns pa2-l">
+                <Content slot-key="mission"/>
+              </div>
+            </div>
+
+
+
+          </div>
         </div>
-      </div>
-
-      <div class="w-100 w-50-m w-third-ns fn fl-ns pl4-m f6 black-70 avenir">
-
-        <span class="bb b--near-white f7 fw5 tracked ttu db mt4 mb4 mb2-ns pl2-ns pb1 black-60">Team</span>
-        <div class="measure-ns ml1 ph2 pv3-l ph3-l">
-          <Content slot-key="about"/>
-        </div>
-
-        <span class="bb b--near-white f7 fw5 tracked ttu db mt4 mb4 mb2-ns pl2-ns pb1 black-60">Words</span>
-        <div class="measure-ns ml1 ph2 pv3-l ph3-l">
-          <HomePageLinks/>
-        </div>
-
-      </div>
-    </div>
-
   </div>
 </template>
 

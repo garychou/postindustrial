@@ -12,7 +12,7 @@ projects:
     description: "How do we scale the impact of our work?"
   - name: Entrepreneurial Design
     url: /entrepreneurial-design
-    year: 2018
+    year: 2012 - 2018
     image: /images/class.png
     description: "What enables artists, entrepreneurs, and activists to be successful in today’s networked world?"
   - name: Year 5
