@@ -39,6 +39,16 @@ module.exports = {
                   children: [
                     '/teach-the-1k/core-concepts.md',
                     '/teach-the-1k/how-we-teach.md',
+                    {
+                      title: 'How We Teach',
+                      collapsable: false,
+                      children: [
+                        '/teach-the-1k/train.md',
+                        '/teach-the-1k/prepare.md',
+                        '/teach-the-1k/launch.md',
+                        '/teach-the-1k/review.md',
+                      ]
+                    },
                     '/teach-the-1k/how-we-manage.md',
                   ]
                 },

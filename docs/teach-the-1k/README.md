@@ -6,7 +6,7 @@ sectionsubtitle: Winter 2019
 heroimage: "/images/t1k.jpg"
 herocaption: Participants of the Teach the 1K program at Orbital brought together entrepreneurship teachers, coaches and activators.
 pageClass: teachthe1k
-sidebarDepth: 2
+sidebarDepth: 1
 
 ---
 
@@ -14,7 +14,7 @@ sidebarDepth: 2
 
 ::: slot body
 
-In May 2018, we wrapped up our 7th iteration of the Entrepreneurial Design course at SVA IXD, and the 10th iteration of this experiential learning program overall. It was our most successful version of the course thus far, and we were trying to figure out what the next step for this project should be. For months, we collected our thoughts, reflected on why this project was so compelling to us, and attempted to contextualize our efforts. We arrived at a set of hypotheses to guide us in the next phase of the project: 
+In May 2018, we wrapped up our 7th iteration of the Entrepreneurial Design course at SVA IXD, and the 10th iteration of this experiential learning program overall. It was our most successful version of the course thus far, and we were trying to figure out what the next step for this project should be. For months, we collected our thoughts, reflected on why this project was so compelling to us, and attempted to contextualize our efforts. We arrived at a set of hypotheses to guide us in the next phase of the project:
 1. The lessons we taught through Entrepreneurial Design feel more crucial than ever for weathering today’s uncertain economic and political climate.
 2. The $1K Challenge is a highly effective teaching tool in catalyzing these lessons for students.
 3. Our methods and frameworks for teaching the challenge can be taught to others.

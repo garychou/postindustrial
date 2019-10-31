@@ -1,7 +1,11 @@
 <template>
   <div class="w-100 tc mt4 mv5-ns">
-    <img v-for="u in items" :src="u" class="w-100 mb1-ns ba b--black-10 pa0"
-     :class="imagewidth ? imagewidth : 'w-70-l'"/>
+    <img v-for="u in items"
+      :src="u"
+      class="w-100 mb1-ns ba b--black-10 pa0"
+     :class="imagewidth ? imagewidth : 'w-70-l'"
+     alt="alt"
+     />
     <span class="avenir f7 f6-ns tc mb4 db lh-title center caption"
     :class="imagewidth ? imagewidth : 'w-70-l'"
       >
@@ -14,7 +18,7 @@
 export default {
   name: 'ImageCaption',
   props: [
-    'url','imagewidth','margin'
+    'url','imagewidth','margin', 'alt'
   ],
   data () {
     return {
