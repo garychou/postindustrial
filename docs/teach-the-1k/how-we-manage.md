@@ -10,7 +10,7 @@ If you successfully made it through How We Teach—congratulations, and thank yo
 
 [[ Teacher rollercoaster picture ]]
 
-** 1. Design for the time / energy / resources you want to spend. **
+**1. Design for the time / energy / resources you want to spend.**
 
 Teaching experientially is a job that can take over as much of your life as you allow. We learned that we need to work backwards—set firm constraints for ourselves, and figure out what we can realistically accomplish within those.
 
@@ -19,15 +19,15 @@ For example, our constraints over the last few years of teaching have been:
 * Meet with students only during office hours (or before class if absolutely necessary)
 * Do not join the department's Slack
 
-** 2. Don't get on the rollercoaster. **
+**2. Don't get on the rollercoaster.**
 
 Each of the students is going through an emotional rollercoaster. Rollercoasters can be fun and thrilling, but absorbing 18 people's emotional chaos is not healthy. We have to emotionally distance ourselves from our students' projects, even if they're fun/exciting/in our field of expertise, so that we can give them the perspective they need.
 
-** 3. Work on the process, not the project.**
+**3. Work on the process, not the project.**
 
 When a student is stuck and you can see a way out, it is super satisfying (and habitual, for some of us!) to swoop in and be a superhero problem solver. But as instructors, this neither scales nor gives your students the best possible learning experience. Instead, we try to take a step back and figure out what new process or challenge we can issue to *all* the students to help them work through it themselves.
 
-** 4. Invest in your teaching scaffolding.**
+**4. Invest in your teaching scaffolding.**
 
 Over the 5 years we taught together, we created a bunch of tools to make our lives easier and minimize drudgework. These include a tracker for the whole class' Kickstarter campaigns, a Google Sheets dashboard for keeping track of student work, and a little program that generates randomized groups for class activities.
 

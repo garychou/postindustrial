@@ -50,6 +50,11 @@
             </div>
 
             <div class="fn fl-ns avenir w-two-thirds-m w-75-ns pl4-m pl5-l" id="mission">
+              <span class="w-90-ns bb b--near-white f7 fw5 tracked ttu db mt4 mb1 pb1 black-60">Welcome</span>
+              <div class="lh-copy measure-wide-l ml1 mt4 mt0-ns f5 f4-ns pa2-l">
+                <Content slot-key="welcome"/>
+              </div>
+
               <span class="w-90-ns bb b--near-white f7 fw5 tracked ttu db mt4 mb1 pb1 black-60">Purpose</span>
               <div class="lh-copy measure-wide-l ml1 mt4 mt0-ns f5 f4-ns pa2-l">
                 <Content slot-key="mission"/>
