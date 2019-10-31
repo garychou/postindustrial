@@ -22,6 +22,12 @@ projects:
     description: Lessons learned from teaching the $1K Challenge.
 ---
 
+::: slot welcome
+
+hey guys hows it goin
+
+:::
+
 ::: slot mission
 
 **There’s never been a more important time to prepare people to confront uncertainty,** yet we are under-resourced and unequipped as a society to do so at scale.
