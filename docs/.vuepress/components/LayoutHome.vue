@@ -37,7 +37,7 @@
 
           <div class="cf w-100 mw8 center">
 
-            <div class="f5 f5-l fn fl-ns black-70 avenir w-third-m w-50-ns">
+            <div class="f5 f5-l fn fl-ns black-70 avenir w-100 w-50-ns">
 
               <span class="bb b--near-white f7 fw5 tracked ttu db mt4 mb4 mb4-ns pl2-ns pb1 black-60">Welcome</span>
               <div class="measure-ns ml1-l ph0 pb3 ph2-l f5">
@@ -57,10 +57,10 @@
 
             </div>
 
-            <div class="fn fl-ns avenir w-two-thirds-m w-50-ns ph4" id="mission">
+            <div class="fn fl-ns avenir w-100 w-50-ns pl4-ns" id="mission">
 
               <span class="bb b--near-white f7 fw5 tracked ttu db mt4 mb1 pb1 black-60">Purpose</span>
-              <div class="lh-copy measure-wide-l ml1 mt4 mt0-ns f5 f5-ns pa2-l">
+              <div class="lh-copy measure-l ml1 mt4 mt0-ns f5 f5-ns pa2-l">
                 <Content slot-key="mission"/>
               </div>
             </div>
