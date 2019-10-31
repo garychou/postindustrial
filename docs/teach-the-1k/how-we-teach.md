@@ -221,11 +221,9 @@ We help them understand that over the course of the semester, they’ve grown th
 
 We’ll also get involved and help signal boost:
 
-1. We’ll back each project for $1.
+1. **We’ll back each project for $1.** This helps alert our networks without directly affecting the outcome.
 
-    1. This helps alert our networks without directly affecting the outcome.
-
-2. We’ll tweet & retweet
+2. **We’ll tweet & retweet throughout the campaign.**
 
 [[ Ladder of Certainty picture ]]
 
