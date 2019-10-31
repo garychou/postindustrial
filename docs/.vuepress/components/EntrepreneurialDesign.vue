@@ -34,7 +34,6 @@
 </template>
 
 <script>
-import Tachyons from 'tachyons'
 
 export default {
   components: { },

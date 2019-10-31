@@ -2,7 +2,7 @@
 title: Background
 sectiontitle: "How might we scale the impact of our work?"
 sectionbyline: Christina Xu and Gary Chou
-sectionsubtitle: Winter 2019
+sectionsubtitle: February 2019
 heroimage: "/images/t1k.jpg"
 herocaption: Participants of the Teach the 1K program at Orbital brought together entrepreneurship teachers, coaches and activators.
 pageClass: teachthe1k
@@ -14,15 +14,25 @@ sidebarDepth: 1
 
 ::: slot body
 
-In May 2018, we wrapped up our 7th iteration of the Entrepreneurial Design course at SVA IXD, and the 10th iteration of this experiential learning program overall. It was our most successful version of the course thus far, and we were trying to figure out what the next step for this project should be. For months, we collected our thoughts, reflected on why this project was so compelling to us, and attempted to contextualize our efforts. We arrived at a set of hypotheses to guide us in the next phase of the project:
-1. The lessons we taught through Entrepreneurial Design feel more crucial than ever for weathering today’s uncertain economic and political climate.
-2. The $1K Challenge is a highly effective teaching tool in catalyzing these lessons for students.
-3. Our methods and frameworks for teaching the challenge can be taught to others.
 
-We bounced a few ideas for how to test these around—a book, a conference, etc.—and eventually decided that we should do what we tell our students to do: launch a signal out into the world and see what comes back. And so, the Teach the 1K Workshop was born.
+In February 2019, we convened Teach the 1K—a gathering of over 40 entrepreneurship educators and activators from a variety of backgrounds, to teach them how to teach the $1K Challenge:
 
-We put out a call for applications to people who we could share our work with, specifically inviting teachers and administrators in higher education as well as people who ran or worked for community-based incubators and entrepreneurship programs. Truthfully, we didn't really know what to expect. But we were pleasantly surprised that over 50 people applied. We ended up running a shorter seminar for anyone who was interested, and a more intimate and hands-on full day workshop for a group of 16 (???) educators and activators doing a wide range of work in many different organizations and communities.
+> Design, launch and complete a crowdfunding campaign that benefits a community you’ve worked with over the course of the semester.  The campaign should raise at least $1,000 from 50 different backers.
 
-The rest of this section is an edited version of the content we shared at the workshop, originally held on February 8th, 2019, at [Orbital](http://orbital.nyc).
+[ $1K Challenge, via 2018 Entrepreneurial Design at SVA IxD  ]
+
+We ran the workshop for a few reasons:
+
+**First, we were at a crossroads.**
+
+After collectively teaching for 7 years, we found ourselves at an inflection point with our work.  The $1K Challenge has been a surprising effective and resilient teaching tool for something as difficult to teach as the idea of confronting uncertainty.  We’ve come to believe in its broader importance.  While we believe it can be valuable to others, it wasn’t immediately clear to us what scaling up would look like and whether it was something we would want to pursue.  Convening a group would be a great way to explore options.
+
+**Second, we needed a forcing function.**
+
+While we’ve done a lot over the years, we hadn’t been forced to explain it to others.  The act of doing so would force not just a process of reflection, but a crystallization of the fundamental concepts and frameworks we use.  The act of contextualizing your own work in a manner that is easy to communicate to others is an incredibly humbling challenge in itself, and so having a specific audience to design and write for made it a doable proposition.
+
+And so, while designing and running a workshop was a feat unto itself, perhaps a bigger win from this whole exercise was an articulation of both the need for our work and our pedagogy.
+
+The rest of this section is an edited version of the content we shared at the workshop.
 
 :::

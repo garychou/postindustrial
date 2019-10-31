@@ -8,7 +8,15 @@ pageClass: t1kguide
 
 If you successfully made it through How We Teach—congratulations, and thank you! You may have noticed that it is *a lot*, especially from an instructional point of view. Juggling and dealing with all the chaos can be extremely exhausting. Here are a few of our biggest lessons about how to keep it together as instructors, many of which we learned the hard way.
 
-[[ Teacher rollercoaster picture ]]
+<ImageCaption
+ url="/images/t1k/image_1.png"
+ alt=""
+ imagewidth="w-100"
+ >
+
+ *I am a markdown caption, [The Cheese Map](https://www.kickstarter.com/projects/thecheesemap/the-cheese-map)*
+
+ </ImageCaption>
 
 **1. Design for the time / energy / resources you want to spend.**
 

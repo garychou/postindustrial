@@ -38,7 +38,9 @@ This program is the avowed enemy of bureaucracy, which is why it’s powerful. I
 But none of those names capture the whole of what Gary and Christina have accomplished, so we should just stick with what works. And here we go. You’re lucky. It’s time for your own panic attack—here’s Entrepreneurial Design.
 
 <ImageCaption
- url="/images/year5/s_42FD3C04B7B503C990C3619E269FBB0C18BDC250A471A52735CC280C239EE4C5_1485236089203_file.png">
+ url="/images/year5/s_42FD3C04B7B503C990C3619E269FBB0C18BDC250A471A52735CC280C239EE4C5_1485236089203_file.png"
+ alt="Class of 2013’s Guri Venstad’s The Cheese Map"
+ >
 
  *Class of 2013’s Guri Venstad’s [The Cheese Map](https://www.kickstarter.com/projects/thecheesemap/the-cheese-map)*
 

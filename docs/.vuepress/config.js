@@ -18,7 +18,7 @@ module.exports = {
       navbar: true,
       activeHeaderLinks: true,
       displayAllHeaders: false,
-      smoothScroll: true,
+      smoothScroll: false,
       nav: [
         { text: 'Home', link: '/'},
         { text: 'Teach the 1K', link: '/teach-the-1k/'},
@@ -38,15 +38,15 @@ module.exports = {
                   collapsable: false,
                   children: [
                     '/teach-the-1k/core-concepts.md',
-                    '/teach-the-1k/how-we-teach.md',
+                    '/teach-the-1k/how-we-teach/',
                     {
                       title: 'How We Teach',
-                      collapsable: false,
+                      collapsable: true,
                       children: [
-                        '/teach-the-1k/train.md',
-                        '/teach-the-1k/prepare.md',
-                        '/teach-the-1k/launch.md',
-                        '/teach-the-1k/review.md',
+                        '/teach-the-1k/how-we-teach/train.md',
+                        '/teach-the-1k/how-we-teach/prepare.md',
+                        '/teach-the-1k/how-we-teach/launch.md',
+                        '/teach-the-1k/how-we-teach/review.md',
                       ]
                     },
                     '/teach-the-1k/how-we-manage.md',
@@ -55,7 +55,22 @@ module.exports = {
                 '/teach-the-1k/conclusions.md',
               ]
             }
+          ],
+
+          '/teach-the-1k/how-we-teach/': [
+            {
+              title: 'Teach the 1K: How We Teach',
+              collapsable: false,
+              children: [
+                '/teach-the-1k/how-we-teach/train.md',
+                '/teach-the-1k/how-we-teach/prepare.md',
+                '/teach-the-1k/how-we-teach/launch.md',
+                '/teach-the-1k/how-we-teach/review.md',
+                      ]
+            }
           ]
+
+
         }
     },
     plugins: [

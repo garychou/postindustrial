@@ -61,7 +61,6 @@
 </template>
 
 <script>
-import Tachyons from 'tachyons'
 import resources from '../resources.json'
 
 export default {

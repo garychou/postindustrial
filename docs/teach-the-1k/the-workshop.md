@@ -4,15 +4,24 @@ pageClass: t1kguide
 
 ---
 
-### Alternatively
+February 2019
 
-[Workshop schedule goes here]
-[We cut all of this because it's kind of a rehash of ED, which doesn't make sense for this web version]
-[Maybe some stuff about what we were hoping to accomplish with this: the goal is to teach people how to teach a class centered around the $1K Challenge, in many different types of contexts and communities]
+# Teach the 1K Workshop
+
+Before we get into, we should set a few expectations about a few things:
+
 
 ### What this is and isn't about
 
-![image alt text](./images/image_0.png)
+<ImageCaption
+ url="/images/t1k/image_0.png"
+ alt=""
+ imagewidth="w-100"
+ >
+
+ *I am a markdown caption, [The Cheese Map](https://www.kickstarter.com/projects/thecheesemap/the-cheese-map)*
+
+ </ImageCaption>
 
 The course we designed turned out not to be about what the tech industry tends to think of as business fundamentals, like how to raise VC or build an MVP, but rather about how to get started when you have an inkling of an idea. Fundamentally, we have been exploring the question: "What enables artists, entrepreneurs, and activists to be successful in today’s networked world?"
 
@@ -24,7 +33,15 @@ The best way we have figured out how to teach these two skills is through someth
 
 > "Design, launch and complete a crowdfunding campaign that benefits a community and raises at least $1,000 from 50 different backers."
 
-![image alt text](./images/image_1.png)
+<ImageCaption
+ url="/images/t1k/image_1.png"
+ alt=""
+ imagewidth="w-100"
+ >
+
+ *I am a markdown caption, [The Cheese Map](https://www.kickstarter.com/projects/thecheesemap/the-cheese-map)*
+
+ </ImageCaption>
 
 ### Outcomes
 
@@ -34,18 +51,24 @@ In the last 7 years, we have taken over 100 people through this program, who hav
 
 But it’s not really about the money. Instead, the money is a carrot that lures them through an obstacle course that forces them to learn real, valuable, lessons.
 
-"This class has taught me to have **confidence** in my opinion, curiosity, and (burgeoning) expertise on design."
+> "This class has taught me to have **confidence** in my opinion, curiosity, and (burgeoning) expertise on design."
 
 — Sarah Henry, ‘15
 
-"One of the key things I learned is the** huge gulf between theory and practise**."
+> "One of the key things I learned is the** huge gulf between theory and practise**."
 
 — Tony Chu, ‘13
 
-"...I embrace the **possibility of failure** as a learning opportunity..."
+> "...I embrace the **possibility of failure** as a learning opportunity..."
 
 — Leroy Tellez, ‘15
 
-"I’ve learned that **we are worthy of other people’s support**..."
+> "I’ve learned that **we are worthy of other people’s support**..."
 
 — Song Lee, ‘17
+
+We're going to talk about:
+
+* Core Concepts
+* How We Teach
+* How We Manage
