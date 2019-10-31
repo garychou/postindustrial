@@ -35,9 +35,16 @@
       </div>
       <div class="pb6 w-100">
 
-          <div class="cf w-100">
+          <div class="cf w-100 mw8 center">
 
-            <div class="f5 f5-l fn fl-ns black-70 avenir w-third-m w-25-ns">
+            <div class="f5 f5-l fn fl-ns black-70 avenir w-third-m w-50-ns">
+
+              <span class="bb b--near-white f7 fw5 tracked ttu db mt4 mb4 mb4-ns pl2-ns pb1 black-60">Welcome</span>
+              <div class="measure-ns ml1-l ph0 pb3 ph2-l f5">
+                <Content slot-key="welcome"/>
+              </div>
+
+
               <span class="bb b--near-white f7 fw5 tracked ttu db mt4 mb4 mb4-ns pl2-ns pb1 black-60">Talks & Essays</span>
               <div class="measure-ns ml1-l ph0 pb3 ph2-l">
                 <HomePageLinks/>
@@ -47,22 +54,21 @@
               <div class="measure-ns ml1-l ph0 pb3 ph2-l">
                 <Content slot-key="about"/>
               </div>
+
             </div>
 
-            <div class="fn fl-ns avenir w-two-thirds-m w-75-ns pl4-m pl5-l" id="mission">
-              <span class="w-90-ns bb b--near-white f7 fw5 tracked ttu db mt4 mb1 pb1 black-60">Welcome</span>
-              <div class="lh-copy measure-wide-l ml1 mt4 mt0-ns f5 f4-ns pa2-l">
-                <Content slot-key="welcome"/>
-              </div>
+            <div class="fn fl-ns avenir w-two-thirds-m w-50-ns ph4" id="mission">
 
-              <span class="w-90-ns bb b--near-white f7 fw5 tracked ttu db mt4 mb1 pb1 black-60">Purpose</span>
-              <div class="lh-copy measure-wide-l ml1 mt4 mt0-ns f5 f4-ns pa2-l">
+              <span class="bb b--near-white f7 fw5 tracked ttu db mt4 mb1 pb1 black-60">Purpose</span>
+              <div class="lh-copy measure-wide-l ml1 mt4 mt0-ns f5 f5-ns pa2-l">
                 <Content slot-key="mission"/>
               </div>
             </div>
 
 
-
+<!--            <div class="f5 f5-l fn fl-ns black-70 avenir w-third-m w-30-ns">
+            </div>
+-->
           </div>
         </div>
   </div>

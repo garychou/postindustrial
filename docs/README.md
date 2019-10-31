@@ -24,9 +24,12 @@ projects:
 
 ::: slot welcome
 
-hey guys hows it goin
+**Post-Industrial Design School** is an experiential learning lab run by Christina Xu and Gary Chou.
+
+This website is an archive of their collective and independent explorations working with students, creators, and entrepreneurship educators at [Orbital](https://orbital.nyc) and School of Visual Arts [MFA in Interaction Design Program](http://interactiondesign.sva.edu) from 2012 through 2019.
 
 :::
+
 
 ::: slot mission
 
