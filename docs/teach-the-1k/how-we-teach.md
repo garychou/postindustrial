@@ -141,7 +141,7 @@ But if they can’t find the people they need, they may need to launch a signal 
 
 In the best case scenario, launching a signal starts an iterative process that takes the student from one conversation to the next, enabling them to refine their idea along the way. The student might decide they need to go further, or that their idea isn’t very good, or that they need to switch directions. Sometimes, they might even need to go back to the ideation stage if they realize that they’re not all that interested in their idea after all. Even if it may not feel like it to the student, all of this is progress.
 
-The worse (and far more common) scenario is that the student is stuck and not moving at all, wasting precious time being paralyzed. Stuck students require help, and that help starts with a reframing: that **stuckness is just a symptom of not having enough information**.
+The worse (and far more common) scenario is that the student is stuck and not moving at all, wasting precious time being paralyzed. Stuck students require help, and that help starts with a reframing: **stuckness is just a symptom of not having enough information**.
 
 At this point, thinking harder isn’t going to get the student anywhere. Instead, remind them of the process, and repeat it until they get unstuck: what information are they missing? Who is likely to have access to that information? What signals can they make that will get them access to those people? Who can they share this signal with?
 
@@ -209,9 +209,9 @@ This was a big realization—it took us a while to realize that we needed a mult
 
 One final thing we do to ensure everyone launches on time is that we launch together, as a class. Everyone hits the button at the beginning of class and then we celebrate with pie.
 
-The second biggest challenge is getting anyone to care. This has gotten *much harder* in 2019, when everyone's social media feeds are an unrelenting torrent of breaking news and crises.
+Once launched, the campaigns run for a full two weeks—we believe that this is sufficient for a well-scope campaign.  Now comes the second biggest challenge for the students: getting anyone to care. This has gotten *much harder* in 2019, when everyone's social media feeds are an unrelenting torrent of breaking news and crises.
 
-Actually, whether anyone will care is already out of the students' hands at this point. Did they make something people want, or simply something *they* wanted? Did they talk to the right people? Did they incorporate feedback? Did they find allies and build credibility? During launch, we find out the answers to these questions together.
+In fact, whether anyone will care is mostly already out of the students' hands by this point. Did they make something people want, or simply something *they* wanted? Did they talk to the right people? Did they incorporate feedback? Did they find allies and build credibility? Once the project is live, we find out the answers to these questions together.
 
 What they *can* still do, however, is hustle for attention. We prefer to show them how to do outreach rather than marketing: how you make a signal people want to share, how to ask for help, what success looks like. A huge part of it is normalizing the notion that asking for help is necessary, and not shameful. We can’t expect everyone to know what we’re doing and why; outreach is about taking the step to tell people.
 
@@ -227,74 +227,58 @@ We’ll also get involved and help signal boost:
 
 2. We’ll tweet & retweet
 
-The campaigns run for a full two weeks.
+[[ Ladder of Certainty picture ]]
 
-(You don’t need more than that for a well-scoped campaign.)
-
-Kickstarter, again, is great because campaigns begin and end on a given day.
-
-They enable an experience of finite duration.
-
-If you asked people to launch an app, or a business, or a website, these things have no beginning and end.
-
-Largely, the campaigns run like you’d expect.
-
-Initial interest, followed by a bit of slog, and then sometimes there’s a bump at the end, and other times there isn’t.
-
-However it isn’t the campaigns or the $ that is interesting so much as it is the context that’s now created with the launch window.
-
-They’re now squarely in the sea of uncertainty, and it can feel terrifying.
-
-This is a really huge step.
-
-The campaigns are launched, there’s no clear "right" thing to do next.
-
-It’s going to be different for everyone.
-
-There are going to be highs, lows, and everything in-between.
-
-This is what it feels like...
-
-Before, we were taking them through a training program.
-
-But, at this point, they are now driving the car.
-
-And they’re in control of what they do.
-
-But they also know they’re not in control of what happens.
-
-They don’t control outcomes—anything can happen.
-
-This is the unique experience we want them to have—the kind that you can’t create through other types of learning models.  
-
-Because there are some lessons that can only be learned through experience.
-
-And because they’re driving, anything the gain from their experience becomes much more meaningful.
+For the most part, the campaigns run like you’d expect. There's a bump of initial interest, followed by a bit of slog (which we refer to as the "valley of despair"), and finally perhaps a bump at the end. For the students, they are fully living in the sea of uncertainty, which can feel terrifying. Up until now, we were taking them through the training program, but now they're the ones driving. Everyone will have a different experience, and if they hadn't realized it yet, they are now definitely confronting the fact that not even we, the instructors, can tell them what the "right answer" is for what to do next.
 
 [[ Examples:
 
-Amy Ashida getting $2000 from one donor
+* Amy Ashida getting $2000 from one donor
 
-Upstanding Desk raising $100000 ]]
+* Upstanding Desk raising $100000
 
-A huge part of experiencing these lessons is that you develop a better understanding of the nuances.
+* Getting contacted by Beyoncé ]]
 
-It leads to developing their intuition because they’re having a lived experience vs. reading a Medium article.
+This is the unique experience we want them to have—the kind that we believe we can't create through other types of instructional models. They are now learning through experience, and those lessons are so much more meaningful and lasting than anything we could have imparted via a lecture or a Medium article. Here, described in our students' own words, are some of those lessons:
 
-For example:
+* Behavior isn't always rational, and can't necessarily be engineered (“It was moving how many people backed it for no reward, they just wanted it to happen for others.”)
 
-Understanding that behavior isn’t always rational.  It can’t necessarily be engineered.
+* Validation is an inexplicably powerful, emotional thing to receive, and necessary for maintaining stamina on the journey of creation. (“The kindness and support from collaborated photographers is definitely the most surprising part of the project. They have continuing communicated with me and provide photos and suggestions along the way.”)
 
-Also, understanding what validation feels like.
+* The environment affects outcomes—none of us are creating in a vacuum. (“When I helped my dad to donate on Kickstarter I realized how complex it was for someone that doesn't know English to use the site, so I decided to change my outreach by outlining all the steps Brazilians needed to follow to make a donation. After that more Brazilians started donating.”)
 
-The idea that getting the proof that what you’re working on something that is meaningful to you and others is integral to continuing on your journey.
-
-Understanding and acknowledging that the environment affects outcomes—we don’t build things in a vacuum.
-
-Understanding your own power in world hyperconnected via networks.
-
-[[ Quotes & Stories ]]
 
 ## Review
 
-We are reviewing.
+Once the projects are over after two grueling weeks, our work as instructors continues. It's now time for Review, a process we always make sure to carve out ample time for (3 whole weeks!) because it is a critical part of the learning journey.
+
+“Learning, as I was once told, is a two part process.
+
+The first part is experiential. You have to go through a process of doing and making and observing, which allows your brain to absorb the information.
+
+The second part is reflective. You have to go back and look at all that you absorb and examine them, connect them, integrate them together.” - Tony Chu '13, [Fail in Public](https://blog.tonyhschu.ca/post/21765950765/fail-in-public)
+
+This reflection is *especially* not optional for transformative, experiential learning journeys like the ones we have just taken the students through. Students who have "failed" their challenges are especially in need of guidance to place that experience into a context of ongoing learning. Achievement-oriented students need to be reminded to separate their egos from the work, and that success or failure is just a data point to build on.
+
+In our course, we ask the students to go through four types of review: by themselves, with us, with each other, and in public.
+
+**Self-Review**
+
+[[Screenshot]]
+
+First, we give the students space to reflect on their whole experience in the class in silence. Each student individually fills out a self-evaluation on Google Forms, the results of which are shared back to the whole class and discussed as a group. We have found that in this moment, students are often surprised to find that they were not alone in their struggles or emotions throughout the journey.
+
+**1:1 Review**
+
+Next, we hold quick 1:1 (or technically in our case, 2:1) feedback sessions with each of the students, using their responses to the self-review as a springboard. As instructors, we use this time to point out things they did well (especially if they don't feel like obvious wins) and suggest areas that they can keep working on.
+
+**Lessons Learned Lightning Talks**
+
+The students then have an opportunity to synthesize the most important lesson(s) they've learned into a tight 3 minute, 1 slide lightning talk, which they present to the rest of the class. This is a powerful moment for us to hear what the students really took away from the class, which never fails to surprise us in its range and depth.
+
+**Lessons Learned Blogpost**
+
+Finally, we encourage the students to share their lessons learned, which they've now already synthesized in a low-stakes way, into a blogpost for public consumption. Many of the quotes shared throughout this site come from these posts.
+
+
+
