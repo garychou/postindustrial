@@ -36,3 +36,12 @@ And so, while designing and running a workshop was a feat unto itself, perhaps a
 The rest of this section is an edited version of the content we shared at the workshop.
 
 :::
+
+
+::: slot sidebar
+
+**Acknowledgments**
+
+Thanks to: [Alicia Chang](https://twitter.com/aliciac), [Amy Ashida](https://twitter.com/amyashida), [Courtney Young-Law](https://twitter.com/cyounglaw), [Ken Ikeda](https://twitter.com/civicip), [Laura Patterson](https://twitter.com/laurepat), Lauren Gill, [Nadia Eghbal](https://twitter.com/nayafia), [Nick Barr](https://twitter.com/nsbarr), [Santhosh Balasubramanian](https://twitter.com/balasubramaniac), [Stephanie Pereira](https://twitter.com/happeness), [Suyin So](https://twitter.com/suyinso) and [Tara Reed](https://twitter.com/tarareed_) for their feedback in designing and framing the workshop.
+
+:::

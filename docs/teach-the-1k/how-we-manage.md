@@ -9,7 +9,7 @@ pageClass: t1kguide
 If you successfully made it through How We Teach—congratulations, and thank you! You may have noticed that it is *a lot*, especially from an instructional point of view. Juggling and dealing with all the chaos can be extremely exhausting. Here are a few of our biggest lessons about how to keep it together as instructors, many of which we learned the hard way.
 
 <ImageCaption
- url="/images/t1k/image_1.png"
+ url="/images/t1k/slides_160.png"
  alt=""
  imagewidth="w-100"
  >

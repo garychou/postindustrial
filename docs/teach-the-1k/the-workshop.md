@@ -14,7 +14,9 @@ Before we get into, we should set a few expectations about a few things:
 ### What this is and isn't about
 
 <ImageCaption
- url="/images/t1k/image_0.png"
+ :url="[
+ '/images/t1k/slides_023.png',
+ ]"
  alt=""
  imagewidth="w-100"
  >
@@ -34,7 +36,9 @@ The best way we have figured out how to teach these two skills is through someth
 > "Design, launch and complete a crowdfunding campaign that benefits a community and raises at least $1,000 from 50 different backers."
 
 <ImageCaption
- url="/images/t1k/image_1.png"
+ :url="[
+ '/images/t1k/slides_027.png',
+ ]"
  alt=""
  imagewidth="w-100"
  >
@@ -45,11 +49,48 @@ The best way we have figured out how to teach these two skills is through someth
 
 ### Outcomes
 
-In response to this prompt, our students made things like [[ examples, examples, examples ]].
+In response to this prompt, our students made things like:
+
+<ImageCaption
+ :url="[
+ '/images/t1k/slides_028.png',
+ ]"
+ alt=""
+ imagewidth="w-100"
+ >
+
+ *I am a markdown caption, [The Cheese Map](https://www.kickstarter.com/projects/thecheesemap/the-cheese-map)*
+
+ </ImageCaption>
+
+ <ImageCaption
+  :url="[
+  '/images/t1k/slides_029.png',
+  ]"
+  alt=""
+  imagewidth="w-100"
+  >
+
+  *I am a markdown caption, [The Cheese Map](https://www.kickstarter.com/projects/thecheesemap/the-cheese-map)*
+
+  </ImageCaption>
+
+  <ImageCaption
+   :url="[
+   '/images/t1k/slides_030.png',
+   ]"
+   alt=""
+   imagewidth="w-100"
+   >
+
+   *I am a markdown caption, [The Cheese Map](https://www.kickstarter.com/projects/thecheesemap/the-cheese-map)*
+
+   </ImageCaption>
 
 In the last 7 years, we have taken over 100 people through this program, who have collectively raised more than $340,000 for their ideas.
 
 But it’s not really about the money. Instead, the money is a carrot that lures them through an obstacle course that forces them to learn real, valuable, lessons.
+
 
 > "This class has taught me to have **confidence** in my opinion, curiosity, and (burgeoning) expertise on design."
 

@@ -41,7 +41,7 @@ module.exports = {
                     '/teach-the-1k/how-we-teach/',
                     {
                       title: 'How We Teach',
-                      collapsable: true,
+                      collapsable: false,
                       children: [
                         '/teach-the-1k/how-we-teach/train.md',
                         '/teach-the-1k/how-we-teach/prepare.md',

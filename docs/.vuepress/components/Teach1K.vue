@@ -13,7 +13,12 @@
        <div class="avenir lh-copy measure-wide mt4 mt0-ns f5 f4-ns center">
          <Content slot-key="body"/>
        </div>
+       <div class="f6 measure-narrow-ns bg-black-05 black-70 ph3 ph4-l pv3 mt3-ns mh0 mh2-m mh4-ns br3 avenir">
+         <Content slot-key="sidebar"/>
+       </div>
      </div>
+
+
      </SectionHeader>
 
    </div>
