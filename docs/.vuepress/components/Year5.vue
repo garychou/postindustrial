@@ -1,8 +1,8 @@
 <template>
   <div>
-   <div class="w-100 mw8 pt4 center flex flex-column flex-row-reverse-l">
+   <div class="w-100 mw8 pt4 center flex flex-column">
 
-     <div class="w-100 w-two-thirds-l pl4-l lh-title fw5 titles">
+     <div class="w-100 lh-title fw5 titles mw7 center">
       <h2 class="f-subheadline f-headline-l mv0 pv0">{{ $frontmatter.title }}</h2>
       <p class="lh-copy mt0 pt0 f3 fw4">{{ $frontmatter.subtitle }}</p>
       <p class="f6 ttu db tracked tl">
@@ -11,16 +11,19 @@
       <div class="w-100 fw4 f6 f5-ns pr2 pv0 mv0">
         <Content slot-key="credits"/>
       </div>
-    </div>
+     </div>
 
-    <div class="w-100 w-third-l mid-purple pv4 pv0-l">
+    <div class="w-100 mid-purple mw6 center pv5 ">
       <div class="tc mb0-ns">
         <img :src="$frontmatter.heroimage" class="w-100 mb1-ns ba b--black-30 pa0"/>
-        <div class="avenir f7 f6-ns tc db lh-title center hero">
+        <div class="avenir f6-ns tc db lh-title center hero">
           <Content slot-key="herocaption"/>
         </div>
       </div>
     </div>
+
+
+
   </div>
 
    <div class="cf w-100 mw9 center pa0 pa4-ns avenir" id="year5">
