@@ -35,13 +35,13 @@ What we needed was an opportunity to get in front of a range of people; presenti
 
 And so, while designing and running a workshop was a feat unto itself, the bigger win was an articulation of both the need for our work and our pedagogy, as well as the opportunity to be in dialogue with key individuals who served specific communities of interest.
 
+**Acknowledgments**
+
+Thanks to: [Alicia Chang](https://twitter.com/aliciac), [Amy Ashida](https://twitter.com/amyashida), [Courtney Young-Law](https://twitter.com/cyounglaw), [Ken Ikeda](https://twitter.com/civicip), [Laura Patterson](https://twitter.com/laurepat), Lauren Gill, [Nadia Eghbal](https://twitter.com/nayafia), [Nick Barr](https://twitter.com/nsbarr), [Santhosh Balasubramanian](https://twitter.com/balasubramaniac), [Stephanie Pereira](https://twitter.com/happeness), [Suyin So](https://twitter.com/suyinso) and [Tara Reed](https://twitter.com/tarareed_) for their feedback in designing and framing the workshop.
 
 :::
 
 ::: slot sidebar
 
-**Acknowledgments**
-
-Thanks to: [Alicia Chang](https://twitter.com/aliciac), [Amy Ashida](https://twitter.com/amyashida), [Courtney Young-Law](https://twitter.com/cyounglaw), [Ken Ikeda](https://twitter.com/civicip), [Laura Patterson](https://twitter.com/laurepat), Lauren Gill, [Nadia Eghbal](https://twitter.com/nayafia), [Nick Barr](https://twitter.com/nsbarr), [Santhosh Balasubramanian](https://twitter.com/balasubramaniac), [Stephanie Pereira](https://twitter.com/happeness), [Suyin So](https://twitter.com/suyinso) and [Tara Reed](https://twitter.com/tarareed_) for their feedback in designing and framing the workshop.
 
 :::

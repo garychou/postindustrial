@@ -35,7 +35,7 @@ module.exports = {
               title: 'The Workshop',
               path: '/teach-the-1k/workshop/',
               sidebarDepth: 2,
-              collapsable: true,
+              collapsable: false,
               children: [
                 '/teach-the-1k/workshop/core-concepts.md',
                 {
