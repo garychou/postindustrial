@@ -14,7 +14,6 @@
 
       <div class="w-100 cf mb4">
         <span class="bb b--near-white f7 fw5 tracked ttu db mt4 mb3 pb1 ml1 black-60">Projects</span>
-
         <article v-for="p in $page.frontmatter.projects" class="mt3 mt0-ns fl w-100 w-50-m w-third-ns pa1-ns">
           <div class="pa2">
             <a :href="p.url" class="fl w-100 border-box overflow-hidden ba b--black-40 db mb3" title="">

@@ -10,6 +10,7 @@ const autometa_options = {
   schema : true, // schema.org for google
 };
 
+
 module.exports = {
     title: 'Design School',
     description: 'An Experiential Learning Lab',
@@ -28,50 +29,32 @@ module.exports = {
       sidebar:
         {
           '/teach-the-1k/': [
+            '/teach-the-1k/',
+            '/teach-the-1k/lessons.md',
             {
-              title: 'Teach the 1K',
+              title: 'The Workshop',
+              path: '/teach-the-1k/workshop/',
+              sidebarDepth: 2,
+              collapsable: true,
               children: [
-                '/teach-the-1k/',
-                ['/teach-the-1k/the-workshop.md','The Workshop'],
+                '/teach-the-1k/workshop/core-concepts.md',
                 {
-                  title: 'The Workshop',
+                  title: 'How We Teach',
+                  path: '/teach-the-1k/workshop/how-we-teach/',
                   collapsable: false,
                   children: [
-                    '/teach-the-1k/core-concepts.md',
-                    '/teach-the-1k/how-we-teach/',
-                    {
-                      title: 'How We Teach',
-                      collapsable: false,
-                      children: [
-                        '/teach-the-1k/how-we-teach/train.md',
-                        '/teach-the-1k/how-we-teach/prepare.md',
-                        '/teach-the-1k/how-we-teach/launch.md',
-                        '/teach-the-1k/how-we-teach/review.md',
-                      ]
-                    },
-                    '/teach-the-1k/how-we-manage.md',
+                    '/teach-the-1k/workshop/how-we-teach/train.md',
+                    '/teach-the-1k/workshop/how-we-teach/prepare.md',
+                    '/teach-the-1k/workshop/how-we-teach/launch.md',
+                    '/teach-the-1k/workshop/how-we-teach/review.md',
                   ]
                 },
-                '/teach-the-1k/conclusions.md',
-              ]
-            }
-          ],
 
-          '/teach-the-1k/how-we-teach/': [
-            {
-              title: 'Teach the 1K: How We Teach',
-              collapsable: false,
-              children: [
-                '/teach-the-1k/how-we-teach/train.md',
-                '/teach-the-1k/how-we-teach/prepare.md',
-                '/teach-the-1k/how-we-teach/launch.md',
-                '/teach-the-1k/how-we-teach/review.md',
-                      ]
-            }
-          ]
-
-
-        }
+              '/teach-the-1k/workshop/how-we-manage.md',
+            ]
+          }
+        ]
+      }
     },
     plugins: [
       [ 'autometa', autometa_options ],
@@ -81,7 +64,4 @@ module.exports = {
               notFoundPath: '/404.html'
             }]
     ],
-    markdown: {
-
-    }
 }

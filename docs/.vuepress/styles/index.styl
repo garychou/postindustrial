@@ -72,18 +72,22 @@ a.header-anchor
 .teachthe1k .links .nav-item > a:not(.external).router-link-active,
 .teachthe1k .sidebar a.active.sidebar-link,
 .teachthe1k .links .nav-item a.router-link-active,
-.t1kguide .page a,
-.t1kguide .nav-links a:hover,
-.t1kguide .nav-links a.router-link-active,
-.t1kguide .navbar .links .nav-item a.nav-link:hover,
-.t1kguide div.links div.nav-item > a:hover,
-.t1kguide .links .nav-item > a:not(.external).router-link-active
-.t1kguide .sidebar a.active.sidebar-link,
-.t1kguide .links .nav-item a.router-link-active
+.workshop .page a,
+.workshop .nav-links a:hover,
+.workshop .nav-links a.router-link-active,
+.workshop .navbar .links .nav-item a.nav-link:hover,
+.workshop div.links div.nav-item > a:hover,
+.workshop .links .nav-item > a:not(.external).router-link-active
+.workshop .sidebar a.active.sidebar-link,
+.workshop .links .nav-item a.router-link-active
   color: #33a52c
 
+.teachthe1k span.arrow.right, .teachthe1k span.arrow.down,
+.workshop span.arrow.right, .workshop span.arrow.down
+  display: none
+
 .teachthe1k .links .nav-item > a:not(.external).router-link-active,
-.t1kguide .links .nav-item > a:not(.external).router-link-active
+.workshop .links .nav-item > a:not(.external).router-link-active
   background: #e3fce6
   font-weight: 600
   border-color: transparent
@@ -125,8 +129,6 @@ a.header-anchor
 .sidebar-heading
   display: none
 
-ul.sidebar-links li a.sidebar-link
-  font-size: 0.95rem
 
 ul.sidebar-links li a.sidebar-link.active
   border-left-color: transparent
@@ -150,11 +152,11 @@ ul.sidebar-links li a.sidebar-link:not(.active), .sidebar-group.is-sub-group > .
   background: #f7fbfd
 
 
-.teachthe1k .sidebar,.t1kguide .sidebar
+.teachthe1k .sidebar,.workshop .sidebar
   @media screen and (min-width: 720px)
     top: 10%;
 
-.t1kguide.theme-container .theme-default-content
+.workshop.theme-container .theme-default-content
   width: 100%
   margin-right: auto
   margin-left: auto
