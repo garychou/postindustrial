@@ -2,6 +2,9 @@
 title: How We Teach
 sidebarDepth: 2
 pageClass: workshop
+next: train.md
+prev: ../core-concepts.md
+
 ---
 
 # How We Teach

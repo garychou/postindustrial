@@ -2,7 +2,7 @@
 title: Lessons
 sidebarDepth: 1
 pageClass: workshop
-
+next: /teach-the-1k/workshop/
 ---
 
 # Lessons

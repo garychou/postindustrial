@@ -2,6 +2,8 @@
 title: Train
 sidebarDepth: 2
 pageClass: workshop
+prev: /teach-the-1k/workshop/how-we-teach/
+
 ---
 
 # Train

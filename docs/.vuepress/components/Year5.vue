@@ -52,9 +52,9 @@ export default {
   computed: {
   },
   mounted(){
-    const blocks = document.getElementsByTagName("BLOCKQUOTE");
+    const blocks = document.querySelectorAll(".year5 blockquote");
     const paras = document.querySelectorAll('#year5 p, #year5 ul');
-    const blockparas = document.querySelectorAll('blockquote p');
+    const blockparas = document.querySelectorAll('.year5 blockquote p');
     const h = document.querySelectorAll('#year5 h2');
     const links = document.querySelectorAll('.year5 p a');
     const hero = document.querySelectorAll('.hero p');

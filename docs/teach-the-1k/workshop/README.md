@@ -1,7 +1,8 @@
 ---
 title: The Workshop
 pageClass: workshop
-
+prev: ../lessons.md
+next: core-concepts.md
 ---
 
 February 2019
