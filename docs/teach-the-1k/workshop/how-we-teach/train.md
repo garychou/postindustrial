@@ -22,7 +22,7 @@ Training is also helpful for giving students a preview of what they will be expe
  imagewidth="w-100"
  >
 
- *I am a markdown caption, [The Cheese Map](https://www.kickstarter.com/projects/thecheesemap/the-cheese-map)*
+ *At SVA, we were working within an institution that provided resources, space, and access to supportive alumni; we also had a fixed group of students and a fixed schedule. The students are generally skilled at some kind of design, but tend to be highly achievement-oriented and are juggling other commitments. Many have small or no networks in New York.*
 
  </ImageCaption>
 
@@ -46,7 +46,7 @@ Blogposts are very common signals, which make it easier for people to find you a
  imagewidth="w-100"
  >
 
- *I am a markdown caption, [The Cheese Map](https://www.kickstarter.com/projects/thecheesemap/the-cheese-map)*
+ *The Hello World! Challenge runs for 2 weeks and asks students to write and revise a blog post about an experience or area of expertise, publish it on Medium, and promote it on social media. Students must also cross-promote their classmates' posts.*
 
  </ImageCaption>
 
@@ -58,7 +58,7 @@ When we first started teaching, we never thought we had to teach this to a gener
  imagewidth="w-100"
  >
 
- *I am a markdown caption, [The Cheese Map](https://www.kickstarter.com/projects/thecheesemap/the-cheese-map)*
+ *The weekly blogging habit asks students to publish at least one blog post about their work in our class every week, often with prompts. Our goals are to help students surface issues and triumphs, develop a track record and online identity, practice storytelling, and hone signals.*
 
  </ImageCaption>
 
@@ -74,7 +74,7 @@ Helping our students build up a network is critical to their success not just in
  imagewidth="w-100"
  >
 
- *I am a markdown caption, [The Cheese Map](https://www.kickstarter.com/projects/thecheesemap/the-cheese-map)*
+ *A visualization of our students' networks. For most students, their networks start with faculty and cohort connections, as well as family, friends, and professional networks from their career so far.*
 
  </ImageCaption>
 
@@ -87,7 +87,7 @@ At SVA, we teach a lot of international students who are new to New York and oft
  imagewidth="w-100"
  >
 
- *I am a markdown caption, [The Cheese Map](https://www.kickstarter.com/projects/thecheesemap/the-cheese-map)*
+ *The Initial Community Offering Challenge lasts for 5 weeks. Students are asked to observe a community, design an offering (a map, repository, convening, or tutorial) for that community, share the offering with the community for feedback, and iterate upon it.*
 
  </ImageCaption>
 
@@ -99,7 +99,7 @@ Through a challenge we cheekily named Initial Community Offering, we get the stu
  imagewidth="w-100"
  >
 
- *I am a markdown caption, [The Cheese Map](https://www.kickstarter.com/projects/thecheesemap/the-cheese-map)*
+ *We believe in starting with people, then figuring out a value proposition, and finally coming up with ideas to solve this specific problem—rather than the other way around. In this model, you are not the genius behind the idea or its owner, but rather a midwife helping to bring it to life.*
 
  </ImageCaption>
 
@@ -114,7 +114,9 @@ In our opinion, a common affliction with the narrative around design and entrepr
  imagewidth="w-100"
  >
 
- *I am a markdown caption, [The Cheese Map](https://www.kickstarter.com/projects/thecheesemap/the-cheese-map)*
+ *Top: an Initial Community Offering from [Kate Styer](https://www.katestyer.com/) to the restorative justice community.
+
+ Bottom: [Addi Hou](http://www.addihou.com/)'s ICO on parental concerns around technology*
 
  </ImageCaption>
 

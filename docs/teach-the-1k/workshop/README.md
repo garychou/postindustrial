@@ -26,7 +26,7 @@ Before we get into the workshop, we should set a few expectations:
  imagewidth="w-100"
  >
 
- *I am a markdown caption, [The Cheese Map](https://www.kickstarter.com/projects/thecheesemap/the-cheese-map)*
+ *Our course does not focus on typical "entrepeneurship skill" like building a MVP, raising venture capital, or even how to run Kickstarter campaigns. Rather, it centers around how to take iterative steps towards a goal.*
 
  </ImageCaption>
 
@@ -40,18 +40,6 @@ The best way we have figured out how to teach these two skills is through someth
 
 <Quote1 cite="$1K Challenge" url="https://docs.google.com/document/d/19Zlq4nQ5BgR-dkOKGqLua7fLkblcLksCNeHnJPkQlvQ/edit" reference="Entrepreneurial Design, 2018">Design, launch and complete a crowdfunding campaign that benefits a community you’ve worked with over the course of the semester. The campaign should raise at least $1,000 from 50 different backers.</Quote1>
 
-<ImageCaption
- :url="[
- '/images/t1k/slides_027.png',
- ]"
- alt=""
- imagewidth="w-100"
- >
-
- *I am a markdown caption, [The Cheese Map](https://www.kickstarter.com/projects/thecheesemap/the-cheese-map)*
-
- </ImageCaption>
-
 ### Outcomes
 
 In response to this prompt, our students made things like:
@@ -64,7 +52,7 @@ In response to this prompt, our students made things like:
  imagewidth="w-100"
  >
 
- *I am a markdown caption, [The Cheese Map](https://www.kickstarter.com/projects/thecheesemap/the-cheese-map)*
+ *[Dear Library](https://www.kickstarter.com/projects/1860785512/dear-library), by [Kinza Kasher](https://kinzakasher.com/)*
 
  </ImageCaption>
 
@@ -76,7 +64,7 @@ In response to this prompt, our students made things like:
   imagewidth="w-100"
   >
 
-  *I am a markdown caption, [The Cheese Map](https://www.kickstarter.com/projects/thecheesemap/the-cheese-map)*
+  *[Descubre](https://www.kickstarter.com/projects/margaritayong/descubre-emerging-peruvian-artists-and-designers), by [Margarita Yong](https://www.margaritayong.design/)*
 
   </ImageCaption>
 
@@ -88,7 +76,7 @@ In response to this prompt, our students made things like:
    imagewidth="w-100"
    >
 
-   *I am a markdown caption, [The Cheese Map](https://www.kickstarter.com/projects/thecheesemap/the-cheese-map)*
+   *[Untold](https://www.kickstarter.com/projects/angietran/untold-a-documentary-about-student-social-work-in/faqs), by [Angie Ngoc Tran](https://www.angie-ngoctran.com/)*
 
    </ImageCaption>
 
