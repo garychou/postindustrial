@@ -14,17 +14,6 @@ This part of the course is the most treacherous for students and instructors ali
 
 ## Ideate
 
-
-<ImageCaption
- url='/images/t1k/slides_088.png'
- alt=""
- imagewidth="w-100"
- >
-
- *I am a markdown caption, [The Cheese Map](https://www.kickstarter.com/projects/thecheesemap/the-cheese-map)*
-
- </ImageCaption>
-
 It takes real motivation to get through all the obstacles on the journey to launch, so everything is easier if students are working on something that they truly care about. We’ve often had to reject people’s ideas when it’s clear that they are trying to impress or pander to us, or when they are trying to pick something that seems "easy to do". Students don't always come into the program believing that their own ideas and interests are worth pursuing.
 
 At this phase, students may know exactly what they want to work on, or they may be asking questions like:
@@ -43,7 +32,7 @@ On day one of the Prepare phase, we take the students through a considered ideat
  imagewidth="w-100"
  >
 
- *I am a markdown caption, [The Cheese Map](https://www.kickstarter.com/projects/thecheesemap/the-cheese-map)*
+ *Our 2018 cohort at SVA runs through our ideation exercise—we take advantage of our huge classroom to give each student plenty of room to brainstorm, then rotate the students around the room.*
 
  </ImageCaption>
 
@@ -66,7 +55,7 @@ This may feel awkward for students because they’ve been trained to get to cert
  imagewidth="w-100"
  >
 
- *I am a markdown caption, [The Cheese Map](https://www.kickstarter.com/projects/thecheesemap/the-cheese-map)*
+ *Our core exploration loop consists of: finding and accessing people, engaging in dialogue, synthesizing learnings, sharing lessons and new questions back out, and repeat.*
 
  </ImageCaption>
 
@@ -154,7 +143,7 @@ Because our students are often tired of our opinions by this point, we call in o
  imagewidth="w-100"
  >
 
- *I am a markdown caption, [The Cheese Map](https://www.kickstarter.com/projects/thecheesemap/the-cheese-map)*
+ *Scenes from Product Sessions past. At top, students and advisors gather to listen to advisor takeaways at the end of the event. At bottom, a collage of individual meetings between students and advisors during the event.*
 
  </ImageCaption>
 

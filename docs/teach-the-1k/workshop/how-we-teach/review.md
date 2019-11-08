@@ -29,25 +29,12 @@ In our course, we ask the students to go through four types of review: by themse
  imagewidth="w-100"
  >
 
- *Fuck Everything, We're Doing Five Blades*
+ *Our review modes: Self Review, 1:1 Review, Lessons Learned Lightning Talk, and Lessons Learned Blog Post*
 
  </ImageCaption>
 
 
 ## Self-Review
-
-<ImageCaption
- :url="[
- '/images/t1k/slides_080.png',
- '/images/t1k/slides_081.png',
- ]"
- alt=""
- imagewidth="w-100"
- >
-
-  *I am a markdown caption, [The Cheese Map](https://www.kickstarter.com/projects/thecheesemap/the-cheese-map)*
-
- </ImageCaption>
 
 First, we give the students space to reflect on their whole experience in the class in silence. Each student individually fills out a self-evaluation on Google Forms, the results of which are shared back to the whole class and discussed as a group. We have found that in this moment, students are often surprised to find that they were not alone in their struggles or emotions throughout the journey.
 

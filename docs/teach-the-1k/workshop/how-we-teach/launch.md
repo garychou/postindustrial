@@ -43,7 +43,7 @@ What they *can* still do, however, is hustle for attention. We prefer to show th
  imagewidth="w-100"
  >
 
- *At some point, you just need to send out all the emails.*
+ *At some point, you just need to send out all the emails. These are screenshots of the hundreds of emails Gary sent out when Orbital was recruiting new members.*
 
  </ImageCaption>
 
@@ -65,7 +65,7 @@ For the students, they are fully living in the sea of uncertainty, which can fee
  imagewidth="w-100"
  >
 
- *Credit: Santhosh Balasubramanian*
+ *The ladder of certainty vs. the sea of uncertainty. Credit: [Santhosh Balasubramanian](https://twitter.com/balasubramaniac?)*
 
  </ImageCaption>
 
@@ -77,7 +77,7 @@ Up until now, we were taking them through the training program, but now they're 
  imagewidth="w-100"
  >
 
- *Amy Ashida getting $2,000 from one donor.*
+ *[Amy Ashida](https://www.linkedin.com/in/amyashida/)'s Kickstarter update after getting $2,000 from one donor within less than 24 hours of launch.*
 
  </ImageCaption>
 
@@ -87,7 +87,7 @@ Up until now, we were taking them through the training program, but now they're 
   imagewidth="w-100"
   >
 
-  *Datrianna getting contacted by Beyoncé.*
+  *An email from [Datrianna Meeks](https://www.linkedin.com/in/datriannameeks/) to our teaching team to let us know that she received an email from Beyoncé's VP of Worldwide Marketing as a result of her project.*
 
   </ImageCaption>
 
@@ -97,7 +97,7 @@ Up until now, we were taking them through the training program, but now they're 
    imagewidth="w-100"
    >
 
-   *Jason Branch*
+   *Part of [Jason Branch](http://jsonbrnch.com/home/)'s [Twitter thread](https://twitter.com/jsonbrnch/status/984867687137447937?s=20) about how his project crossed the finish line.*
 
    </ImageCaption>
 

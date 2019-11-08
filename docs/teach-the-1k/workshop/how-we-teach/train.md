@@ -114,9 +114,7 @@ In our opinion, a common affliction with the narrative around design and entrepr
  imagewidth="w-100"
  >
 
- *Top: an Initial Community Offering from [Kate Styer](https://www.katestyer.com/) to the restorative justice community.
-
- Bottom: [Addi Hou](http://www.addihou.com/)'s ICO on parental concerns around technology*
+ ***Top:** an Initial Community Offering from [Kate Styer](https://www.katestyer.com/) to the restorative justice community. **Bottom:** [Addi Hou](http://www.addihou.com/)'s ICO on parental concerns around technology*
 
  </ImageCaption>
 
