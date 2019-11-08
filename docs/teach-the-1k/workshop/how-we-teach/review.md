@@ -8,13 +8,16 @@ pageClass: workshop
 
 Once the projects are over after two grueling weeks, our work as instructors continues. It's now time for Review, a process we always make sure to carve out ample time for (3 whole weeks!) because it is a critical part of the learning journey.
 
-> “Learning, as I was once told, is a two part process.  
+<Quote1 cite="Tony Chu '13" url="https://blog.tonyhschu.ca/post/21765950765/fail-in-public" reference="Fail in Public">Learning, as I was once told, is a two part process.  
 
-> The first part is experiential. You have to go through a process of doing and making and observing, which allows your brain to absorb the information.  
+The first part is experiential. You have to go through a process of doing and making and observing, which allows your brain to absorb the information.  
 
-> The second part is reflective. You have to go back and look at all that you absorb and examine them, connect them, integrate them together.”
+The second part is reflective. You have to go back and look at all that you absorb and examine them, connect them, integrate them together.
 
-- Tony Chu '13, [Fail in Public](https://blog.tonyhschu.ca/post/21765950765/fail-in-public)
+</Quote1>
+
+
+
 
 This reflection is *especially* not optional for transformative, experiential learning journeys like the ones we have just taken the students through. Students who have "failed" their challenges are especially in need of guidance to place that experience into a context of ongoing learning. Achievement-oriented students need to be reminded to separate their egos from the work, and that success or failure is just a data point to build on.
 

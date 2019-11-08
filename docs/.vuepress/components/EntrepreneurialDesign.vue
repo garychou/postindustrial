@@ -50,11 +50,3 @@ export default {
   }
 }
 </script>
-<style>
-/*
-#e3fce6
-#33a52c
-*/
-
-
-</style>

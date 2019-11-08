@@ -29,13 +29,9 @@ The latest design of our course is divided into four distinct phases: Train, Pre
 At SVA, we have:
 
 * 16 week semesters
-
 * 15-20 first year Interaction Design MFA students
-
 * Mandatory class
-
 * Fixed schedule (one 3 hour class / week)
-
 * Institutional support in terms of resources, space, $$, and students
 
 And we put together these phases like this:

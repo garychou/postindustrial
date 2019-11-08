@@ -35,7 +35,7 @@ After 10 iterations of teaching it, our current best answer to this is: the abil
 
 The best way we have figured out how to teach these two skills is through something we call the $1K Challenge, which we first developed at the School of Visual Arts’ MFA in Interaction Design program. In 2018, we framed the $1K Challenge to our students at SVA as:
 
-> "Design, launch and complete a crowdfunding campaign that benefits a community and raises at least $1,000 from 50 different backers."
+<Quote1 cite="$1K Challenge" url="https://docs.google.com/document/d/19Zlq4nQ5BgR-dkOKGqLua7fLkblcLksCNeHnJPkQlvQ/edit" reference="Entrepreneurial Design, 2018">Design, launch and complete a crowdfunding campaign that benefits a community you’ve worked with over the course of the semester. The campaign should raise at least $1,000 from 50 different backers.</Quote1>
 
 <ImageCaption
  :url="[
@@ -93,25 +93,10 @@ In the last 7 years, we have taken over 100 people through this program, who hav
 
 But it’s not really about the money. Instead, the money is a carrot that lures them through an obstacle course that forces them to learn real, valuable, lessons.
 
+<Quote1 cite="Sarah Henry, '15">"This class has taught me to have <strong>confidence</strong> in my opinion, curiosity, and (burgeoning) expertise on design."</Quote1>
 
-> "This class has taught me to have **confidence** in my opinion, curiosity, and (burgeoning) expertise on design."
+<Quote1 cite="Tony Chu, '13">"One of the key things I learned is the <strong>huge gulf between theory and practise</strong>."</Quote1>
 
-— Sarah Henry, ‘15
+<Quote1 cite="Leroy Tellez, '15">"...I embrace the <strong>possibility of failure</strong> as a learning opportunity..."</Quote1>
 
-> "One of the key things I learned is the** huge gulf between theory and practise**."
-
-— Tony Chu, ‘13
-
-> "...I embrace the **possibility of failure** as a learning opportunity..."
-
-— Leroy Tellez, ‘15
-
-> "I’ve learned that **we are worthy of other people’s support**..."
-
-— Song Lee, ‘17
-
-We're going to talk about:
-
-* Core Concepts
-* How We Teach
-* How We Manage
+<Quote1 cite="Song Lee, '17">"I’ve learned that <strong>we are worthy of other people’s support</strong>..."</Quote1>

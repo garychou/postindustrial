@@ -8,7 +8,7 @@ pageClass: workshop
 
 It is at this point in the course that we (finally!) officially introduce the $1K Challenge. The wording we use is:
 
-"Design, launch and complete a crowdfunding campaign that benefits a community you’ve worked with over the course of the semester. The campaign should raise at least $1,000 from 50 different backers."
+<Quote1 cite="$1K Challenge" url="https://docs.google.com/document/d/19Zlq4nQ5BgR-dkOKGqLua7fLkblcLksCNeHnJPkQlvQ/edit" reference="Entrepreneurial Design, 2018">Design, launch and complete a crowdfunding campaign that benefits a community you’ve worked with over the course of the semester. The campaign should raise at least $1,000 from 50 different backers.</Quote1>
 
 This part of the course is the most treacherous for students and instructors alike. To impose enough structure to push students through to the other side, we frame progress as a series of gates that they move back and forth between.
 
