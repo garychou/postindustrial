@@ -12,11 +12,11 @@ Juggling and dealing with all the chaos can be extremely exhausting.
 
 <ImageCaption
  url="/images/t1k/slides_160.png"
- alt=""
+ alt="The rollercoaster of the semester, from our point of view as instructors. Our work is heaviest upfront in the Train session, and then picks up again around Launch. However, chaos is building steadily during the Prepare phase, dropping off steeply after Launch."
  imagewidth="w-100"
  >
 
- *I am a markdown caption, [The Cheese Map](https://www.kickstarter.com/projects/thecheesemap/the-cheese-map)*
+ *We ride a different rollercoaster than the the students, but it's still hectic.*
 
  </ImageCaption>
 

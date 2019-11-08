@@ -32,11 +32,11 @@ And we put together these phases like this:
 
 <ImageCaption
  url="/images/t1k/slides_055.png"
- alt=""
+ alt="Earlier on, we lectured for the first 3 weeks of class and then leapt into Prepare (5 weeks), Launch (3 weeks), and Review (4 weeks). In our latest iteration, we spent 6 weeks on Train, 5 weeks on Prepare, 2 weeks on Launch, and 3 weeks on Review."
  imagewidth="w-100"
  >
 
- *Earlier on, we lectured for the first 3 weeks of class and then leapt into Prepare (5 weeks), Launch (3 weeks), and Review (4 weeks). In our latest iteration, we spent 6 weeks on Train, 5 weeks on Prepare, 2 weeks on Launch, and 3 weeks on Review.*
+ *Over the years, we changed the structure of the course significantly.*
 
  </ImageCaption>
 

@@ -139,11 +139,11 @@ Because our students are often tired of our opinions by this point, we call in o
    '/images/t1k/slides_111.png',
  ]"
 
- alt=""
+ alt=" At top, students and advisors gather to listen to advisor takeaways at the end of the event. At bottom, a collage of individual meetings between students and advisors during the event."
  imagewidth="w-100"
  >
 
- *Scenes from Product Sessions past. At top, students and advisors gather to listen to advisor takeaways at the end of the event. At bottom, a collage of individual meetings between students and advisors during the event.*
+ *Scenes from Product Sessions past.*
 
  </ImageCaption>
 

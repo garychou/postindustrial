@@ -19,11 +19,11 @@ Before we get into, we should set a few expectations about a few things:
  :url="[
  '/images/t1k/slides_023.png',
  ]"
- alt=""
+ alt="Our course does not focus on typical "entrepeneurship skill" like building a MVP, raising venture capital, or even how to run Kickstarter campaigns. Rather, it centers around how to take iterative steps towards a goal."
  imagewidth="w-100"
  >
 
- *Our course does not focus on typical "entrepeneurship skill" like building a MVP, raising venture capital, or even how to run Kickstarter campaigns. Rather, it centers around how to take iterative steps towards a goal.*
+ *One of the first things we show our students, to set expectations clearly.*
 
  </ImageCaption>
 
@@ -45,7 +45,7 @@ In response to this prompt, our students made things like:
  :url="[
  '/images/t1k/slides_028.png',
  ]"
- alt=""
+ alt="Dear Library, a Kickstarter project by Kinza Kasher"
  imagewidth="w-100"
  >
 
@@ -57,7 +57,7 @@ In response to this prompt, our students made things like:
   :url="[
   '/images/t1k/slides_029.png',
   ]"
-  alt=""
+  alt="Descubre, a Kickstarter project by Margarita Yong."
   imagewidth="w-100"
   >
 
@@ -69,7 +69,7 @@ In response to this prompt, our students made things like:
    :url="[
    '/images/t1k/slides_030.png',
    ]"
-   alt=""
+   alt="Untold, a Kickstarter project by Angie Ngoc Tran."
    imagewidth="w-100"
    >
 

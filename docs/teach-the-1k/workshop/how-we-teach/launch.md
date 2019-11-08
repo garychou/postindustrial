@@ -39,11 +39,11 @@ What they *can* still do, however, is hustle for attention. We prefer to show th
  '/images/t1k/slides_124.png',
  '/images/t1k/slides_125.png',
 ]"
- alt=""
+ alt="Screenshots of the hundreds of emails Gary sent out when Orbital was recruiting new members."
  imagewidth="w-100"
  >
 
- *At some point, you just need to send out all the emails. These are screenshots of the hundreds of emails Gary sent out when Orbital was recruiting new members.*
+ *At some point, you just need to send out all the emails. *
 
  </ImageCaption>
 
@@ -61,11 +61,11 @@ For the students, they are fully living in the sea of uncertainty, which can fee
 
 <ImageCaption
  url='/images/t1k/slides_129.png'
- alt=""
+ alt="The ladder of certainty vs. the sea of uncertainty."
  imagewidth="w-100"
  >
 
- *The ladder of certainty vs. the sea of uncertainty. Credit: [Santhosh Balasubramanian](https://twitter.com/balasubramaniac?)*
+ *Credit: [Santhosh Balasubramanian](https://twitter.com/balasubramaniac?)*
 
  </ImageCaption>
 
@@ -83,17 +83,17 @@ Up until now, we were taking them through the training program, but now they're 
 
  <ImageCaption
   url='/images/t1k/slides_137.png'
-  alt=""
+  alt="An email from Datrianna Meeks to our teaching team to let us know that she received an email from Beyoncé's VP of Worldwide Marketing as a result of her project."
   imagewidth="w-100"
   >
 
-  *An email from [Datrianna Meeks](https://www.linkedin.com/in/datriannameeks/) to our teaching team to let us know that she received an email from Beyoncé's VP of Worldwide Marketing as a result of her project.*
+  *[Datrianna Meeks](https://www.linkedin.com/in/datriannameeks/) got an email from [Beyoncé](https://giphy.com/gifs/real-housewives-new-york-read-PWT8AptmKh7TW).*
 
   </ImageCaption>
 
   <ImageCaption
    url='/images/t1k/slides_140.png'
-   alt=""
+   alt="Jason Branch's Twitter thread about how his project crossed the finish line."
    imagewidth="w-100"
    >
 

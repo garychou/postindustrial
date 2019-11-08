@@ -25,11 +25,11 @@ In our course, we ask the students to go through four types of review: by themse
 
 <ImageCaption
  url='/images/t1k/slides_152.png'
- alt=""
+ alt="Our review modes: Self Review, 1:1 Review, Lessons Learned Lightning Talk, and Lessons Learned Blog Post"
  imagewidth="w-100"
  >
 
- *Our review modes: Self Review, 1:1 Review, Lessons Learned Lightning Talk, and Lessons Learned Blog Post*
+ *[Fuck everything, we're doing five blades.](https://www.theonion.com/fuck-everything-were-doing-five-blades-1819584036)*
 
  </ImageCaption>
 

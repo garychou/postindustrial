@@ -18,11 +18,11 @@ Training is also helpful for giving students a preview of what they will be expe
 
 <ImageCaption
  url="/images/t1k/slides_063.png"
- alt=""
+ alt="At SVA, we were working within an institution that provided resources, space, and access to supportive alumni; we also had a fixed group of students and a fixed schedule. The students are generally skilled at some kind of design, but tend to be highly achievement-oriented and are juggling other commitments. Many have small or no networks in New York."
  imagewidth="w-100"
  >
 
- *At SVA, we were working within an institution that provided resources, space, and access to supportive alumni; we also had a fixed group of students and a fixed schedule. The students are generally skilled at some kind of design, but tend to be highly achievement-oriented and are juggling other commitments. Many have small or no networks in New York.*
+ *The context we're operating in dictates how we prepare the students.*
 
  </ImageCaption>
 
@@ -42,11 +42,9 @@ Blogposts are very common signals, which make it easier for people to find you a
 
 <ImageCaption
  url="/images/t1k/slides_068.png"
- alt=""
+ alt="The Hello World! Challenge runs for 2 weeks and asks students to write and revise a blog post about an experience or area of expertise, publish it on Medium, and promote it on social media. Students must also cross-promote their classmates' posts."
  imagewidth="w-100"
  >
-
- *The Hello World! Challenge runs for 2 weeks and asks students to write and revise a blog post about an experience or area of expertise, publish it on Medium, and promote it on social media. Students must also cross-promote their classmates' posts.*
 
  </ImageCaption>
 
@@ -54,11 +52,9 @@ When we first started teaching, we never thought we had to teach this to a gener
 
 <ImageCaption
  url="/images/t1k/slides_071.png"
- alt=""
+ alt="The weekly blogging habit asks students to publish at least one blog post about their work in our class every week, often with prompts. Our goals are to help students surface issues and triumphs, develop a track record and online identity, practice storytelling, and hone signals."
  imagewidth="w-100"
  >
-
- *The weekly blogging habit asks students to publish at least one blog post about their work in our class every week, often with prompts. Our goals are to help students surface issues and triumphs, develop a track record and online identity, practice storytelling, and hone signals.*
 
  </ImageCaption>
 
@@ -70,11 +66,11 @@ Helping our students build up a network is critical to their success not just in
 
 <ImageCaption
  url="/images/t1k/slides_074.png"
- alt=""
+ alt="A visualization of our students' networks. For most students, their networks start with faculty and cohort connections, as well as family, friends, and professional networks from their career so far."
  imagewidth="w-100"
  >
 
- *A visualization of our students' networks. For most students, their networks start with faculty and cohort connections, as well as family, friends, and professional networks from their career so far.*
+*This is where the students' networks are at in the beginning of the semester. White circles are parts of their networks they may not have activated yet.*
 
  </ImageCaption>
 
@@ -83,11 +79,11 @@ At SVA, we teach a lot of international students who are new to New York and oft
 
 <ImageCaption
  url="/images/t1k/slides_075.png"
- alt=""
+ alt="The Initial Community Offering Challenge lasts for 5 weeks. Students are asked to observe a community, design an offering (a map, repository, convening, or tutorial) for that community, share the offering with the community for feedback, and iterate upon it."
  imagewidth="w-100"
  >
 
- *The Initial Community Offering Challenge lasts for 5 weeks. Students are asked to observe a community, design an offering (a map, repository, convening, or tutorial) for that community, share the offering with the community for feedback, and iterate upon it.*
+ *We're reclaiming ICOs.*
 
  </ImageCaption>
 
@@ -95,11 +91,11 @@ Through a challenge we cheekily named Initial Community Offering, we get the stu
 
 <ImageCaption
  url="/images/t1k/slides_076.png"
- alt=""
+ alt="We believe in starting with people, then figuring out a value proposition, and finally coming up with ideas to solve this specific problem—rather than the other way around. In this model, you are not the genius behind the idea or its owner, but rather a midwife helping to bring it to life."
  imagewidth="w-100"
  >
 
- *We believe in starting with people, then figuring out a value proposition, and finally coming up with ideas to solve this specific problem—rather than the other way around. In this model, you are not the genius behind the idea or its owner, but rather a midwife helping to bring it to life.*
+ *This reframe has been a helpful one for our students; there's so much media promoting the lone creative genius myth out there for designers!*
 
  </ImageCaption>
 
@@ -110,7 +106,7 @@ In our opinion, a common affliction with the narrative around design and entrepr
  '/images/t1k/slides_080.png',
  '/images/t1k/slides_081.png',
  ]"
- alt=""
+ alt="Screenshots of Initial Community Offerings from Kate Styer on restorative justice, and Addi Hou on parental concerns around technology"
  imagewidth="w-100"
  >
 
