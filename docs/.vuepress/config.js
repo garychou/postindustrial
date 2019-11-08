@@ -12,7 +12,7 @@ const autometa_options = {
 
 
 module.exports = {
-    title: 'Design School',
+    title: 'Post-Industrial Design School',
     description: 'An Experiential Learning Lab',
     themeConfig: {
       search: false,
@@ -32,7 +32,7 @@ module.exports = {
             '/teach-the-1k/',
             '/teach-the-1k/lessons.md',
             {
-              title: 'The Workshop',
+              title: 'Workshop',
               path: '/teach-the-1k/workshop/',
               sidebarDepth: 2,
               collapsable: false,

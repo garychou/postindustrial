@@ -33,7 +33,7 @@
      </div>
    </div>
    <div class="w-100 mw9 center pa3 pv5-ns avenir" id="footer">
-     <div class="measure-wide center">
+     <div class="center">
        <Content slot-key="footer"/>
      </div>
    </div>
@@ -41,6 +41,10 @@
 </template>
 
 <script>
+import shareThis from 'share-this'
+import * as twitterSharer from 'share-this/dist/sharers/twitter'
+import * as facebookSharer from 'share-this/dist/sharers/facebook'
+import * as emailSharer from 'share-this/dist/sharers/email'
 
 export default {
   components: { },
@@ -52,6 +56,16 @@ export default {
   computed: {
   },
   mounted(){
+    const selectionShare = shareThis({
+     selector: '#year5',
+     sharers: [twitterSharer, facebookSharer, emailSharer]
+   });
+
+   if (!window.matchMedia
+           || !window.matchMedia("(pointer: coarse)").matches) {
+       selectionShare.init();
+   }
+
     const blocks = document.querySelectorAll(".year5 blockquote");
     const paras = document.querySelectorAll('#year5 p, #year5 ul');
     const blockparas = document.querySelectorAll('.year5 blockquote p');
@@ -104,6 +118,7 @@ export default {
 
 .year5 h1, .year5 h2, .year5 p {
   color: #330933;
+  position: relative;
 }
 
 .year5 .navbar {
@@ -133,3 +148,4 @@ export default {
 }
 
 </style>
+<style src="share-this/dist/share-this.css"></style>

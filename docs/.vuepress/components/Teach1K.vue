@@ -8,8 +8,8 @@
        :imageurl="$page.frontmatter.heroimage"
        :caption="$page.frontmatter.herocaption"
      >
-
-     <div class="w-100 pv5-ns flex-ns items-end-ns justify-between-ns">
+     
+     <div class="w-100 pv5-ns flex-ns items-end-ns justify-between-ns" id="shareable">
        <div class="avenir lh-copy measure-wide mt4 mt0-ns f5 f4-ns center">
          <Content slot-key="body"/>
        </div>
@@ -25,6 +25,10 @@
 </template>
 
 <script>
+import shareThis from 'share-this'
+import * as twitterSharer from 'share-this/dist/sharers/twitter'
+import * as facebookSharer from 'share-this/dist/sharers/facebook'
+import * as redditSharer from 'share-this/dist/sharers/reddit'
 
 export default {
   components: {  },
@@ -38,7 +42,14 @@ export default {
   created(){
   },
   mounted(){
-    const blocks = document.getElementsByTagName("blockquote");
+    const selectionShare = shareThis({
+     selector: '#shareable',
+     sharers: [twitterSharer, facebookSharer, redditSharer]
+   }).
+
+   selectionShare.init();
+
+    const blocks = document.querySelectorAll(".year5 blockquote");
     const paras = document.querySelectorAll('#year5 p, #year5 ul');
     const blockparas = document.querySelectorAll('blockquote p');
     const h = document.querySelectorAll('#year5 h2');

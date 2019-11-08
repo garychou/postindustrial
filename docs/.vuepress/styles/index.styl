@@ -4,11 +4,7 @@ header.navbar .site-name
   font-weight: 600
   letter-spacing: 0.1em
   text-transform: uppercase
-  color: #999
-
-header.navbar .site-name::before
-  content: "Post-Industrial "
-  color: #000;
+  color: #000
 
 .navbar .nav-item a.nav-link
   color: rgba(0,0,0,.5)
@@ -108,12 +104,23 @@ a.header-anchor
 .workshop .sidebar .depth-0 > ul.sidebar-links > li > a.sidebar-link
   font-size: 1em
 
-.workshop .sidebar-heading,
 .teachthe1k .sidebar-heading,
+.teachthe1k .sidebar-heading.open,
 .teachthe1k .sidebar > ul.sidebar-links > li > a:not(.active).sidebar-link,
+.workshop .sidebar-heading,
+.workshop .sidebar-heading.open,
 .workshop .sidebar > ul.sidebar-links > li > a:not(.active).sidebar-link
   font-weight: normal
-  color: #444
+  color: #222
+
+.teachthe1k .sidebar-heading:hover,
+.teachthe1k .sidebar-heading.open:hover,
+.teachthe1k .sidebar > ul.sidebar-links > li > a:not(.active).sidebar-link:hover,
+.workshop .sidebar-heading:hover,
+.workshop .sidebar-heading.open:hover,
+.workshop .sidebar > ul.sidebar-links > li > a:not(.active).sidebar-link:hover
+  font-weight: normal
+  color: #ddd
 
 .workshop .sidebar > .sidebar-links > li > a.sidebar-link,
 .teachthe1k .sidebar > .sidebar-links > li > a.sidebar-link,
@@ -122,25 +129,33 @@ a.header-anchor
   color: #33a52c
   font-weight: 600
 
-.teachthe1k .sidebar-heading.open, .sidebar-heading:hover,
-.workshop .sidebar-heading.open, .sidebar-heading:hover
-  color: #444
-
 .workshop .depth-1 .sidebar-heading, .depth-1 .sidebar-heading,
 .teachthe1k .depth-1 .sidebar-heading, .depth-1  .sidebar-heading
   color: #888
-
 
 .teachthe1k .sidebar-sub-headers a.sidebar-link,
 .workshop .sidebar-sub-headers a.sidebar-link
   font-size: 0.9rem
   line-height: 1.3em
-  margin-bottom: 0.3rem
+  margin-bottom: 0.4rem
 
 .teachthe1k .prev a, .teachthe1k .next a,
 .workshop .prev a, .workshop .next a
   font-size: 1.2rem
 
+.teachthe1k .sidebar .sidebar-sub-headers,
+.workshop .sidebar .sidebar-sub-headers
+  margin-top: 0.3rem
+
+.teachthe1k p,
+.teachthe1k a,
+.teachthe1k ul,
+.teachthe1k h2,
+.workshop p,
+.workshop a,
+.workshop ul,
+.workshop h2
+  position: relative
 
 .entrepreneurialdesign .page a,
 .entrepreneurialdesign .nav-links a:hover,

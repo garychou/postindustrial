@@ -1,5 +1,5 @@
 ---
-title: Why
+title: Overview
 sectiontitle: "How might we scale the impact of our work?"
 sectionbyline: Christina Xu and Gary Chou
 sectionsubtitle: February 2019
@@ -14,8 +14,6 @@ next: lessons.md
 
 
 ::: slot body
-
-# Why
 
 In February 2019, we convened Teach the 1K—a gathering of over 40 entrepreneurship educators and activators from a variety of backgrounds, to teach them how to teach the $1K Challenge:
 

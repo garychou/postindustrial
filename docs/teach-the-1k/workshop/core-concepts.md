@@ -1,9 +1,10 @@
 ---
 title: Core Concepts
-sidebarDepth: 1
+sidebarDepth: 2
 pageClass: workshop
 prev: /teach-the-1k/workshop/
 next: /teach-the-1k/workshop/how-we-teach/
+
 ---
 
 # Core Concepts

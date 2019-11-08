@@ -1,13 +1,13 @@
 ---
-title: Lessons
+title: Insights
 sidebarDepth: 1
 pageClass: workshop
 next: /teach-the-1k/workshop/
 ---
 
-# Lessons
+# Insights
 
-Here’s what we learned from the experience of both preparing for and running the Teach the 1K seminar and workshop.
+Here’s what we learned from the 10-month process of both preparing for and running the Teach the 1K seminar and workshop.
 
 ## There is a burgeoning interest in teaching people to confront uncertainty.
 
