@@ -1,6 +1,6 @@
 <template>
   <div class="pa2">
-    <blockquote class="athelas ml0 mt0 pl4 black-80 bl bw2 b--blue">
+    <blockquote class="athelas ml0 mt0 pl4 black-80 bl bw2 b--gray">
       <p class="f5 f4-m f4-l lh-copy measure mt0">
         <slot></slot>
       </p>

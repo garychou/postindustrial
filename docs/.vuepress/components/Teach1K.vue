@@ -25,11 +25,6 @@
 </template>
 
 <script>
-import shareThis from 'share-this'
-import * as twitterSharer from 'share-this/dist/sharers/twitter'
-import * as facebookSharer from 'share-this/dist/sharers/facebook'
-import * as redditSharer from 'share-this/dist/sharers/reddit'
-
 export default {
   components: {  },
   props: [''],

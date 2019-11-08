@@ -11,9 +11,7 @@ Launch is the big moment we’ve all been working up to. In some ways, it’s st
 For the students, launching on time is the biggest challenge because, by this point, they are exhausted and anxious. They are overwhelmed with "what if"s that tempt them to drag their feet and stall however they can:
 
 * What if no one cares?
-
 * What if people hate it?
-
 * What if it’s not ready?
 
 We used to underestimate how hard this really is for students, especially those who have never taken a similar leap before. At the moment of launch, it’s too late to address the irrational fears that might derail the process.
@@ -58,15 +56,11 @@ For the most part, the campaigns run like you’d expect. There's a bump of init
 [[ Examples:
 
 * Amy Ashida getting $2000 from one donor
-
 * Upstanding Desk raising $100000
-
 * Getting contacted by Beyoncé ]]
 
 This is the unique experience we want them to have—the kind that we believe we can't create through other types of instructional models. They are now learning through experience, and those lessons are so much more meaningful and lasting than anything we could have imparted via a lecture or a Medium article. Here, described in our students' own words, are some of those lessons:
 
-* Behavior isn't always rational, and can't necessarily be engineered (“It was moving how many people backed it for no reward, they just wanted it to happen for others.”)
-
-* Validation is an inexplicably powerful, emotional thing to receive, and necessary for maintaining stamina on the journey of creation. (“The kindness and support from collaborated photographers is definitely the most surprising part of the project. They have continuing communicated with me and provide photos and suggestions along the way.”)
-
-* The environment affects outcomes—none of us are creating in a vacuum. (“When I helped my dad to donate on Kickstarter I realized how complex it was for someone that doesn't know English to use the site, so I decided to change my outreach by outlining all the steps Brazilians needed to follow to make a donation. After that more Brazilians started donating.”)
+* **Behavior isn't always rational**, and can't necessarily be engineered (“It was moving how many people backed it for no reward, they just wanted it to happen for others.”)
+* **Validation is an inexplicably powerful, emotional thing to receive, and necessary for maintaining stamina on the journey of creation.** (“The kindness and support from collaborated photographers is definitely the most surprising part of the project. They have continuing communicated with me and provide photos and suggestions along the way.”)
+* **The environment affects outcomes—none of us are creating in a vacuum.** (“When I helped my dad to donate on Kickstarter I realized how complex it was for someone that doesn't know English to use the site, so I decided to change my outreach by outlining all the steps Brazilians needed to follow to make a donation. After that more Brazilians started donating.”)
