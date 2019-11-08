@@ -1,7 +1,7 @@
 ---
 title: Workshop
 pageClass: "content t1k"
-prev: ../lessons.md
+prev: ../insights.md
 next: core-concepts.md
 sidebarDepth: 2
 ---
