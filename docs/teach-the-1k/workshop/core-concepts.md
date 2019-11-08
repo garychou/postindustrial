@@ -1,7 +1,7 @@
 ---
 title: Core Concepts
 sidebarDepth: 2
-pageClass: workshop
+pageClass: "content t1k"
 prev: /teach-the-1k/workshop/
 next: /teach-the-1k/workshop/how-we-teach/
 

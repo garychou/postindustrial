@@ -1,16 +1,18 @@
 ---
-title: Overview
+title: Teach the 1K
 sectiontitle: "How might we scale the impact of our work?"
 sectionbyline: Christina Xu and Gary Chou
 sectionsubtitle: February 2019
 heroimage: "/images/t1k.jpg"
 herocaption: Participants of the Teach the 1K program at Orbital brought together entrepreneurship teachers, coaches and activators.
-pageClass: teachthe1k
+pageClass: "wide t1k"
 sidebarDepth: 1
-next: lessons.md
+next: insights.md
+image: /images/t1k2.jpg
+
 ---
 
-<Teach1K/>
+<SiteSection/>
 
 
 ::: slot body

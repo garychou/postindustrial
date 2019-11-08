@@ -28,9 +28,15 @@ module.exports = {
       ],
       sidebar:
         {
+          '/entrepreneurial-design/': [
+            ['/entrepreneurial-design/', 'Overview'],
+            '/entrepreneurial-design/insights.md',
+            '/entrepreneurial-design/archive.md',
+          ],
+          
           '/teach-the-1k/': [
-            '/teach-the-1k/',
-            '/teach-the-1k/lessons.md',
+            ['/teach-the-1k/','Overview'],
+            '/teach-the-1k/insights.md',
             {
               title: 'Workshop',
               path: '/teach-the-1k/workshop/',

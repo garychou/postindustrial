@@ -6,6 +6,7 @@ byline: Christina Xu and Gary Chou
 conversationDate: June 20, 2016
 subtitle: Lessons learned from teaching the $1,000 Challenge.
 heroimage: /images/year5/s_42FD3C04B7B503C990C3619E269FBB0C18BDC250A471A52735CC280C239EE4C5_1485269191543_file.png
+image: /images/year5/s_42FD3C04B7B503C990C3619E269FBB0C18BDC250A471A52735CC280C239EE4C5_1485269191543_file.png
 
 ---
 

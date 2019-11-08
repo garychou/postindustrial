@@ -1,7 +1,7 @@
 ---
 title: How We Teach
 sidebarDepth: 2
-pageClass: workshop
+pageClass: "content t1k"
 next: train.md
 prev: ../core-concepts.md
 

@@ -1,7 +1,7 @@
 ---
 title: Insights
-sidebarDepth: 1
-pageClass: workshop
+sidebarDepth: 2
+pageClass: "content t1k"
 next: /teach-the-1k/workshop/
 ---
 

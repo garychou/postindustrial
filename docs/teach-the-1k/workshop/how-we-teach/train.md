@@ -1,7 +1,7 @@
 ---
 title: Train
 sidebarDepth: 2
-pageClass: workshop
+pageClass: "content t1k"
 prev: /teach-the-1k/workshop/how-we-teach/
 
 ---
@@ -30,11 +30,11 @@ What you need to cover in Train depends on the context in which you are teaching
 
 For our students, we center our Train phase around 3 fundamental skills.
 
-**(1) Being an Explorer:**
+## Being an Explorer
 
 To help our students move into an explorer (vs. an achiever) mindset, we structure the Train phase as a series of **challenges** (mini-obstacle courses designed to get students practicing fundamental skills while exploring their interests) and **habits** (tools and practices that help students in the journey ahead).
 
-**(2) Sending Signals:**
+## Sending Signals
 
 We define a signal as a way to share intention, gather feedback, and identify allies: like a flare sent out into the world to find others curious about the same topic, or a flag planted in the sand to declare one's stance.
 
@@ -64,7 +64,7 @@ When we first started teaching, we never thought we had to teach this to a gener
 
 In fact, the Hello World Challenge is actually also the kickoff for the blogging habit we ask them to maintain throughout the semester. Asking students to blog weekly encourages them to be less precious with their thoughts and work, and to increase surface area for serendipity.
 
-**(3) Understanding Networks:**
+## Understanding Networks
 
 Helping our students build up a network is critical to their success not just in the class, but for their whole careers and lives.
 
@@ -118,4 +118,8 @@ In our opinion, a common affliction with the narrative around design and entrepr
 
  </ImageCaption>
 
-By the time our students are done with the training phase, they have gone through one of the core iterative loops of our class: make something that serves as a signal, have a conversation, and share back what they’ve learned as a new signal.
+By the time our students are done with the training phase, they have gone through one of the core iterative loops of our class:
+
+1. **make something** that serves as a signal
+2. **have a conversation**, and
+3. **share back** what they’ve learned as a new signal.

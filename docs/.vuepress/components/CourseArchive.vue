@@ -1,12 +1,14 @@
 <template>
      <div class="w-100 db dt-ns">
 
-           <div v-for="sets in reversedlinks" class="mb3 super-light-gray br3 pv1 pv5-ns">
+           <div v-for="sets in reversedlinks">
 
-             <div class="db dtc-ns ph3 ph5-ns pt0 pb3 w-100 w-40-ns v-top">
+             <div v-if="sets[0] == year" class="mb3 super-light-gray br3 pv1 pv2-ns">
 
-               <span class="avenir pv3 pv4-ns db f1 f-subheadline-ns black-60 fw6">{{sets[0]}}</span>
+             <div class="db dtc-ns ph3 ph3-ns pt0 pb3 w-100 w-40-ns v-top">
 
+<!--               <h2 class="avenir pv3 pv4-ns db f1 f-subheadline-ns black-60 fw6">{{sets[0]}}</h2>
+-->
                <div class="bg-white-10">
 
                  <div class="db ml1 pb0 pb3-ns pr4">
@@ -58,6 +60,7 @@
            </div>
          </div>
        </div>
+       </div>
 </template>
 
 <script>
@@ -65,7 +68,7 @@ import resources from '../resources.json'
 
 export default {
   components: { },
-  props: [''],
+  props: ['year'],
   data () {
     return {
       quotes: resources.quotes,

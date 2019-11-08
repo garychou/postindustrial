@@ -1,12 +1,14 @@
 ---
 title: How We Manage
 sidebarDepth: 2
-pageClass: workshop
+pageClass: "content t1k"
 ---
 
 # How We Manage
 
-If you successfully made it through How We Teach—congratulations, and thank you! You may have noticed that it is *a lot*, especially from an instructional point of view. Juggling and dealing with all the chaos can be extremely exhausting. Here are a few of our biggest lessons about how to keep it together as instructors, many of which we learned the hard way.
+If you successfully made it through How We Teach—congratulations, and thank you! You may have noticed that it is *a lot*, especially from an instructional point of view.
+
+Juggling and dealing with all the chaos can be extremely exhausting.
 
 <ImageCaption
  url="/images/t1k/slides_160.png"
@@ -17,6 +19,8 @@ If you successfully made it through How We Teach—congratulations, and thank yo
  *I am a markdown caption, [The Cheese Map](https://www.kickstarter.com/projects/thecheesemap/the-cheese-map)*
 
  </ImageCaption>
+
+Here are a few of our biggest lessons about how to keep it together as instructors, many of which we learned the hard way.
 
 ## Design for the time / energy / resources you want to spend.
 

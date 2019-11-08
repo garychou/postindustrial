@@ -4,7 +4,7 @@
       <p class="f5 f4-m f4-l lh-copy measure mt0">
         <slot></slot>
       </p>
-      <cite class="f6 ttu tracked fs-normal mt4 dib">
+      <cite v-if="cite" class="f6 ttu tracked fs-normal mt4 dib">
         ―{{this.cite}}
         <span v-if="reference">, <a href="url" class="link dim underline black-40">{{reference}}</a></span>
       </cite>

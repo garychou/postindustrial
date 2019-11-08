@@ -34,12 +34,6 @@ header.navbar .nav-item
     margin-bottom: 0
     border-bottom: 0
 
-.homepage header.navbar .site-name
-  display: none
-
-.entrepreneurialdesign li
-  margin-left: 1rem
-  padding-left: 0.5rem
 
 body
   background: #f9f9fb
@@ -52,129 +46,125 @@ svg.icon.outbound
 a
   font-weight: 600
 
-a.header-anchor
-  display: none
 
 
 /* colors */
 .navbar .links .nav-item a.nav-link:not(.router-link-active)
   color: #808080
 
-.teachthe1k .page a,
-.teachthe1k .nav-links a:hover,
-.teachthe1k .nav-links a.router-link-active,
-.teachthe1k .navbar .links .nav-item a.nav-link:hover,
-.teachthe1k div.links div.nav-item > a:hover,
-.teachthe1k .links .nav-item > a:not(.external).router-link-active,
-.teachthe1k .sidebar a.active.sidebar-link,
-.teachthe1k .links .nav-item a.router-link-active,
-.workshop .page a,
-.workshop .nav-links a:hover,
-.workshop .nav-links a.router-link-active,
-.workshop .navbar .links .nav-item a.nav-link:hover,
-.workshop div.links div.nav-item > a:hover,
-.workshop .links .nav-item > a:not(.external).router-link-active
-.workshop .sidebar a.active.sidebar-link,
-.workshop .links .nav-item a.router-link-active
+.t1k .page a,
+.t1k .sidebar a,
+.t1k .nav-links a:hover,
+.t1k .nav-links a.router-link-active,
+.t1k .navbar .links .nav-item a.nav-link:hover,
+.t1k div.links div.nav-item > a:hover,
+.t1k .links .nav-item > a:not(.external).router-link-active,
+.t1k .sidebar a.active.sidebar-link,
+.t1k .links .nav-item a.router-link-active
   color: #33a52c
 
-.teachthe1k span.arrow.right, .teachthe1k span.arrow.down,
-.workshop span.arrow.right, .workshop span.arrow.down
+.wide span.arrow.right, .wide span.arrow.down,
+.content span.arrow.right, .content span.arrow.down
   display: none
 
-.teachthe1k .links .nav-item > a:not(.external).router-link-active,
-.workshop .links .nav-item > a:not(.external).router-link-active
+.wide .links .nav-item > a:not(.external).router-link-active,
+.content .links .nav-item > a:not(.external).router-link-active
   background: #e3fce6
   font-weight: 600
   border-color: transparent
 
-.workshop .sidebar > .sidebar-links > li:not(:first-child),
-.teachthe1k .sidebar > .sidebar-links > li:not(:first-child)
+
+.content .sidebar > .sidebar-links > li:not(:first-child),
+.wide .sidebar > .sidebar-links > li:not(:first-child)
   margin-top: 0
 
-.workshop .sidebar-heading,
-.teachthe1k .sidebar-heading,
-.teachthe1k .sidebar > ul.sidebar-links > li > a.sidebar-link,
-.workshop .sidebar > ul.sidebar-links > li > a.sidebar-link
+.content .sidebar-heading,
+.wide .sidebar-heading,
+.wide .sidebar > ul.sidebar-links > li > a.sidebar-link,
+.content .sidebar > ul.sidebar-links > li > a.sidebar-link
   font-size: 1rem
 
-.teachthe1k .sidebar-group.is-sub-group > .sidebar-heading,
-.workshop .sidebar-group.is-sub-group > .sidebar-heading,
-.teachthe1k .sidebar .depth-0 > ul.sidebar-links > li > a.sidebar-link,
-.workshop .sidebar .depth-0 > ul.sidebar-links > li > a.sidebar-link
+.wide .sidebar-group.is-sub-group > .sidebar-heading,
+.content .sidebar-group.is-sub-group > .sidebar-heading,
+.wide .sidebar .depth-0 > ul.sidebar-links > li > a.sidebar-link,
+.content .sidebar .depth-0 > ul.sidebar-links > li > a.sidebar-link
   font-size: 1em
 
-.teachthe1k .sidebar-heading,
-.teachthe1k .sidebar-heading.open,
-.teachthe1k .sidebar > ul.sidebar-links > li > a:not(.active).sidebar-link,
-.workshop .sidebar-heading,
-.workshop .sidebar-heading.open,
-.workshop .sidebar > ul.sidebar-links > li > a:not(.active).sidebar-link
+.wide .sidebar-heading,
+.wide .sidebar-heading.open,
+.wide .sidebar > ul.sidebar-links > li > a:not(.active).sidebar-link,
+.content .sidebar-heading,
+.content .sidebar-heading.open,
+.content .sidebar > ul.sidebar-links > li > a:not(.active).sidebar-link
+.t1k .sidebar-heading.clickable
   font-weight: normal
   color: #222
 
-.teachthe1k .sidebar-heading:hover,
-.teachthe1k .sidebar-heading.open:hover,
-.teachthe1k .sidebar > ul.sidebar-links > li > a:not(.active).sidebar-link:hover,
-.workshop .sidebar-heading:hover,
-.workshop .sidebar-heading.open:hover,
-.workshop .sidebar > ul.sidebar-links > li > a:not(.active).sidebar-link:hover
+.wide .sidebar-heading:hover,
+.wide .sidebar-heading.open:hover,
+.wide .sidebar > ul.sidebar-links > li > a:not(.active).sidebar-link:hover,
+.content .sidebar-heading:hover,
+.content .sidebar-heading.open:hover,
+.content .sidebar > ul.sidebar-links > li > a:not(.active).sidebar-link:hover
   font-weight: normal
   color: #ddd
 
-.teachthe1k .page-nav .inner,
-.workshop .page-nav .inner
+.wide .page-nav .inner,
+.content .page-nav .inner
   border-top: 1px solid #f2f2f2
 
-.workshop .sidebar > .sidebar-links > li > a.sidebar-link,
-.teachthe1k .sidebar > .sidebar-links > li > a.sidebar-link,
-.workshop .sidebar-heading.clickable.active
+.t1k .sidebar > .sidebar-links > li > a.sidebar-link,
+.t1k .sidebar-heading.clickable.active
   border-left-color: #fff
   color: #33a52c
   font-weight: 600
 
-.workshop .depth-1 .sidebar-heading, .depth-1 .sidebar-heading,
-.teachthe1k .depth-1 .sidebar-heading, .depth-1  .sidebar-heading
+.entdes .sidebar > .sidebar-links > li > a.sidebar-link
+  font-weight: 600
+
+.content .depth-1 .sidebar-heading, .depth-1 .sidebar-heading,
+.wide .depth-1 .sidebar-heading, .depth-1  .sidebar-heading
   color: #888
 
-.teachthe1k .sidebar-sub-headers a.sidebar-link,
-.workshop .sidebar-sub-headers a.sidebar-link
+.wide .sidebar-sub-headers a.sidebar-link,
+.content .sidebar-sub-headers a.sidebar-link
   font-size: 0.9rem
   line-height: 1.3em
   margin-bottom: 0.4rem
 
-.teachthe1k .prev a, .teachthe1k .next a,
-.workshop .prev a, .workshop .next a
-  font-size: 1.2rem
-
-.teachthe1k .sidebar .sidebar-sub-headers,
-.workshop .sidebar .sidebar-sub-headers
+.wide .sidebar .sidebar-sub-headers,
+.content .sidebar .sidebar-sub-headers
   margin-top: 0.3rem
 
-.teachthe1k .content__default ul,
-.workshop .content__default ul
+.prev a, .next a
+  font-size: 1.2rem
+
+.wide .content__default ul,
+.content .content__default ul
   padding-left: 2.4rem
 
-.teachthe1k p,
-.teachthe1k a,
-.teachthe1k ul,
-.teachthe1k h2,
-.workshop p,
-.workshop a,
-.workshop ul,
-.workshop h2
+.wide p,
+.wide a,
+.wide ul,
+.wide h2,
+.content p,
+.content a,
+.content ul,
+.content h2
   position: relative
 
-.entrepreneurialdesign .page a,
-.entrepreneurialdesign .nav-links a:hover,
-.entrepreneurialdesign .nav-links a.router-link-active,
-.entrepreneurialdesign .navbar .links .nav-item a.nav-link:hover,
-.entrepreneurialdesign div.links div.nav-item > a:hover,
-.entrepreneurialdesign .links .nav-item > a:hover,
-.entrepreneurialdesign .links .nav-item > a:not(.external).router-link-active
+.entdes .page a,
+.entdes .sidebar a,
+.entdes .nav-links a:hover,
+.entdes .nav-links a.router-link-active,
+.entdes .navbar .links .nav-item a.nav-link:hover,
+.entdes div.links div.nav-item > a:hover,
+.entdes .links .nav-item > a:not(.external).router-link-active,
+.entdes .sidebar a.active.sidebar-link,
+.entdes .links .nav-item a.router-link-active
   color: #2c69a5
 
-.entrepreneurialdesign .links .nav-item > a:not(.external).router-link-active
+.entdes .links .nav-item > a:not(.external).router-link-active
   background: #e3f8fc
   font-weight: 600
 
@@ -199,14 +189,10 @@ a.header-anchor
     width: 100%;
 
 
-.sidebar-heading
-  display: none
-
-
 ul.sidebar-links li a.sidebar-link.active
   border-left-color: transparent
 
-.teachthe1k .sidebar-group.is-sub-group > .sidebar-group-items > li > a.sidebar-link,
+.wide .sidebar-group.is-sub-group > .sidebar-group-items > li > a.sidebar-link,
 .sidebar-group.is-sub-group > .sidebar-group-items > li > a.sidebar-link
   font-size: 0.95rem
 
@@ -226,11 +212,11 @@ ul.sidebar-links li a.sidebar-link:not(.active), .sidebar-group.is-sub-group > .
   background: #f7fbfd
 
 
-.teachthe1k .sidebar,.workshop .sidebar
+.wide .sidebar,.content .sidebar
   @media screen and (min-width: 720px)
     top: 10%;
 
-.workshop.theme-container .theme-default-content
+.content.theme-container .theme-default-content
   width: 100%
   margin-right: auto
   margin-left: auto
