@@ -49,4 +49,6 @@ And so, while designing and running a workshop was a feat unto itself, the bigge
 
 Thanks to: [Alicia Chang](https://twitter.com/aliciac), [Amy Ashida](https://twitter.com/amyashida), [Courtney Young-Law](https://twitter.com/cyounglaw), [Ken Ikeda](https://twitter.com/civicip), [Laura Patterson](https://twitter.com/laurepat), Lauren Gill, [Nadia Eghbal](https://twitter.com/nayafia), [Nick Barr](https://twitter.com/nsbarr), [Santhosh Balasubramanian](https://twitter.com/balasubramaniac), [Stephanie Pereira](https://twitter.com/happeness), [Suyin So](https://twitter.com/suyinso) and [Tara Reed](https://twitter.com/tarareed_) for their feedback in designing and framing the workshop.
 
+Thanks to: [Áine Rose Campbell](https://www.instagram.com/ainerosecampbell/), Emma Jackson, [George Huang](https://twitter.com/freedompreneur), [Heidi Brant](https://www.linkedin.com/in/heidi-brant-164aa41/), [Jeremy Caplan](https://twitter.com/jeremycaplan), Kaveh Sarfehjooy, [LaTeisha Moore](https://twitter.com/lateisha), [Lloyd J. Cambridge](https://twitter.com/lloydcambridge), [Sabrina Hall](https://twitter.com/sabrinahallnyc), [Sabriya Stukes](https://twitter.com/frmbriyawthxoxo), [Tega Brain](https://twitter.com/tegabrain) and [Thierry Blancpain](https://twitter.com/blancpain) for attending the workshop and contributing their insights and perspectives.
+
 :::

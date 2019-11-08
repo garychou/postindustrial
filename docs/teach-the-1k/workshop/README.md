@@ -6,11 +6,14 @@ next: core-concepts.md
 sidebarDepth: 2
 ---
 
-February 2019
 
 # Teach the 1K Workshop
 
-Before we get into, we should set a few expectations about a few things:
+**February 2019**\
+Orbital\
+New York City
+
+Before we get into the workshop, we should set a few expectations:
 
 
 ### What this is and isn't about
