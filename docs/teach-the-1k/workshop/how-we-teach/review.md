@@ -63,4 +63,6 @@ The students then have an opportunity to synthesize the most important lesson(s)
 
 Finally, we encourage the students to share their lessons learned, which they've now already synthesized in a low-stakes way, into a blogpost for public consumption. Many of the quotes shared throughout this site come from these posts.
 
+Here are a few selected posts spanning the years.
+
 <StudentBlogposts/>

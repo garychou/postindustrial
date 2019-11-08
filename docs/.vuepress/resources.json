@@ -1569,6 +1569,7 @@
       "quote": "If there’s any secret sauce to entrepreneurship, if there’s any “it” factor, it’s this: start before you feel ready.",
       "url": "https://medium.com/@melodyquintana/embrace-the-awkward-f4858a3821fd",
       "title": "Embrace the Awkward",
+			"featured": 1,
       "author": "Melody Quintana",
       "themes": [
         "process",
@@ -1591,6 +1592,7 @@
       "quote": "One of the key things I learned is the huge gulf between theory and practise.",
       "url": "http://blog.tonyhschu.ca/post/21765950765/fail-in-public",
       "title": "Fail in Public",
+			"featured": 1,
       "author": "Tony Chu",
       "themes": [
         "process",
@@ -1613,6 +1615,7 @@
       "quote": "Don’t let details get in the way of launching.",
       "url": "http://pamjue.tumblr.com/post/50203066367/what-i-learned-from-earning-1k-in-a-semester",
       "title": "What I learned from earning $1k in a semester",
+			"featured": 1,
       "author": "Pam Jue",
       "themes": [
         "process",
@@ -1624,6 +1627,7 @@
       "quote": "The most beautiful thing I’ve learned is that most of us love to help others.",
       "url": "https://medium.com/@luckysonglee/dont-be-scared-to-ask-for-help-493abe383c46",
       "title": "Don’t be scared to ask for help",
+			"featured": 1,
       "author": "Song Lee",
       "themes": [
         "self",
@@ -1646,6 +1650,7 @@
       "quote": "...the most powerful thing about sharing the unfinished, about being open and raw with the world, is that others can recognize themselves in you.",
       "url": "https://medium.com/@balmdiggity/breaking-the-golden-record-c2e08e2b59c7",
       "title": "Breaking the Golden Record",
+			"featured": 1,
       "author": "Rachel Balma",
       "themes": [
         "public"
@@ -1700,7 +1705,8 @@
       "quote": "If Christina and Gary had simply told us these things I don’t think I would have believed it. The way in which we had to apply and learn as we built real projects really drove these lessons home.",
       "url": "https://medium.com/@tgumb/process-over-product-160d62f771b7",
       "title": "Process over Product",
-      "author": "Tyler Gumb",
+			"featured": 1,
+			"author": "Tyler Gumb",
       "themes": [
         "public"
       ],
@@ -1754,6 +1760,7 @@
       "url": "https://amyashida.tumblr.com/post/159790950752/what-the-1000-project-taught-me",
       "title": "What the $1,000 Project Taught Me",
       "author": "Amy Ashida",
+			"featured": 1,
       "themes": [
         "process",
         "networks"
@@ -1765,6 +1772,7 @@
       "url": "https://medium.com/@angie_ngoctran/i-got-kickstarted-and-heres-what-i-learned-869849d86541",
       "title": "I got kickstarted and here’s what I learned",
       "author": "Angie Ngoc Tran",
+			"featured": 1,
       "themes": [
         "uncertainty",
         "public"
@@ -1776,6 +1784,7 @@
       "url": "http://barbaradewilde.tumblr.com/post/22290976714/can-you-teach-someone-to-be-an-entrepreneur",
       "title": "Can you teach someone to be an entrepreneur",
       "author": "Barbara deWilde",
+			"featured": 1,
       "themes": [
         "networks"
       ],
