@@ -2,6 +2,7 @@
 title: Home
 subtitle: An Experiential Learning Lab
 description: An experiential learning lab run by Christina Xu and Gary Chou
+image: /images/year5/s_42FD3C04B7B503C990C3619E269FBB0C18BDC250A471A52735CC280C239EE4C5_1485269191543_file.png
 sidebar: false
 pageClass: homepage
 layout: LayoutHome
@@ -21,7 +22,6 @@ projects:
     year: 2016
     image: /images/year5/s_42FD3C04B7B503C990C3619E269FBB0C18BDC250A471A52735CC280C239EE4C5_1485269191543_file.png
     description: Lessons learned from teaching the $1K Challenge.
-image: /images/year5/s_42FD3C04B7B503C990C3619E269FBB0C18BDC250A471A52735CC280C239EE4C5_1485269191543_file.png
 ---
 
 ::: slot welcome
