@@ -20,6 +20,7 @@ Before we get into the workshop, we should set a few expectations:
 
 <ImageCaption
  url="/images/t1k/slides_023.png"
+ alt="Our course does not focus on typical 'entrepeneurship skill' like building a MVP, raising venture capital, or even how to run Kickstarter campaigns. Rather, it centers around how to take iterative steps towards a goal."
  imagewidth="w-100"
  >
 

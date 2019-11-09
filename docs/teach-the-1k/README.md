@@ -9,6 +9,7 @@ pageClass: "wide t1k"
 sidebarDepth: 1
 next: insights.md
 image: /images/t1k2.jpg
+description: In February 2019, we convened Teach the 1K—a gathering of over 40 entrepreneurship educators and activators from a variety of backgrounds—for-profit, non-profit, graduate and undergraduate academia, online and offline, formal and ad-hoc—to teach them how to teach the $1K Challenge.
 
 ---
 
