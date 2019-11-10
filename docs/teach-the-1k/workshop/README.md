@@ -6,7 +6,7 @@ next: core-concepts.md
 sidebarDepth: 2
 meta:
   - property: og:type
-  content: website  
+    content: article  
   - property: og:url
     content: https://postindustrialdesign.school/teach-the-1k/workshop/
   - name: twitter:url

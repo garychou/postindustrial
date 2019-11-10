@@ -12,7 +12,7 @@ next: insights.md
 image: https://postindustrialdesign.school/images/class.png
 meta:
   - property: og:type
-  content: website  
+    content: article  
   - property: og:url
     content: https://postindustrialdesign.school/entrepreneurial-design/
   - name: twitter:url

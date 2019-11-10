@@ -5,7 +5,7 @@ pageClass: "content entdes"
 next: ../archive.md
 meta:
   - property: og:type
-  content: website  
+    content: article  
   - property: og:url
     content: https://postindustrialdesign.school/entrepreneurial-design/insights/
   - name: twitter:url

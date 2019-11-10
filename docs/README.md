@@ -24,7 +24,7 @@ projects:
     description: Lessons learned from teaching the $1K Challenge.
 meta:
   - property: og:type
-  content: website  
+    content: website  
   - property: og:url
     content: https://postindustrialdesign.school
   - name: twitter:url

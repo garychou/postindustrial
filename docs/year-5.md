@@ -10,7 +10,7 @@ description: After 5 years of teaching Entrepreneurial Design, Gary and Christin
 image: https://postindustrialdesign.school/images/year5/s_42FD3C04B7B503C990C3619E269FBB0C18BDC250A471A52735CC280C239EE4C5_1485269191543_file.png
 meta:
   - property: og:type
-  content: website  
+    content: article  
   - property: og:url
     content: https://postindustrialdesign.school/year-5/
   - name: twitter:url

@@ -4,7 +4,7 @@ sidebarDepth: 2
 pageClass: "wide entdes"
 meta:
   - property: og:type
-  content: website  
+    content: article  
   - property: og:url
     content: https://postindustrialdesign.school/entrepreneurial-design/archive/
   - name: twitter:url

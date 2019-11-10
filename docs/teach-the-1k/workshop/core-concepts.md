@@ -6,7 +6,7 @@ prev: /teach-the-1k/workshop/
 next: /teach-the-1k/workshop/how-we-teach/
 meta:
   - property: og:type
-  content: website  
+    content: article  
   - property: og:url
     content: https://postindustrialdesign.school/teach-the-1k/workshop/core-concepts/
   - name: twitter:url
