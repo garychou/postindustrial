@@ -20,7 +20,7 @@ export default {
   created(){
   },
   mounted(){
-
+/*
     const selectionShare = shareThis({
      selector: '.content__default',
      sharers: [twitterSharer, facebookSharer, emailSharer]
@@ -30,7 +30,7 @@ export default {
            || !window.matchMedia("(pointer: coarse)").matches) {
        selectionShare.init();
    }
-
+*/
   },
   methods: {
   }
