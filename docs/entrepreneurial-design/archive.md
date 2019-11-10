@@ -1,7 +1,7 @@
 ---
 title: Archive
 sidebarDepth: 2
-pageClass: "wide entdes"
+pageClass: "wide entdes archive"
 meta:
   - property: og:type
     content: article  

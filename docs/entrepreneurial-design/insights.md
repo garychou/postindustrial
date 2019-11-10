@@ -12,7 +12,18 @@ meta:
     content: https://postindustrialdesign.school/entrepreneurial-design/insights/
 ---
 
-# Insights from Entrepreneurial Design
+# Insights from Teaching Entrepreneurial Design
+
+<ImageCaption
+ url="/images/2018entdes_wide.jpg"
+ alt="Christina and Gary with the 2018 Entrepreneurial Design class at School of Visual Arts MFA in Interaction Design Program."
+ imagewidth="w-100"
+ >
+
+ *Christina and Gary, seated, with the 2018 Entrepreneurial Design class at School of Visual Arts [MFA in Interaction Design Program](http://interactiondesign.sva.edu).*
+
+</ImageCaption>
+
 
 Teaching Entrepreneurial Design has taught us a lot about the benefits and challenges of experiential instruction.
 

@@ -14,7 +14,24 @@ meta:
 
 # Insights from Teach the 1K
 
-Here’s what we learned from the 10-month process of both preparing for and running the Teach the 1K seminar and workshop.
+<ImageCaption
+ :url="[
+ '/images/planning2.jpg',
+ ]"
+
+ alt="Post-it notes from the Teach the 1K planning process."
+ imagewidth="w-100"
+ >
+
+ *No post-it notes were harmed in the 10-month process of designing Teach the 1K.*
+
+</ImageCaption>
+
+It's often said that the best way to learn something is to teach it.  That is especially true when you are talking about your own work, and doubly so when you are teaching other teachers.
+
+Much of our learning came simply from the need to clearly articulate our process to others.  However, we benefited greatly from the 40+ participants of the Teach the 1K Workshop and Seminar because it gave us an opportunity to see what resonated and why.
+
+Here's what we learned:
 
 **1. There is a burgeoning interest in teaching people to confront uncertainty.**
 

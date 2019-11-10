@@ -7,8 +7,8 @@
 
              <div class="db dtc-ns ph3 ph3-ns pt0 pb3 w-100 w-40-ns v-top">
 
-<!--               <h2 class="avenir pv3 pv4-ns db f1 f-subheadline-ns black-60 fw6">{{sets[0]}}</h2>
--->
+               <h3 class="avenir pv2 mv3 db f1 f-subheadline-ns black-60 fw6">{{sets[0]}}</h3>
+
                <div class="bg-white-10">
 
                  <div class="db ml1 pb0 pb3-ns pr4">

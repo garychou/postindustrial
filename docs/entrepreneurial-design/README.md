@@ -3,7 +3,7 @@ title: Entrepreneurial Design
 description: From 2012 - 2018, we explored the question of "What enables artists, entrepreneurs, and activists to be successful in today’s networked world?" primarily through co-teaching Entrepreneurial Design, a semester-long compulsory course for first-year students at School of Visual Arts MFA in Interaction Design program.
 sectiontitle: "What enables artists, entrepreneurs, and activists to be successful in today’s networked world?"
 sectionbyline: Christina Xu and Gary Chou
-sectionsubtitle: Fall 2018
+sectionsubtitle: 2012 - 2018
 heroimage: "/images/class.png"
 herocaption: Students from School of Visual Arts MFA in Interaction Design go through an ideation exercise at the beginning of the semester.
 pageClass: "wide entdes"

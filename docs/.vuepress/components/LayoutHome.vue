@@ -7,7 +7,7 @@
           <span class="fw7">Post-Industrial</span>
           <span class="black-40 fw4">Design School</span>
         </span>
-        <span class="db f7 f6-ns tc mb6 mb5-ns black-60">
+        <span class="db f6 f5-ns tc mb6 mb5-ns black-60">
           {{ $page.frontmatter.subtitle }}
         </span>
       </div>

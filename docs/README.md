@@ -9,9 +9,9 @@ layout: LayoutHome
 projects:
   - name: Teach the 1K
     url: /teach-the-1k/
-    year: 2019
+    year: 2018 -2019
     image: /images/t1k2.jpg
-    description: "How do we scale the impact of our work?"
+    description: "How might we scale the impact of our work?"
   - name: Entrepreneurial Design
     url: /entrepreneurial-design/
     year: 2012 - 2018
