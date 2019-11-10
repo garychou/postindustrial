@@ -27,7 +27,7 @@
   </div>
 
    <div class="cf w-100 mw9 center pa0 pa4-ns avenir" id="year5">
-     <div class="body center">
+     <div class="body  f5 f4-ns lh-copy">
        <Content slot-key="paul"/>
        <Content slot-key="body"/>
      </div>
@@ -66,24 +66,13 @@ export default {
        selectionShare.init();
    }
 
-    const blocks = document.querySelectorAll(".year5 blockquote");
     const paras = document.querySelectorAll('#year5 p, #year5 ul');
-    const blockparas = document.querySelectorAll('.year5 blockquote p');
     const h = document.querySelectorAll('#year5 h2');
     const links = document.querySelectorAll('.year5 p a');
     const hero = document.querySelectorAll('.hero p');
 
     Array.from(paras).forEach((el) => {
-      el.classList.add('f5','f4-ns','lh-copy','measure','center');
-    });
-
-    Array.from(blocks).forEach((el) => {
-      el.classList.add('ph0','f3','f1-ns','measure-narrow','tc','bl0','center');
-    });
-
-    Array.from(blockparas).forEach((el) => {
-      el.className = '';
-      el.classList.add('fw9','lh-title','lh-title-ns','athelas','mv4','mv5-ns','center');
+      el.classList.add('measure','center');
     });
 
     Array.from(h).forEach((el) => {

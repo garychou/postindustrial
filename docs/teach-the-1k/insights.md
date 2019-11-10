@@ -1,6 +1,6 @@
 ---
 title: Insights
-sidebarDepth: 2
+sidebarDepth: 0
 pageClass: "content t1k"
 next: /teach-the-1k/workshop/
 meta:

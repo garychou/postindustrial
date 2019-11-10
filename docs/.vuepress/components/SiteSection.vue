@@ -1,5 +1,5 @@
 <template>
-  <div class="w-100 mw9 center pb5">
+  <div class="w-100 mw9 center">
 
      <SectionHeader
        :title="$page.frontmatter.sectiontitle"
@@ -9,11 +9,11 @@
        :caption="$page.frontmatter.herocaption"
      >
 
-     <div class="w-100 pv5-ns flex-ns items-end-ns justify-between-ns">
-       <div class="avenir lh-copy measure-wide mt4 mt0-ns f5 f4-ns center">
+     <div class="w-100 pt4-ns flex-ns flex-column-m items-end-ns justify-between-ns">
+       <div class="avenir lh-copy measure-wide mt4 mt0-ns pr3-ns f5 f4-ns center">
          <Content slot-key="body"/>
        </div>
-       <div class="f6 measure-narrow-ns bg-black-05 black-70 ph3 ph4-l pv3 mt3-ns mh0 mh2-m mh4-ns br3 avenir">
+       <div class="center w-100 measure-narrow-l f6 bg-black-05 black-70 ph3 ph3-l pv3 mt3-ns br3 avenir">
          <Content slot-key="sidebar"/>
        </div>
      </div>

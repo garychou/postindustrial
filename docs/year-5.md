@@ -74,7 +74,7 @@ But they haven’t been taught how to express and realize their own ideas. For o
 
 **C:** I like to think we’re helping them acquire a type of muscle memory for doing real projects: only through practice do you get better at hitting the launch button despite the uncertainty of not knowing whether your project is good enough. No amount of thinking and speculation can fully prepare you for the real launch process, because unpredictable and indescribable problems are inevitable.
 
-> How a creator deals with these problems ultimately shapes how good the project can be.
+<Quote2 cite="Christina">How a creator deals with these problems ultimately shapes how good the project can be.</Quote2>
 
 If you are prepared to react to those problems and anticipate them ahead of time, that makes you a much more effective creator.
 
@@ -134,7 +134,7 @@ The course is intentionally designed to get the students to involve us (and othe
 
 **C:** Sometimes that can come off as a very transactional thing. But networks that are robust stay robust through use—you’re giving the network things it wants, but you’re also asking it for things you want. As long as exchanges are flowing through it, the network stays alive.
 
-> As long as exchanges are flowing through it, the network stays alive
+<Quote2 cite="Christina">As long as exchanges are flowing through it, the network stays alive.</Quote2>
 
 **G:** Learning to understand that you have to cultivate this system alongside the creation of your thing is also part of the challenge. Creating the thing is hard enough as it is. Back to the idea of working in the real world, it’d be hard to practice cultivating a network if you were working on a fake project.
 
@@ -156,7 +156,7 @@ The course is intentionally designed to get the students to involve us (and othe
 
 Every single piece of advice I’ve given has been something that I sort of stashed away in my head because I’ve known it’s something I would need for myself in the future. That’s what keeps me going as a teacher. I’m constantly building up this library of both problems and solutions, and that has helped me be a better creator.
 
-> When it actually comes down to your own problem, you approach it in a way that’s somehow objectively just dumber.
+<Quote2 cite="Christina">When it actually comes down to your own problem, you approach it in a way that’s somehow objectively just dumber.</Quote2>
 
 **C:** Yeah, definitely. But it’s hard to take the advice. Even if you’re the one who gave it, even if you’ve given it to dozens of other people. When it actually comes down to your own problem, you approach it in a way that’s somehow objectively just dumber. It doesn’t make any sense.
 
@@ -212,7 +212,7 @@ Even if you’re a brilliant writer, editor, and producer who somehow also knows
 
 **C:** There is a related thread here about developing a practice of momentum: how do you maintain weekly progress or make decisions when you’re stuck? How do you work through that cycle of doubt?
 
-> I’ve come to really appreciate the process of review as a weapon for getting past the cycle of doubt and uncertainty.
+<Quote2 cite="Christina">I’ve come to really appreciate the process of review as a weapon for getting past the cycle of doubt and uncertainty.</Quote2>
 
 If you can build in a regular practice of checking in with other people who don’t have a direct stake in what you’re doing, that can be a way forward. It both forces you to make decisions by the time that review happens, but also allows you to get fresh perspective, which is so important when you’re in a solitary creation process. It’s so easy to just fall down a pointless rabbit hole, like *how many pages is this thing going to be* or *what color is it going to be*? At some point, you hit decision fatigue as an individual creator. That’s when review can help.
 
@@ -243,7 +243,7 @@ This is followed by a formal and deliberate review process ([2014](http://xuhulk
 
 **G:** I think the reason these milestones are effective is because they aren’t really about presenting work to us, the instructors. They’re presenting to other people and normalizing this external engagement as part of their process.
 
-> A regular diet of discomfort is key to maintaining momentum.
+<Quote2 cite="Gary">A regular diet of discomfort is key to maintaining momentum.</Quote2>
 
 You have to engineer that into your process. Because, at some point as the students become more comfortable with us, we’re no longer a motivational threat.
 
@@ -350,7 +350,7 @@ Also, everything else we’ve talked about—the scaffolding—involves opening 
 
 All of this is part of the [learning process](http://blog.tonyhschu.ca/post/21765950765/fail-in-public).
 
-> Outcomes are out of our control. Nothing is guaranteed; we’re not entitled to success, and forward progress isn’t inevitable.
+<Quote2 cite="Gary">Outcomes are out of our control. Nothing is guaranteed; we’re not entitled to success, and forward progress isn’t inevitable.</Quote2>
 
 But we get to decide where we spend our attention, and we get to define some of our constraints. And then you see how it goes. And then you adjust and try again.
 
@@ -391,7 +391,7 @@ So, what I want is for them to be able to think for themselves, and to get pract
 
 The hard thing is there’s a real possibility that you will never get there, or that no one will care, or that it will never work. And these are things I continue to struggle with myself. But I’ve had to learn to accept that reality—it’s hard to know whether you’re just banging your head against a wall vs. making forward progress—and to also build the infrastructure to support it. That’s what [Orbital](http://orbital.nyc) is all about.
 
-> Networks are the infrastructure for resilience—the financial and emotional, but also the creative and intellectual.
+<Quote2 cite="Gary">Networks are the infrastructure for resilience—the financial and emotional, but also the creative and intellectual.</Quote2>
 
 **C:** Yeah. For me, if we’re effective at what we are teaching, what we’ll start to plant into students’ heads is not just this literacy of how networks work and how to build and use them, but this greater awareness of all the networks around us.
 
