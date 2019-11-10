@@ -1,6 +1,6 @@
 ---
 title: Insights
-sidebarDepth: 2
+sidebarDepth: 0
 pageClass: "content entdes"
 next: ../archive.md
 meta:
