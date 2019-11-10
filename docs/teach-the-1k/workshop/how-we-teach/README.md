@@ -6,7 +6,7 @@ next: train.md
 prev: ../core-concepts.md
 meta:
   - property: og:type
-    content: article  
+    content: website  
   - property: og:url
     content: https://postindustrialdesign.school/teach-the-1k/workshop/how-we-teach/
   - name: twitter:url

@@ -5,7 +5,7 @@ pageClass: "content t1k"
 prev: /teach-the-1k/workshop/how-we-teach/
 meta:
   - property: og:type
-    content: article  
+    content: website  
   - property: og:url
     content: https://postindustrialdesign.school/teach-the-1k/workshop/how-we-teach/train/
   - name: twitter:url

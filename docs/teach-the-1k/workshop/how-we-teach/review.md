@@ -4,7 +4,7 @@ sidebarDepth: 2
 pageClass: "content t1k"
 meta:
   - property: og:type
-    content: article  
+    content: website  
   - property: og:url
     content: https://postindustrialdesign.school/teach-the-1k/workshop/how-we-teach/review/
   - name: twitter:url
