@@ -37,15 +37,11 @@
        <Content slot-key="footer"/>
      </div>
    </div>
+   <Highlight/>
  </div>
 </template>
 
 <script>
-import shareThis from 'share-this'
-import * as twitterSharer from 'share-this/dist/sharers/twitter'
-import * as facebookSharer from 'share-this/dist/sharers/facebook'
-import * as emailSharer from 'share-this/dist/sharers/email'
-
 export default {
   components: { },
   props: [''],
@@ -56,15 +52,6 @@ export default {
   computed: {
   },
   mounted(){
-    const selectionShare = shareThis({
-     selector: '#year5',
-     sharers: [twitterSharer, facebookSharer, emailSharer]
-   });
-
-   if (!window.matchMedia
-           || !window.matchMedia("(pointer: coarse)").matches) {
-       selectionShare.init();
-   }
 
     const paras = document.querySelectorAll('#year5 p, #year5 ul');
     const h = document.querySelectorAll('#year5 h2');
@@ -137,4 +124,3 @@ export default {
 }
 
 </style>
-<style src="share-this/dist/share-this.css"></style>

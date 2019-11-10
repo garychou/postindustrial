@@ -12,7 +12,7 @@ meta:
     content: https://postindustrialdesign.school/entrepreneurial-design/insights/
 ---
 
-# Insights
+# Insights from Entrepreneurial Design
 
 Teaching Entrepreneurial Design has taught us a lot about the benefits and challenges of experiential instruction.
 
@@ -31,3 +31,5 @@ Here’s an overview of some of the major instructional challenges we have encou
 **5. Students are systemically unprepared to deal with ambiguity.** In our class, there is often no “right answer,” which can be incredibly unnerving for students trained in an achievement-oriented mindset.
 
 **6. Personalized transformative experiences don’t scale.** In our model, students show up with different aspirations and skill-sets, then go on very individualized journeys. This means that what they need from us as instructors is eclectic and unpredictable, which requires a lot of emotional energy to manage.
+
+<Highlight/>

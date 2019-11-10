@@ -68,3 +68,5 @@ An ideal cohort is:
 - has a mix of skills, resources, networks, experiences
 - shares something in common
 - rarely comes together by accident
+
+<Highlight/>

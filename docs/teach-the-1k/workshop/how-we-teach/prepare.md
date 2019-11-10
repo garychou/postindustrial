@@ -167,3 +167,5 @@ Though it can be a lot of work to put together, Product Sessions has a few power
 By talking to 3 different people, each student is likely to hear something really useful that will send them down the right path towards launch. They then have two weeks to iterate and refine based on the feedback.
 
 Product Sessions has gotten easier to put on with practice and tools, but wrangling enough advisors who are willing to volunteer their time on Saturday is still a challenge. If this seems like too much work, just remember that the key thing is making it easy for the students to talk to new, experienced people.
+
+<Highlight/>

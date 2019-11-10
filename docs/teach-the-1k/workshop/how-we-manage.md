@@ -52,3 +52,5 @@ When a student is stuck and you can see a way out, it is super satisfying (and h
 Over the 5 years we taught together, we created a bunch of tools to make our lives easier and minimize drudgework. These include a tracker for the whole class' Kickstarter campaigns, a Google Sheets dashboard for keeping track of student work, and a little program that generates randomized groups for class activities.
 
 We also introduced a few rituals to streamline how the work gets done. For example, each class always begins with "Question Party," a systematized Q&A designed to externalize students' concerns and misunderstandings in a contained way. Also, we always get dinner after class to debrief on the class and figure out any adjustments we need to make for the following week, which cuts down on another meeting we would need to have (or at least turns it into a fun and delicious occasion).
+
+<Highlight/>

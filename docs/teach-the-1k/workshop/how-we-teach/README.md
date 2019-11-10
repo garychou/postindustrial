@@ -47,3 +47,5 @@ And we put together these phases like this:
  </ImageCaption>
 
 When we ran it outside the academy, it was a shorter program—4 weeks, 2x a week. We recruited participants who already had a pretty good idea of what they wanted to work on, so we spent 3 weeks on Prepare and 1 week on Launch. That course did not have time for Review.
+
+<Highlight/>

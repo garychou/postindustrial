@@ -125,3 +125,5 @@ By the time our students are done with the training phase, they have gone throug
 1. **make something** that serves as a signal
 2. **have a conversation**, and
 3. **share back** what they’ve learned as a new signal.
+
+<Highlight/>

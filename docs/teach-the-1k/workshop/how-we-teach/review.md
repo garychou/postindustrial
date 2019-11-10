@@ -60,3 +60,4 @@ Finally, we encourage the students to share their lessons learned, which they've
 Here are a few selected posts spanning the years.
 
 <StudentBlogposts/>
+<Highlight/>

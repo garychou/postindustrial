@@ -125,3 +125,5 @@ Here, described in our students' own words, are some of those lessons:
 **The environment affects outcomes**—none of us are creating in a vacuum.
 
 <Quote1>“When I helped my dad to donate on Kickstarter I realized how complex it was for someone that doesn't know English to use the site, so I decided to change my outreach by outlining all the steps Brazilians needed to follow to make a donation. After that more Brazilians started donating."</Quote1>
+
+<Highlight/>

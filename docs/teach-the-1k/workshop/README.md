@@ -96,3 +96,5 @@ But it’s not really about the money. Instead, the money is a carrot that lures
 <Quote1 cite="Leroy Tellez, '15">"...I embrace the <strong>possibility of failure</strong> as a learning opportunity..."</Quote1>
 
 <Quote1 cite="Song Lee, '17">"I’ve learned that <strong>we are worthy of other people’s support</strong>..."</Quote1>
+
+<Highlight/>
