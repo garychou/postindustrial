@@ -2,7 +2,7 @@
 title: Home
 subtitle: An Experiential Learning Lab
 description: An experiential learning lab run by Christina Xu and Gary Chou
-image: /images/year5/s_42FD3C04B7B503C990C3619E269FBB0C18BDC250A471A52735CC280C239EE4C5_1485269191543_file.png
+image: https://postindustrialdesign.school/images/year5/s_42FD3C04B7B503C990C3619E269FBB0C18BDC250A471A52735CC280C239EE4C5_1485269191543_file.png
 sidebar: false
 pageClass: homepage
 layout: LayoutHome
@@ -22,6 +22,13 @@ projects:
     year: 2016
     image: /images/year5/s_42FD3C04B7B503C990C3619E269FBB0C18BDC250A471A52735CC280C239EE4C5_1485269191543_file.png
     description: Lessons learned from teaching the $1K Challenge.
+meta:
+  - property: og:type
+  content: website  
+  - property: og:url
+    content: https://postindustrialdesign.school
+  - name: twitter:url
+    content: https://postindustrialdesign.school
 ---
 
 ::: slot welcome
@@ -66,20 +73,5 @@ We want to see more classrooms, training programs, and incubators teach these fu
 [Christina Xu](http://christinaxu.org/) ([@xuhulk](https://twitter.com/xuhulk)) has taught Entrepreneurial Design along with Gary Chou at SVA's MFA in Interaction Design program from 2014 through 2018. She works as a freelance ethnographic researcher studying internet culture and social behavior around technology in the US and China. Her past projects include Letters for Black Lives, Awesome Foundation, and ROFLCon.
 
 [Gary Chou](https://garychou.com/) ([@garychou](https://twitter.com/garychou)) is founder of Orbital, a studio for building networks.  In addition to co-teaching with Christina, he’s been an advisor to Venture for America and Austin Center for Design.  Previously he was General Manager at Union Square Ventures, a venture capital firm based in New York City.  He’s held senior product management roles at a number of early stage consumer and enterprise startups.
-
-:::
-
-
-::: slot other
-
-The **$1K Challenge:**
-
-> “Design, launch and complete a crowdfunding campaign that benefits a community you’ve worked with over the course of the semester.
-> The campaign should raise at least $1,000 from 50 different backers.”
-
-Over 100 students have taken the challenge, raising over $300K from thousands of backers [all out in the real world](https://youtu.be/e0Jsq6ZsARI?t=610). That said, the magic of the challenge isn’t in the amount of money raised—it’s in [the lessons learned along the way](https://postindustrialdesign.school/background#students):
-
-> “It’s about there being no right answers. About fighting the tendency to ask for approval or permission. About getting out of your head and engaging with the world.”
-—Nikki Sylianteng, 2012
 
 :::

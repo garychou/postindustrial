@@ -4,6 +4,13 @@ pageClass: "content t1k"
 prev: ../insights.md
 next: core-concepts.md
 sidebarDepth: 2
+meta:
+  - property: og:type
+  content: website  
+  - property: og:url
+    content: https://postindustrialdesign.school/teach-the-1k/workshop/
+  - name: twitter:url
+    content: https://postindustrialdesign.school/teach-the-1k/workshop/
 ---
 
 

@@ -7,7 +7,14 @@ conversationDate: June 20, 2016
 subtitle: Lessons learned from teaching the $1,000 Challenge.
 heroimage: /images/year5/s_42FD3C04B7B503C990C3619E269FBB0C18BDC250A471A52735CC280C239EE4C5_1485269191543_file.png
 description: After 5 years of teaching Entrepreneurial Design, Gary and Christina sat down to talk about what the class had become, and what they had learned over the years. Edited by Liz Danzico, chair & co-founder of MFA in Interaction Design at School of Visual Arts. Introduction by SVA IXD Faculty member Paul Ford.
-image: /images/year5/s_42FD3C04B7B503C990C3619E269FBB0C18BDC250A471A52735CC280C239EE4C5_1485269191543_file.png
+image: https://postindustrialdesign.school/images/year5/s_42FD3C04B7B503C990C3619E269FBB0C18BDC250A471A52735CC280C239EE4C5_1485269191543_file.png
+meta:
+  - property: og:type
+  content: website  
+  - property: og:url
+    content: https://postindustrialdesign.school/year-5/
+  - name: twitter:url
+    content: https://postindustrialdesign.school/year-5/
 ---
 
 <Year5/>

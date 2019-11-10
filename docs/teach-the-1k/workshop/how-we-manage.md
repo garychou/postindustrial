@@ -2,6 +2,13 @@
 title: How We Manage
 sidebarDepth: 2
 pageClass: "content t1k"
+meta:
+  - property: og:type
+  content: website  
+  - property: og:url
+    content: https://postindustrialdesign.school/teach-the-1k/workshop/how-we-manage/
+  - name: twitter:url
+    content: https://postindustrialdesign.school/teach-the-1k/workshop/how-we-manage/
 ---
 
 # How We Manage

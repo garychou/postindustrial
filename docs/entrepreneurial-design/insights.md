@@ -3,6 +3,13 @@ title: Insights
 sidebarDepth: 2
 pageClass: "content entdes"
 next: ../archive.md
+meta:
+  - property: og:type
+  content: website  
+  - property: og:url
+    content: https://postindustrialdesign.school/entrepreneurial-design/insights/
+  - name: twitter:url
+    content: https://postindustrialdesign.school/entrepreneurial-design/insights/
 ---
 
 # Insights

@@ -2,7 +2,7 @@ const autometa_options = {
   site: {
     name: 'Post-Industrial Design School',
   },
-  canonical_base: 'https://postindustrialdesign.school',
+//  canonical_base: 'https://postindustrialdesign.school',
   enable : true, // enables/disables everything - control per page using frontmatter
   image  : true, // regular meta image used by search engines
   twitter: true, // twitter card
@@ -65,11 +65,12 @@ module.exports = {
       }
     },
     plugins: [
-      [ 'autometa', autometa_options ],
       [ 'clean-urls', {
               normalSuffix: '/',
               indexSuffix: '/',
               notFoundPath: '/404.html'
-            }]
+            }],
+      [ 'autometa', autometa_options ]
+
     ],
 }

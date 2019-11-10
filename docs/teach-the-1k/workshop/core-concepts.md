@@ -4,7 +4,13 @@ sidebarDepth: 2
 pageClass: "content t1k"
 prev: /teach-the-1k/workshop/
 next: /teach-the-1k/workshop/how-we-teach/
-
+meta:
+  - property: og:type
+  content: website  
+  - property: og:url
+    content: https://postindustrialdesign.school/teach-the-1k/workshop/core-concepts/
+  - name: twitter:url
+    content: https://postindustrialdesign.school/teach-the-1k/workshop/core-concepts/
 ---
 
 # Core Concepts

@@ -9,7 +9,14 @@ herocaption: Students from School of Visual Arts MFA in Interaction Design go th
 pageClass: "wide entdes"
 sidebarDepth: 1
 next: insights.md
-image: "/images/class.png"
+image: https://postindustrialdesign.school/images/class.png
+meta:
+  - property: og:type
+  content: website  
+  - property: og:url
+    content: https://postindustrialdesign.school/entrepreneurial-design/
+  - name: twitter:url
+    content: https://postindustrialdesign.school/entrepreneurial-design/
 ---
 
 <SiteSection/>
