@@ -204,6 +204,11 @@ ul.sidebar-links li a.sidebar-link.active
 ul.sidebar-links li a.sidebar-link:not(.active), .sidebar-group.is-sub-group > .sidebar-group-items > li > a.sidebar-link:not(.active)
   color: #808080
 
+ul.sidebar-links li a.sidebar-link:not(.active):hover,
+.sidebar-group.is-sub-group.depth-1 > .sidebar-heading.clickable:hover,
+.sidebar-group.is-sub-group > .sidebar-group-items > li > a.sidebar-link:not(.active):hover
+  color: #bbbbbb
+
 .year5 ul.sidebar-links li a.sidebar-link
   font-size: 0.95rem
 
@@ -225,9 +230,13 @@ ul.sidebar-links li a.sidebar-link:not(.active), .sidebar-group.is-sub-group > .
   color: transparent
   font-size: 0.4rem
 
+.h1
+  font-family: avenir
+  font-weight: bold
+
 .content.theme-container .theme-default-content
   width: 100%
   margin-right: auto
   margin-left: auto
-  max-width: 39em
+  max-width: 45rem
   font-size: 1.1rem

@@ -12,7 +12,7 @@ meta:
     content: https://postindustrialdesign.school/teach-the-1k/workshop/how-we-teach/train/
 ---
 
-# Train
+# Phase 1: Train
 
 In the early years of teaching the class, we didn’t really do much Training because we hadn’t figured out what the students needed. Instead, we did 3 weeks of abstract lectures, and then threw them right into the pool.
 

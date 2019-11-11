@@ -11,7 +11,7 @@ meta:
     content: https://postindustrialdesign.school/teach-the-1k/workshop/how-we-teach/review/
 ---
 
-# Review
+# Phase 4: Review
 
 Once the projects are over after two grueling weeks, our work as instructors continues. It's now time for Review, a process we always make sure to carve out ample time for (3 whole weeks!) because it is a critical part of the learning journey.
 

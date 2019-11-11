@@ -11,7 +11,7 @@ meta:
     content: https://postindustrialdesign.school/teach-the-1k/workshop/how-we-teach/launch/
 ---
 
-# Launch
+# Phase 3: Launch
 
 Launch is the big moment we’ve all been working up to. In some ways, it’s straightforward: the students hit the button and their projects go live. It’s the most essential part of the course, because nothing else happens if the project isn’t launched. As instructors, we don’t care about a 100% success rate for the projects, but we do everything in our power to ensure a 100% launch rate each year.
 
@@ -50,7 +50,7 @@ What they *can* still do, however, is hustle for attention. We prefer to show th
  imagewidth="w-100"
  >
 
- *At some point, you just need to send out all the emails. *
+ *At some point, you just need to send out all the emails.*
 
  </ImageCaption>
 

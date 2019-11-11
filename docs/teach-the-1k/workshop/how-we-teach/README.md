@@ -19,10 +19,10 @@ When a rocket is launched, there is an immense amount of preparation and materia
 
 The latest design of our course is divided into four distinct phases:
 
-* Train - Getting everyone on the same page with basic skills
-* Prepare - Exploring, expressing, and refining ideas
-* Launch - Taking a leap of faith and finding your people
-* Review - Reflecting and processing to learn
+1. **Train** - Getting everyone on the same page with basic skills
+1. **Prepare** - Exploring, expressing, and refining ideas
+1. **Launch** - Taking a leap of faith and finding your people
+1. **Review** - Reflecting and processing to learn
 
 At SVA, we have:
 

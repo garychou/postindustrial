@@ -61,7 +61,9 @@ Some constraints we’ve added to the $1K Challenge over the years:
 
 ## Cohorts
 
-**Cohorts increase the surface area of learning.** Finally, we learned that it is much better for the students to encounter this experience in a cohort rather than solo, because it helps so much to watch other people go through it with. To fully leverage the benefit of the cohort, we’ve learned that it helps to make the obstacle course a collaborative rather than a competitive one.
+**Cohorts increase the surface area of learning.** Finally, we learned that it is much better for the students to encounter this experience in a cohort rather than solo, because it helps so much to watch other people go through it with.
+
+To fully leverage the benefit of the cohort, we’ve learned that it helps to make the obstacle course a collaborative rather than a competitive one.
 
 An ideal cohort is:
 - incentivized and able to support each other

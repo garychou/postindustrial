@@ -16,11 +16,7 @@ meta:
 
 # Teach the 1K Workshop
 
-**February 2019**\
-Orbital\
-New York City
-
-Before we get into the workshop, we should set a few expectations:
+Before we get into the workshop itself, we should set a few expectations:
 
 
 ### What this is and isn't about
@@ -35,7 +31,11 @@ Before we get into the workshop, we should set a few expectations:
 
  </ImageCaption>
 
-The course we designed turned out not to be about what the tech industry tends to think of as business fundamentals, like how to raise VC or build an MVP, but rather about how to get started when you have an inkling of an idea. Fundamentally, we have been exploring the question: "What enables artists, entrepreneurs, and activists to be successful in today’s networked world?"
+Generally, when we think about "teaching entrepreneurship", we often assume it's in the context of how to build a venture-backed business, or how to build an MVP.  Similarly, when people hear about the $1,000 Project, they often assume our class is a primer on how to run a Kickstarter project.
+
+Rather, our course is focused much more upstream: how to get started when you have an inkling of an idea.
+
+Fundamentally, we have been exploring the question: "What enables artists, entrepreneurs, and activists to be successful in today’s networked world?"
 
 After 10 iterations of teaching it, our current best answer to this is: the abilities to **confront and navigate uncertainty**, and to **grow and sustain relevant networks**.
 

@@ -27,11 +27,12 @@ meta:
 
 </ImageCaption>
 
-It's often said that the best way to learn something is to teach it.  That is especially true when you are talking about your own work, and doubly so when you are teaching other teachers.
+Teach the 1K spans two substantive efforts:
 
-Much of our learning came simply from the need to clearly articulate our process to others.  However, we benefited greatly from the 40+ participants of the Teach the 1K Workshop and Seminar because it gave us an opportunity to see what resonated and why.
+* a multi-month process of review, synthesis and writing where we formalized our methods, vocabulary and frameworks
+* the experience of running both the Workshop and Seminar for over 40 entrepreneurship educators and activators
 
-Here's what we learned:
+Here's what we learned from both of these efforts:
 
 **1. There is a burgeoning interest in teaching people to confront uncertainty.**
 

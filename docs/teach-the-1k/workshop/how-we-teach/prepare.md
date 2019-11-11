@@ -11,7 +11,7 @@ meta:
     content: https://postindustrialdesign.school/teach-the-1k/workshop/how-we-teach/prepare/
 ---
 
-# Prepare
+# Phase 2: Prepare
 
 It is at this point in the course that we (finally!) officially introduce the $1K Challenge. The wording we use is:
 
@@ -62,7 +62,7 @@ This may feel awkward for students because they’ve been trained to get to cert
  imagewidth="w-100"
  >
 
- *Our core exploration loop consists of: finding and accessing people, engaging in dialogue, synthesizing learnings, sharing lessons and new questions back out, and repeat.*
+ *Our core exploration loop consists of: finding and accessing people, engaging in dialogue, synthesizing learnings, sharing lessons and new questions back out, and repeat. (Modified from SVA IxD alum Tom Harman's wonderful piece [Introducing BuzzFeed’s Design Process](https://medium.com/buzzfeed-design/introducing-buzzfeeds-design-process-4fefbdcd83ea))*
 
  </ImageCaption>
 

@@ -11,7 +11,11 @@ meta:
     content: https://postindustrialdesign.school/entrepreneurial-design/archive/
 ---
 
+<div class="measure tc center f6">
+
 Below are instructor reflections, syllabi, student blog posts, and acknowledgments for both Entrepreneurial Design, taught at School of Visual Arts [MFA in Interaction Design](http://interactiondesign.sva.edu) and the [Orbital](https://orbital.nyc) 1K and Bootcamp programs from 2012 to 2018.
+
+</div>
 
 ## 2018
 
