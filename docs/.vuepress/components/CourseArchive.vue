@@ -22,7 +22,7 @@
                  <div class="db ml1 pb0 pb3-ns">
 
                    <span class="flex bb b--near-white f7 fw6 ttu db mt4 mb3 black-40">Syllabi</span>
-                   <div v-for="i in sets[1]" :key="i.syllabus" class="db mb1 f4 avenir lh-copy">
+                   <div v-for="i in sets[1]" :key="i.syllabus" class="db mb1 f4 avenir lh-copy  ">
 
                      <a class="dim link"  target="_blank" :href="i.syllabus">
                        {{ i.program }}
@@ -57,7 +57,7 @@
 
                <div v-for="q in quotesByYear(sets[0])" :key="q.quote" class="mb2 mb4-ns ph2 pb2 pr4-ns measure-wide center db">
                  <p class="avenir f5 f3-ns lh-title black-70 ml2 mb3">"{{ q.quote }}"</p>
-                 <span class="tr avenir f6 lh-title db fs-normal black-60 fw5 ml2">{{ q.author }}, <a rel="noopener noreferrer" class="avenir f6 link dim" :href="q.url">{{ q.title }}</a></span>
+                 <span class="tr avenir f5 lh-title db fs-normal black-60 fw5 ml2">{{ q.author }}, <a rel="noopener noreferrer" class="avenir f5 link dim" :href="q.url">{{ q.title }}</a></span>
                </div>
              </div>
            </div>
