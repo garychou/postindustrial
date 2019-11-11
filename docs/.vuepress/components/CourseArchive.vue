@@ -3,9 +3,9 @@
 
            <div v-for="sets in reversedlinks">
 
-             <div v-if="sets[0] == year" class="mb3 super-light-gray br3 pv1 pv2-ns">
+             <div v-if="sets[0] == year" class="mb3-ns super-light-gray br3 pv0 pv2-ns">
 
-             <div class="db dtc-ns ph3 ph3-ns pt0 pb3 w-100 w-40-ns v-top">
+             <div class="db dtc-ns ph2 ph3-ns pt0 pb3-ns w-100 w-40-ns v-top">
 
                <h3 class="avenir pv2 mv3 db f1 f-subheadline-ns black-60 fw6">{{sets[0]}}</h3>
 
@@ -22,7 +22,7 @@
                  <div class="db ml1 pb0 pb3-ns">
 
                    <span class="flex bb b--near-white f7 fw6 ttu db mt4 mb3 black-40">Syllabi</span>
-                   <div v-for="i in sets[1]" :key="i.syllabus" class="db mb1 f4 avenir">
+                   <div v-for="i in sets[1]" :key="i.syllabus" class="db mb1 f4 avenir lh-copy">
 
                      <a class="dim link"  target="_blank" :href="i.syllabus">
                        {{ i.program }}
