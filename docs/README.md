@@ -37,6 +37,8 @@ meta:
 
 This website is an archive of their collective and independent explorations working with students, creators, and entrepreneurship educators at [Orbital](https://orbital.nyc) and School of Visual Arts [MFA in Interaction Design Program](http://interactiondesign.sva.edu) from 2012 through 2019.
 
+If you'd like to contact us or keep in touch, [please say hello](/contact).
+
 :::
 
 
