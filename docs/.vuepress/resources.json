@@ -102,7 +102,15 @@
 		}]
 	},
 	"talks": {
-		"2019": [{
+		"2019": [
+			{
+			"url": "https://medium.com/@garychou/teaching-entrepreneurship-through-in-public-experiential-learning-acd87dc382d2",
+			"title": "Teaching Entrepreneurship through In-Public Experiential Learning",
+			"author": "Gary Chou",
+			"year": "2019",
+			"featured": "1"
+			},
+			{
 			"url": "https://medium.com/@HowardGray/tickets-podcast-gary-chou-and-christina-xu-on-entrepreneurship-education-and-harnessing-the-power-e8673a16e5af",
 			"title": "Gary Chou and Christina Xu on entrepreneurship education and harnessing the power of networks",
 			"author": "Tickets Podcast, hosted by Howard Gray",
