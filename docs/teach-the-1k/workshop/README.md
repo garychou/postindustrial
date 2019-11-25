@@ -37,7 +37,10 @@ Rather, our course is focused much more upstream: how to get started when you ha
 
 Fundamentally, we have been exploring the question: "What enables artists, entrepreneurs, and activists to be successful in today’s networked world?"
 
-After 10 iterations of teaching it, our current best answer to this is: the abilities to **confront and navigate uncertainty**, and to **grow and sustain relevant networks**.
+After 10 iterations of teaching it, our current best answer to this is:
+
+* the ability to **confront and navigate uncertainty**, and  
+* the ability to **grow and sustain relevant networks**.
 
 ### Teaching through challenges
 
