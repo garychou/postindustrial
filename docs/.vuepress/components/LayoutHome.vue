@@ -54,6 +54,11 @@
                 <Content slot-key="about"/>
               </div>
 
+              <span class="bb b--near-white f7 fw5 tracked ttu db mt4 mb4 mb4-ns pl2-ns pb1 black-60">Contact Us</span>
+              <div class="measure-ns ml1-l ph0 pb3 ph2-l">
+                <Content slot-key="contact"/>
+              </div>
+
             </div>
 
             <div class="fn fl-ns avenir w-100 w-50-ns pv3 ph2 ph4-ns" id="mission">
@@ -65,9 +70,6 @@
             </div>
 
 
-<!--            <div class="f5 f5-l fn fl-ns black-70 avenir w-third-m w-30-ns">
-            </div>
--->
           </div>
         </div>
   </div>
