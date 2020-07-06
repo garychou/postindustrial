@@ -2,11 +2,11 @@
 title: Year 5
 sidebar: auto
 pageClass: year5
-byline: Christina Xu and Gary Chou
+byline: Chris Xu and Gary Chou
 conversationDate: June 20, 2016
 subtitle: Lessons learned from teaching the $1,000 Challenge.
 heroimage: /images/year5/s_42FD3C04B7B503C990C3619E269FBB0C18BDC250A471A52735CC280C239EE4C5_1485269191543_file.png
-description: After 5 years of teaching Entrepreneurial Design, Gary and Christina sat down to talk about what the class had become, and what they had learned over the years. Edited by Liz Danzico, chair & co-founder of MFA in Interaction Design at School of Visual Arts. Introduction by SVA IXD Faculty member Paul Ford.
+description: After 5 years of teaching Entrepreneurial Design, Gary and Chris sat down to talk about what the class had become, and what they had learned over the years. Edited by Liz Danzico, chair & co-founder of MFA in Interaction Design at School of Visual Arts. Introduction by SVA IXD Faculty member Paul Ford.
 image: https://postindustrialdesign.school/images/year5/s_42FD3C04B7B503C990C3619E269FBB0C18BDC250A471A52735CC280C239EE4C5_1485269191543_file.png
 meta:
   - property: og:type
@@ -20,7 +20,7 @@ meta:
 <Year5/>
 
 ::: slot credits
-After 5 years of teaching Entrepreneurial Design, Gary and Christina sat down to talk about what the class had become, and what they had learned over the years. The transcript was edited down into this written piece by [Liz Danzico](http://bobulate.com), the chair & co-founder of [MFA in Interaction Design](http://interactiondesign.sva.edu) at School of Visual Arts, and fellow SVA IXD Faculty member [Paul Ford](https://twitter.com/ftrain) wrote a generous introduction.
+After 5 years of teaching Entrepreneurial Design, Gary and Chris sat down to talk about what the class had become, and what they had learned over the years. The transcript was edited down into this written piece by [Liz Danzico](http://bobulate.com), the chair & co-founder of [MFA in Interaction Design](http://interactiondesign.sva.edu) at School of Visual Arts, and fellow SVA IXD Faculty member [Paul Ford](https://twitter.com/ftrain) wrote a generous introduction.
 
 :::
 
@@ -37,13 +37,13 @@ By [Paul Ford](http://ftrain.com/)
 
 When I first heard about “Entrepreneurial Design” I had a near-panic attack. And I didn’t even have to take the class. You make the students do what? They have to raise how much money and ship a product? This is madness. Someone needs to stop it! But the students loved it and told me so—at least once it was over.
 
-“Entrepreneur” is an overloaded term—almost as bad as “startup.” But this part of entrepreneurship isn’t about how to craft third-quarter projections. Gary and Christina’s class is a lesson in hustle. The clock is ticking, so get your thoughts in order. TICK. Start selling your idea. TOCK. Raise money. TICK. TOCK. Until you’ve got something out in the world, in people’s hands. So maybe you could call this class “Design Hustling for Real.” But no one asks me to name things.
+“Entrepreneur” is an overloaded term—almost as bad as “startup.” But this part of entrepreneurship isn’t about how to craft third-quarter projections. Gary and Chris’s class is a lesson in hustle. The clock is ticking, so get your thoughts in order. TICK. Start selling your idea. TOCK. Raise money. TICK. TOCK. Until you’ve got something out in the world, in people’s hands. So maybe you could call this class “Design Hustling for Real.” But no one asks me to name things.
 
 Take note of what doesn’t happen here: The students don’t suddenly level up their programming or product management skills to some new, unexpected level. They don’t gain some immense technical understanding. They use the abilities and materials on hand. They don’t ask permission or wait for approval. They collaborate and get moving. I came to understand that this class didn’t give them new skills as much as it gave them a new context—a new way to see themselves as entrepreneurs. Maybe you could call this class “Entrepreneurial Self-image.”
 
 This program is the avowed enemy of bureaucracy, which is why it’s powerful. It’s designed to blow up entrenched modes of thought. It puts you on a deadline. And anyone who argues against deadlines argues against everything, good and bad, that makes us human. So maybe you could call it “Entrepreneurship on the Clock.”
 
-But none of those names capture the whole of what Gary and Christina have accomplished, so we should just stick with what works. And here we go. You’re lucky. It’s time for your own panic attack—here’s Entrepreneurial Design.
+But none of those names capture the whole of what Gary and Chris have accomplished, so we should just stick with what works. And here we go. You’re lucky. It’s time for your own panic attack—here’s Entrepreneurial Design.
 
 <ImageCaption
  url="/images/year5/s_42FD3C04B7B503C990C3619E269FBB0C18BDC250A471A52735CC280C239EE4C5_1485236089203_file.png"
@@ -67,14 +67,14 @@ There are two broader trends to consider: technology has gotten cheaper and more
 
 But they haven’t been taught how to express and realize their own ideas. For one, industrialized models of education have focused on skill acquisition. Two, this is just a hard and messy thing to teach.
 
-**Christina:** A key part of our course is that we ask our graduate students to work in the real world, which is very different from the speculative work that’s more common in traditional design curriculums. Currently, we require our students to use the crowdfunding platform [Kickstarter](http://www.kickstarter.com) because it works well in the context of launching an idea in a semester-long course.
+**Chris:** A key part of our course is that we ask our graduate students to work in the real world, which is very different from the speculative work that’s more common in traditional design curriculums. Currently, we require our students to use the crowdfunding platform [Kickstarter](http://www.kickstarter.com) because it works well in the context of launching an idea in a semester-long course.
 
 **G:** Right, so instead of creating a PowerPoint of a great pitch idea or a prototype that no one actually uses, the students have to make a real thing and, in doing so, confront this question of whether it will actually work or not.
 
 
 **C:** I like to think we’re helping them acquire a type of muscle memory for doing real projects: only through practice do you get better at hitting the launch button despite the uncertainty of not knowing whether your project is good enough. No amount of thinking and speculation can fully prepare you for the real launch process, because unpredictable and indescribable problems are inevitable.
 
-<Quote2 cite="Christina">How a creator deals with these problems ultimately shapes how good the project can be.</Quote2>
+<Quote2 cite="Chris">How a creator deals with these problems ultimately shapes how good the project can be.</Quote2>
 
 If you are prepared to react to those problems and anticipate them ahead of time, that makes you a much more effective creator.
 
@@ -134,7 +134,7 @@ The course is intentionally designed to get the students to involve us (and othe
 
 **C:** Sometimes that can come off as a very transactional thing. But networks that are robust stay robust through use—you’re giving the network things it wants, but you’re also asking it for things you want. As long as exchanges are flowing through it, the network stays alive.
 
-<Quote2 cite="Christina">As long as exchanges are flowing through it, the network stays alive.</Quote2>
+<Quote2 cite="Chris">As long as exchanges are flowing through it, the network stays alive.</Quote2>
 
 **G:** Learning to understand that you have to cultivate this system alongside the creation of your thing is also part of the challenge. Creating the thing is hard enough as it is. Back to the idea of working in the real world, it’d be hard to practice cultivating a network if you were working on a fake project.
 
@@ -156,7 +156,7 @@ The course is intentionally designed to get the students to involve us (and othe
 
 Every single piece of advice I’ve given has been something that I sort of stashed away in my head because I’ve known it’s something I would need for myself in the future. That’s what keeps me going as a teacher. I’m constantly building up this library of both problems and solutions, and that has helped me be a better creator.
 
-<Quote2 cite="Christina">When it actually comes down to your own problem, you approach it in a way that’s somehow objectively just dumber.</Quote2>
+<Quote2 cite="Chris">When it actually comes down to your own problem, you approach it in a way that’s somehow objectively just dumber.</Quote2>
 
 **C:** Yeah, definitely. But it’s hard to take the advice. Even if you’re the one who gave it, even if you’ve given it to dozens of other people. When it actually comes down to your own problem, you approach it in a way that’s somehow objectively just dumber. It doesn’t make any sense.
 
@@ -203,7 +203,7 @@ Even if you’re a brilliant writer, editor, and producer who somehow also knows
 <ImageCaption
  url="/images/year5/s_42FD3C04B7B503C990C3619E269FBB0C18BDC250A471A52735CC280C239EE4C5_1486194625661_file.png">
 
- *Christina’s zine, a reward produced for her Kickstarter campaign “[Multi Entry](https://www.kickstarter.com/projects/christinaxu/multi-entry-telling-the-stories-of-young-creative/)”*
+ *Chris’s zine, a reward produced for her Kickstarter campaign “[Multi Entry](https://www.kickstarter.com/projects/christinaxu/multi-entry-telling-the-stories-of-young-creative/)”*
 
 </ImageCaption>
 
@@ -212,7 +212,7 @@ Even if you’re a brilliant writer, editor, and producer who somehow also knows
 
 **C:** There is a related thread here about developing a practice of momentum: how do you maintain weekly progress or make decisions when you’re stuck? How do you work through that cycle of doubt?
 
-<Quote2 cite="Christina">I’ve come to really appreciate the process of review as a weapon for getting past the cycle of doubt and uncertainty.</Quote2>
+<Quote2 cite="Chris">I’ve come to really appreciate the process of review as a weapon for getting past the cycle of doubt and uncertainty.</Quote2>
 
 If you can build in a regular practice of checking in with other people who don’t have a direct stake in what you’re doing, that can be a way forward. It both forces you to make decisions by the time that review happens, but also allows you to get fresh perspective, which is so important when you’re in a solitary creation process. It’s so easy to just fall down a pointless rabbit hole, like *how many pages is this thing going to be* or *what color is it going to be*? At some point, you hit decision fatigue as an individual creator. That’s when review can help.
 

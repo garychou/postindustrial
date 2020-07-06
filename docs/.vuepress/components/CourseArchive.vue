@@ -11,6 +11,17 @@
 
                <div class="bg-white-10">
 
+
+               <div class="db ml1 pb0 pb3-ns pr4">
+                 <span class="flex bb b--near-white f7 fw6 ttu db mt4 mb3 black-40">Syllabi</span>
+                 <div v-for="i in sets[1]" :key="i.syllabus" class="db mb1 f4 avenir lh-copy  ">
+                   <a class="dim link"  target="_blank" :href="i.syllabus">
+                     {{ i.program }}
+                   </a>
+                   <span class="black-40"> — {{ i.source }}</span>
+                 </div>
+               </div>
+
                  <div class="db ml1 pb0 pb3-ns pr4">
                    <span v-if="talks[sets[0]]" class="flex bb b--near-white f7 fw6 ttu db mv3 mt4-ns black-40">REFLECTIONS</span>
                    <div v-for="j in talks[sets[0]]" :key="j.url" class="mb3">
@@ -19,18 +30,6 @@
                    </div>
                  </div>
 
-                 <div class="db ml1 pb0 pb3-ns">
-
-                   <span class="flex bb b--near-white f7 fw6 ttu db mt4 mb3 black-40">Syllabi</span>
-                   <div v-for="i in sets[1]" :key="i.syllabus" class="db mb1 f4 avenir lh-copy  ">
-
-                     <a class="dim link"  target="_blank" :href="i.syllabus">
-                       {{ i.program }}
-                     </a>
-                     <span class="black-40"> — {{ i.source }}</span>
-
-                   </div>
-                 </div>
 
                    <span class="flex bb b--near-white f7 fw6 ttu db mt4 mb3 ml1 black-40">Thanks</span>
                    <div class="flex flex-row flex-wrap items-center mt2 mb4">

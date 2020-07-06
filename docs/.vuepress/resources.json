@@ -21,7 +21,7 @@
 		"2014": [{
 				"id": 3,
 				"program": "Entrepreneurial Design",
-				"instructors": "Christina Xu, Gary Chou, Leland Rechis",
+				"instructors": "Chris Xu, Gary Chou, Leland Rechis",
 				"year": 2014,
 				"syllabus": "https://docs.google.com/document/d/1LGtSpkTaS-keAJ4f6fwgHg78uftmBHK9Ebf87Ht9z6s/edit",
 				"source": "SVAIxD",
@@ -50,7 +50,7 @@
 			{
 				"id": 6,
 				"program": "Entrepreneurial Design",
-				"instructors": "Christina Xu, Gary Chou, Leland Rechis",
+				"instructors": "Chris Xu, Gary Chou, Leland Rechis",
 				"year": 2015,
 				"syllabus": "https://docs.google.com/document/d/1XsLaF6xTDx2_goKGdhRNbsZybkz0kQmP6EKEcuHnEes/preview",
 				"source": "SVAIxD",
@@ -59,7 +59,7 @@
 			{
 				"id": 7,
 				"program": "Orbital 1K",
-				"instructors": "Christina Xu, Gary Chou",
+				"instructors": "Chris Xu, Gary Chou",
 				"year": 2015,
 				"lessons": "doubling down on the 1K Project",
 				"syllabus": "https://orbital.nyc/1k/resources",
@@ -70,7 +70,7 @@
 		"2016": [{
 			"id": 8,
 			"program": "Entrepreneurial Design",
-			"instructors": "Christina Xu, Gary Chou",
+			"instructors": "Chris Xu, Gary Chou",
 			"year": 2016,
 			"lessons": "operationalizing",
 			"syllabus": "https://docs.google.com/document/d/1BSGdQO7RYg0n-zts1oIxt42Qj_FcMKheuJrnT-jb3Z0/",
@@ -81,7 +81,7 @@
 		"2017": [{
 			"id": 9,
 			"program": "Entrepreneurial Design",
-			"instructors": "Christina Xu, Gary Chou",
+			"instructors": "Chris Xu, Gary Chou",
 			"year": 2017,
 			"lessons": "improving administration",
 			"syllabus": "https://docs.google.com/document/d/1A7quYF3bb3vIAR4RI2lD7B1PlPVBdKlR6b7Kl9cBjx0/edit",
@@ -91,7 +91,7 @@
 		"2018": [{
 			"id": 10,
 			"program": "Entrepreneurial Design",
-			"instructors": "Christina Xu, Gary Chou",
+			"instructors": "Chris Xu, Gary Chou",
 			"year": 2018,
 			"lessons": "re-focus and re-design around  networks",
 			"syllabus": "https://docs.google.com/document/d/19Zlq4nQ5BgR-dkOKGqLua7fLkblcLksCNeHnJPkQlvQ/edit",
@@ -112,7 +112,7 @@
 			},
 			{
 			"url": "https://medium.com/@HowardGray/tickets-podcast-gary-chou-and-christina-xu-on-entrepreneurship-education-and-harnessing-the-power-e8673a16e5af",
-			"title": "Gary Chou and Christina Xu on entrepreneurship education and harnessing the power of networks",
+			"title": "Gary Chou and Chris Xu on entrepreneurship education and harnessing the power of networks",
 			"author": "Tickets Podcast, hosted by Howard Gray",
 			"year": "2019",
 			"featured": "1"
@@ -127,21 +127,21 @@
 		"2017": [{
 			"url": "https://twitter.com/ixdaEducation/status/827910558242451456",
 			"title": "2017 IxD Education Summit",
-			"author": "Christina Xu and Gary Chou",
+			"author": "Chris Xu and Gary Chou",
 			"year": "2017",
 			"featured": "0"
 		}],
 		"2016": [{
 			"url": "https://postindustrialdesign.school/year-5",
 			"title": "Year 5",
-			"author": "Christina Xu and Gary Chou; Edited by Liz Danzico, Introduction by Paul Ford",
+			"author": "Chris Xu and Gary Chou; Edited by Liz Danzico, Introduction by Paul Ford",
 			"year": "2016",
 			"featured": "0"
 		}],
 		"2015": [{
 				"url": "https://medium.com/chrysaora-weekly/signal-space-structure-designing-for-communities-of-interest-d09ad8454f57",
 				"title": "Signal, Space, Structure: Designing for Communities of Interest",
-				"author": "Christina Xu",
+				"author": "Chris Xu",
 				"year": "2015",
 				"featured": "1"
 			},
@@ -162,7 +162,7 @@
 			{
 				"url": "https://entrepreneurdesigners.tumblr.com/post/117117271768/just-like-last-year-the-students-spent-our",
 				"title": "Entrepreneurial Hurdles, Redux",
-				"author": "Christina Xu",
+				"author": "Chris Xu",
 				"year": "2015",
 				"featured": "0"
 			}
@@ -170,7 +170,7 @@
 		"2014": [{
 			"url": "https://entrepreneurdesigners.tumblr.com/post/84322083977/entrepreneurial-hurdles",
 			"title": "Entrepreneurial Hurdles",
-			"author": "Christina Xu",
+			"author": "Chris Xu",
 			"year": "2014",
 			"featured": "0"
 		}],
@@ -178,7 +178,7 @@
 			{
 			"url": "https://www.youtube.com/watch?v=Z2SI8RYCZkg",
 			"title": "It's Dangerous to Go Alone",
-			"author": "Christina Xu",
+			"author": "Chris Xu",
 			"year": "2013",
 			"featured": "1"
 			},

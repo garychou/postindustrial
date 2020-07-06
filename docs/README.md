@@ -1,7 +1,7 @@
 ---
 title: Post-Industrial Design School
 subtitle: An Experiential Learning Lab
-description: An experiential learning lab run by Christina Xu and Gary Chou
+description: An experiential learning lab run by Chris Xu and Gary Chou
 image: https://postindustrialdesign.school/images/year5/s_42FD3C04B7B503C990C3619E269FBB0C18BDC250A471A52735CC280C239EE4C5_1485269191543_file.png
 sidebar: false
 pageClass: homepage
@@ -33,7 +33,7 @@ meta:
 
 ::: slot welcome
 
-**Post-Industrial Design School** is an experiential learning lab run by Christina Xu and Gary Chou.
+**Post-Industrial Design School** is an experiential learning lab run by Chris Xu and Gary Chou.
 
 This website is an archive of their collective and independent explorations working with students, creators, and entrepreneurship educators at [Orbital](https://orbital.nyc) and School of Visual Arts [MFA in Interaction Design Program](http://interactiondesign.sva.edu) from 2012 through 2019.
 
@@ -75,8 +75,8 @@ We want to see more classrooms, training programs, and incubators teach these fu
 
 ::: slot about
 
-[Christina Xu](http://christinaxu.org/) ([@xuhulk](https://twitter.com/xuhulk)) has taught Entrepreneurial Design along with Gary Chou at SVA's MFA in Interaction Design program from 2014 through 2018. She works as a freelance ethnographic researcher studying internet culture and social behavior around technology in the US and China. Her past projects include Letters for Black Lives, Awesome Foundation, and ROFLCon.
+[Chris Xu](http://christinaxu.org/) ([@xuhulk](https://twitter.com/xuhulk)) has taught Entrepreneurial Design along with Gary Chou at SVA's MFA in Interaction Design program from 2014 through 2018. She works as a freelance ethnographic researcher studying internet culture and social behavior around technology in the US and China. Her past projects include Letters for Black Lives, Awesome Foundation, and ROFLCon.
 
-[Gary Chou](https://garychou.com/) ([@garychou](https://twitter.com/garychou)) is founder of Orbital, a studio for building networks.  In addition to co-teaching with Christina, he’s been an advisor to Venture for America and Austin Center for Design.  Previously he was General Manager at Union Square Ventures, a venture capital firm based in New York City.  He’s held senior product management roles at a number of early stage consumer and enterprise startups.
+[Gary Chou](https://garychou.com/) ([@garychou](https://twitter.com/garychou)) is founder of Orbital, a studio for building networks.  In addition to co-teaching with Chris, he’s been an advisor to Venture for America and Austin Center for Design.  Previously he was General Manager at Union Square Ventures, a venture capital firm based in New York City.  He’s held senior product management roles at a number of early stage consumer and enterprise startups.
 
 :::

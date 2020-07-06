@@ -16,11 +16,11 @@ meta:
 
 <ImageCaption
  url="/images/2018entdes_wide.jpg"
- alt="Christina and Gary with the 2018 Entrepreneurial Design class at School of Visual Arts MFA in Interaction Design Program."
+ alt="Chris and Gary with the 2018 Entrepreneurial Design class at School of Visual Arts MFA in Interaction Design Program."
  imagewidth="w-100"
  >
 
- *Christina and Gary, seated, with the 2018 Entrepreneurial Design class at School of Visual Arts [MFA in Interaction Design Program](http://interactiondesign.sva.edu).*
+ *Chris and Gary, seated, with the 2018 Entrepreneurial Design class at School of Visual Arts [MFA in Interaction Design Program](http://interactiondesign.sva.edu).*
 
 </ImageCaption>
 
